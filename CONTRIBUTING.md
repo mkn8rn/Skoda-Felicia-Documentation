@@ -72,6 +72,29 @@ indexes; there is no general Parts page. The compatible-parts index must not mir
 factory system/component catalogue. It leads to subjects such as **AEF engine
 replacement**, where compatibility requirements precede an index of alternatives.
 
+## Model articles
+
+Every officially distinct Felicia model has its own substantive page under
+`public/models/`. The model index links to these pages and separates models by
+their evidenced body/chassis and engine configurations, with official production
+revisions, markets, trims, and special editions where relevant. An engine-family
+list is not a model list. Do not generate hypothetical engine/body combinations
+or give every optional accessory a separate model identity.
+
+Use the official designation in the title and identify the model in the lead.
+Record its evidenced body/chassis type, engine code, output and fuel system,
+production applicability, market, and other identifiers that distinguish it
+from related models. Explain official aliases and code changes without inventing
+extra models. Distinct factory variants need distinct pages; aliases for the
+same model do not. Cite each classification and configuration precisely.
+
+Keep component details in their canonical parts articles and link to them from
+each applicable model. Model pages may state the configuration needed to identify
+the car, but must not create copies of engine or other component articles.
+Use the normal article layout and retain meaningful identification anchors.
+Keep research gaps and coverage status in README.md, with no empty model-page
+banners or contributor commentary in the wiki.
+
 ## Replacement requirements
 
 Use a descriptive filename such as `parts/aef-engine-replacement.html`. Describe
