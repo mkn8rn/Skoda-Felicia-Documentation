@@ -12,6 +12,9 @@ import subprocess
 import sys
 from urllib.parse import unquote, urlsplit
 
+sys.dont_write_bytecode = True
+from sync_layout import TEMPLATE_FIELDS, decode_templates, render_page
+
 ROOT = Path(__file__).resolve().parents[1]
 PRIVATE_PREFIXES = ("docs/internal/", "internal-docs/")
 SOURCE_EXTENSIONS = {".pdf", ".epub", ".djvu", ".djv", ".zip", ".rar", ".7z", ".cbz", ".cbr"}
@@ -166,6 +169,20 @@ def main():
             elif path.is_file():
                 files[path.relative_to(ROOT).as_posix()] = path.read_bytes()
 
+        for template_path in TEMPLATE_FIELDS:
+            source = ROOT / template_path
+            files.pop(template_path, None)
+            if source.is_symlink():
+                errors.append(f"Shared template symlink is not permitted: {template_path}")
+            elif source.is_file():
+                files[template_path] = source.read_bytes()
+
+    templates = None
+    try:
+        templates = decode_templates(files)
+    except ValueError as error:
+        errors.append(str(error))
+
     articles = {}
     for path, data in files.items():
         if not path.startswith("public/"):
@@ -193,6 +210,12 @@ def main():
         article.feed(text)
         article.finish()
         articles[path] = article
+        if templates is not None:
+            try:
+                if render_page(path, text, templates) != text:
+                    errors.append(f"{path}: shared layout differs; run scripts/sync_layout.py")
+            except ValueError as error:
+                errors.append(str(error))
 
     part_titles = {}
     for path, article in articles.items():

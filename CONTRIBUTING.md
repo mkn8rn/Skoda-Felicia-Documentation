@@ -2,8 +2,8 @@
 
 Write an encyclopedia reference, with neutral prose, descriptive article titles,
 ordinary headings, numbered citations, and useful cross-links. Keep the public
-guide in HTML and CSS. There is no framework, generated content system, or build
-step. Edit the HTML files directly and reuse `public/style.css`.
+guide in HTML and CSS. There is no framework, JavaScript, or deployment build
+step. Edit article content directly in the HTML files and reuse `public/style.css`.
 
 ## Hard rule: car information only
 
@@ -153,10 +153,22 @@ filename stable when another compatible Felicia version is documented.
 
 ## Article layout
 
-Copy the document shell, navigation, and footer from an existing article at the
-same directory depth. Update its title, description, relative links, and the
-navigation link marked `aria-current="page"`; a new article need not mark a
-category-index link as the current page.
+The shared document shell, header, main navigation and footer have one maintained
+source each: `templates/page.html`, `templates/header.html`,
+`templates/navigation.html` and `templates/footer.html`. Change those templates
+instead of editing their copies in individual pages.
+
+For a new article, copy an existing page and replace its title, description and
+article content, including article-relative links. Then run
+`python3 scripts/sync_layout.py`. The command preserves the page's metadata and
+main content while synchronizing the shared layout, relative navigation links
+and `aria-current="page"` on the actual current navigation destination. It also
+handles the error page's root-relative links. Commit the resulting static HTML;
+the site serves directly from `public/` and works offline without a build.
+
+Run `python3 scripts/sync_layout.py --check` to check for layout drift without
+writing files. Repository validation also compares every page with the templates
+from the snapshot being checked, including staged and committed versions.
 
 Use this order, omitting sections that have no content:
 
