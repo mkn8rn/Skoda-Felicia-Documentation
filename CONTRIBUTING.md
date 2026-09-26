@@ -211,6 +211,11 @@ The hosting error page, `public/404.html`, uses root-relative links so its
 stylesheet and navigation work when it is served at a missing address of any
 depth. Keep article links relative for local-file use. Keep hosting instructions
 in README.md and deployment configuration outside the public document root.
+The sole exception is `public/_headers`: Cloudflare Pages consumes this file
+as response configuration and does not serve it as an asset. Preserve its
+`no-transform` rule so the host does not inject scripts or rewrite contact links.
+The validator permits only the existing Cache-Control rule in this file;
+all served site assets remain HTML or CSS.
 
 ## Copyright and private sources
 

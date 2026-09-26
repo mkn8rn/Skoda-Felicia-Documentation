@@ -170,6 +170,13 @@ def main():
     for path, data in files.items():
         if not path.startswith("public/"):
             continue
+        if path == "public/_headers":
+            # Pages consumes this configuration rather than serving an asset.
+            # Keep the exception restricted to the one static-response rule.
+            expected = b"/*\n  Cache-Control: public, max-age=0, must-revalidate, no-transform\n"
+            if data != expected:
+                errors.append("public/_headers: expected only the no-transform Cache-Control rule")
+            continue
         if PurePosixPath(path).suffix not in {".html", ".css"}:
             errors.append(f"Public site accepts HTML/CSS only: {path}")
             continue

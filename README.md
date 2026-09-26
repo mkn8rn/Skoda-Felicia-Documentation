@@ -5,6 +5,8 @@ Its scope is all Felicia information: history and production, models and
 identification, parts, repairs, maintenance, everyday use, documented upgrades,
 and manufacturing and component details.
 
+Read the [live guide](https://skoda-felicia-documentation.mkn8rn.com/).
+
 **Hard rule: the knowledge lives in this repository.** Articles preserve verified
 information in original, compact, standard technical English. They must remain
 usable if every cited website disappears. External sources provide evidence;
@@ -123,6 +125,14 @@ Only `public/` is published. Never change the output directory to the repository
 root, `docs/`, or `docs/internal/`. `public/404.html` provides an error page for
 missing paths instead of Cloudflare's default single-page application fallback.
 
+`public/_headers` adds `Cache-Control: no-transform` to static responses, retaining
+the default browser revalidation directives. This prevents Cloudflare from
+rewriting the contact link or injecting email-decoding and JavaScript-detection
+scripts. Pages consumes this configuration file without serving it as an asset;
+the guide remains HTML and CSS only. The repository validator permits only this
+specific response-header rule. Keep automatic Web Analytics and other script
+injection features disabled if they are configured separately in the account.
+
 After deployment, check the main page, Original parts, Compatible parts, and AEF
 engine replacement; check a nonexistent address and `/docs/internal/` return
 HTTP 404. Project setup and account authorisation happen in Cloudflare, not in
@@ -132,6 +142,9 @@ References: [Cloudflare static HTML deployment](https://developers.cloudflare.co
 [Pages configuration](https://developers.cloudflare.com/pages/functions/wrangler-configuration/),
 [build image](https://developers.cloudflare.com/pages/configuration/build-image/),
 and [serving and 404 behaviour](https://developers.cloudflare.com/pages/configuration/serving-pages/).
+Response configuration: [Pages headers](https://developers.cloudflare.com/pages/configuration/headers/),
+[Email Address Obfuscation](https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/),
+and [JavaScript Detections](https://developers.cloudflare.com/cloudflare-challenges/challenge-types/javascript-detections/).
 
 ## Private references
 
