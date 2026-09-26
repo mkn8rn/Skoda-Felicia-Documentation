@@ -76,10 +76,12 @@ replacement**, where compatibility requirements precede an index of alternatives
 
 Every officially distinct Felicia model has its own substantive page under
 `public/models/`. The model index links to these pages and separates models by
-their evidenced body/chassis and engine configurations, with official production
-revisions, markets, trims, and special editions where relevant. An engine-family
-list is not a model list. Do not generate hypothetical engine/body combinations
-or give every optional accessory a separate model identity.
+their evidenced body/chassis, engine, fuel-system, equipment, and market
+configurations, with official production revisions, trims, and special editions
+where relevant. Distinct fitted safety equipment, including airbag
+configurations, is a model distinction when factory records establish the
+configuration. An engine-family list is not a model list. Do not generate
+hypothetical combinations of bodies, engines, equipment, or markets.
 
 Use the official designation in the title and identify the model in the lead.
 Record its evidenced body/chassis type, engine code, output and fuel system,
