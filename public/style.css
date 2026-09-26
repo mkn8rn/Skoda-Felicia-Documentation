@@ -43,8 +43,6 @@ h3 { font-size: 1.15rem; line-height: 1.4; margin: 1.3rem 0 .4rem; }
 p { margin: .6rem 0 1rem; }
 ul, ol { padding-left: 1.7rem; }
 li { margin: .25rem 0; }
-.hatnote { font-size: .9rem; color: var(--muted); font-style: italic; }
-.stub-note { border-left: 3px solid var(--line); background: var(--surface); padding: .65rem 1rem; font-size: .9rem; }
 .toc { display: table; max-width: 100%; margin: 1.25rem 0; padding: .7rem 1.1rem; border: 1px solid var(--line); background: var(--surface); font-size: .9rem; }
 .toc h2 { font: bold .95rem Arial, Helvetica, sans-serif; border: 0; margin: 0; padding: 0; text-align: center; }
 .toc ol { margin: .4rem 0 0; }

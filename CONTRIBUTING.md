@@ -5,6 +5,23 @@ ordinary headings, numbered citations, and useful cross-links. Keep the public
 guide in HTML and CSS. There is no framework, generated content system, or build
 step. Edit the HTML files directly and reuse `public/style.css`.
 
+## Hard rule: car information only
+
+Every contributor and agent must keep the public wiki about the Felicia.
+Do not put process information, repository status, progress reports, research
+backlogs, missing-article banners, editing instructions, personal commentary,
+or future-work promises in articles or indexes. Do not add public pages about
+project policy or development status. Article prose describes the car, rather
+than how its documentation is organised or what its contributors plan to do.
+
+Put editing rules and workflow here or in AGENTS.md. Put project scope,
+documentation status, and outstanding research in README.md. Keep technical
+qualifications, conflicting source claims, applicability, and citations when
+they explain the car information itself. Bibliographies describe relevant
+sources; they must not contain contributor checklists or research diaries.
+Standard navigation and licence/contact notices may remain outside articles.
+Review every public change for compliance with this rule before committing.
+
 ## Hard rule: self-contained knowledge
 
 The repository is the one-stop reference for ALL Felicia information. Its
@@ -18,14 +35,15 @@ reproduce their tables, photographs, or diagrams.
 A technical article must contain the facts and explanations it claims to cover.
 A repair article must contain its applicable instructions, prerequisites,
 specifications, and checks, rather than directing the reader to a manual.
-An index links to internal articles. Unwritten subjects remain clearly labelled
-gaps. A supplier or manual link does not count as documentation of a component.
+An index links to internal articles. Record coverage gaps in README.md, without
+status labels in the wiki. A supplier or manual link does not count as
+documentation of a component.
 Place external technical links in references; the source bibliography may
 describe source coverage and access without becoming the reader's learning path.
 
 Before publication, read the article with all external links unavailable. If an
 explanation, dimension, identification condition, or required step is only on a
-cited site, the article is incomplete. Record exactly what remains unknown;
+cited site, the article is incomplete. Record outstanding research in README.md;
 never fill it with an assumption or imply that a citation resolves the gap.
 
 ## Subjects and paths
@@ -44,7 +62,8 @@ never fill it with an assumption or imply that a citation resolves the gap.
 Each subject except parts uses `index.html` as its category index. Add substantive
 articles as descriptive lowercase filenames, such as `parts/oil-filter.html` or
 `repairs/oil-filter-replacement.html`. Do not create an empty article for every
-possible subject: list unwritten subjects as plain text in their category index.
+possible subject: use plain subject names in category indexes until there is a
+substantive article to link. Do not label them with publication or work status.
 
 `public/parts/original.html` indexes original equipment and factory service
 replacements, organised by vehicle system. `public/parts/compatible.html`
@@ -100,8 +119,9 @@ Use this order, omitting sections that have no content:
 
 Use tables for comparable specifications or part applications, with a caption,
 column headings, and row headings. Include units and source citations. Use
-ordered lists for an actual procedure. Label stubs explicitly; distinguish
-missing evidence from evidence that a feature is absent.
+ordered lists for an actual procedure. Do not add stub banners or lists of
+unwritten content. Do not mistake missing evidence for evidence that a feature
+is absent; preserve qualifications needed to understand a technical claim.
 
 ## Citations and evidence
 

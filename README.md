@@ -11,10 +11,6 @@ usable if every cited website disappears. External sources provide evidence;
 links to them never stand in for technical content. Do not copy or directly
 quote source text or reproduce protected tables, photographs, or diagrams.
 
-The initial edition contains subject and parts indexes, a technical overview of
-the production engines, and a separate source bibliography. Most component,
-repair, and historical articles remain unwritten; gaps are explicitly labelled.
-No manuals or source diagrams are reproduced.
 Each part has one shared article across every model that uses it; model and
 repair pages link to that article rather than duplicating it.
 The [Original parts](public/parts/original.html) and
@@ -27,6 +23,34 @@ Start at [the main page](public/index.html), [Original parts](public/parts/origi
 [Compatible parts](public/parts/compatible.html), or [engines](public/parts/engine.html).
 Diagram sources are cited on the component article they support; there is no
 separate diagram or catalogue index.
+
+**Hard rule: the wiki contains car information only.** All agents and contributors
+must keep process information, repository status, progress reports, editing
+instructions, personal commentary, and future-work promises out of public
+articles and indexes. Process belongs in AGENTS.md and CONTRIBUTING.md;
+documentation status and outstanding research belong here. Technical
+qualifications and source citations remain with the car information they explain.
+
+## Documentation status and outstanding research
+
+The site currently contains subject and parts indexes, a technical overview of
+the production engines, and a source bibliography. Individual component,
+compatibility, historical, repair, maintenance, ownership, and upgrade articles
+remain to be researched and written. No manuals or source diagrams are reproduced.
+
+Outstanding parts research includes original identifiers, factory supersessions,
+assembly identification, and exact body, engine, gearbox, production/VIN,
+market, steering-side, and equipment applications. Compatible parts need
+verified product identities, donor applications, and installation conditions.
+
+The engine overview does not yet cover complete variant/output mappings,
+component numbers, engineering drawings, material grades, manufacturing
+tolerances, surface finishes, lubrication and cooling specifications, injection
+and ignition systems, ECU circuitry, assembly sequences, fastening specifications,
+or diagnostic and overhaul procedures. History requires substantiated factory,
+series, and annual production records, with defined counting methods.
+Repair and maintenance instructions, operating guidance, and upgrade case
+studies need their own verified technical content and precise source citations.
 
 ## Reading locally
 
