@@ -17,6 +17,8 @@ PRIVATE_PREFIXES = ("docs/internal/", "internal-docs/")
 SOURCE_EXTENSIONS = {".pdf", ".epub", ".djvu", ".djv", ".zip", ".rar", ".7z", ".cbz", ".cbr"}
 SOURCE_SIGNATURES = (b"%PDF-", b"PK\x03\x04", b"Rar!", b"7z\xbc\xaf\x27\x1c", b"AT&TFORM")
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
+PROJECT_URL = "https://github.com/mkn8rn/Skoda-Felicia-Documentation"
+PROJECT_LINKS = {PROJECT_URL} | {f"{PROJECT_URL}/blob/main/{name}" for name in ("LICENSE", "NOTICE", "CONTRIBUTING.md")}
 
 
 def git(*args):
@@ -45,6 +47,8 @@ class Article(HTMLParser):
         self.h1_count = self.main_count = self.title_count = 0
         self.h1_text = []
         self.language = self.viewport = self.charset = self.doctype = False
+        self.reference_depth = None
+        self.bibliography = path.startswith("public/sources/")
 
     def error(self, message):
         self.errors.append(f"{self.path}: {message}")
@@ -56,6 +60,8 @@ class Article(HTMLParser):
         attrs = dict(attributes)
         if tag not in VOID:
             self.stack.append(tag)
+        if tag == "ol" and "references" in attrs.get("class", "").split():
+            self.reference_depth = len(self.stack)
         if "id" in attrs:
             if attrs["id"] in self.ids:
                 self.error(f"duplicate ID: {attrs['id']}")
@@ -77,6 +83,11 @@ class Article(HTMLParser):
                 self.error("anchor without a destination")
             else:
                 self.links.append(attrs["href"])
+                destination = urlsplit(attrs["href"])
+                if ("article" in self.stack and destination.scheme in {"http", "https"}
+                        and not self.bibliography and self.reference_depth is None
+                        and attrs["href"] not in PROJECT_LINKS):
+                    self.error(f"external technical link must be in References; document the information here: {attrs['href']}")
         if tag == "link":
             self.links.append(attrs.get("href", ""))
 
@@ -89,6 +100,8 @@ class Article(HTMLParser):
         if not self.stack or self.stack[-1] != tag:
             self.error(f"unmatched closing tag: {tag}")
         else:
+            if len(self.stack) == self.reference_depth:
+                self.reference_depth = None
             self.stack.pop()
 
     def handle_data(self, data):
@@ -213,7 +226,7 @@ def main():
         for error in dict.fromkeys(errors):
             print(f"- {error}", file=sys.stderr)
         return 1
-    print(f"Validated {len(articles)} HTML pages, internal links and source-document boundaries" + ("; reachable history checked." if args.history else "."))
+    print(f"Validated {len(articles)} HTML pages, internal links, citation placement and source-document boundaries" + ("; reachable history checked." if args.history else "."))
     return 0
 
 

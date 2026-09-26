@@ -5,13 +5,36 @@ ordinary headings, numbered citations, and useful cross-links. Keep the public
 guide in HTML and CSS. There is no framework, generated content system, or build
 step. Edit the HTML files directly and reuse `public/style.css`.
 
+## Hard rule: self-contained knowledge
+
+The repository is the one-stop reference for ALL Felicia information. Its
+technical content must remain usable if every source website disappears.
+Document verified information here in compact, standard technical English.
+Use original prose, precise quantities with units, and locally recorded
+application conditions. Sources provide evidence; they do not supply missing
+content on behalf of this guide. Do not copy or directly quote their text or
+reproduce their tables, photographs, or diagrams.
+
+A technical article must contain the facts and explanations it claims to cover.
+A repair article must contain its applicable instructions, prerequisites,
+specifications, and checks, rather than directing the reader to a manual.
+An index links to internal articles. Unwritten subjects remain clearly labelled
+gaps. A supplier or manual link does not count as documentation of a component.
+Place external technical links in references; the source bibliography may
+describe source coverage and access without becoming the reader's learning path.
+
+Before publication, read the article with all external links unavailable. If an
+explanation, dimension, identification condition, or required step is only on a
+cited site, the article is incomplete. Record exactly what remains unknown;
+never fill it with an assumption or imply that a citation resolves the gap.
+
 ## Subjects and paths
 
 | Directory | Subject |
 | --- | --- |
 | `public/history/` | Development, factories, production, exports, and historical context |
 | `public/models/` | Body styles, engines, transmissions, editions, and identification |
-| `public/parts/` | Components, assemblies, part numbers, compatibility, and catalogue links |
+| `public/parts/` | Components, assemblies, part numbers, and compatibility |
 | `public/repairs/` | Fault finding, repairs, electrical diagnosis, and restoration |
 | `public/maintenance/` | Scheduled service, inspections, adjustments, and preservation |
 | `public/ownership/` | Operating controls, daily use, loading, seasons, and ownership records |
@@ -23,9 +46,16 @@ descriptive lowercase filenames, such as `parts/oil-filter.html` or
 `repairs/oil-filter-replacement.html`. Do not create an empty article for every
 possible subject: list unwritten subjects as plain text in their category index.
 
-The directory of catalogue and diagram resources is
-`public/parts/catalogues.html`. Its named anchors identify resource descriptions,
-for example `#asmet` and `#skoda-parts`.
+`public/parts/original.html` indexes original equipment and factory service
+replacements. `public/parts/compatible.html` indexes evidenced alternatives and
+interchanges. Both link to the same canonical component articles; classification
+does not create a second copy of an article. An unverified fit is not an entry.
+
+Do not create a dedicated catalogue or diagram index. Each component article
+cites relevant diagram sources in its own References section, identifying the
+assembly, item, and applicability. Preserve the actual technical explanation
+and verified facts in the article; a source diagram must not supply its missing
+content.
 
 ## One article per part
 
@@ -64,7 +94,7 @@ Use this order, omitting sections that have no content:
 4. Descriptive `h2` sections and, where needed, `h3` subsections.
 5. **See also** for related internal articles.
 6. **References** for the sources supporting statements in the article.
-7. **External links** for additional resources not cited as evidence.
+7. Optional links to internal source descriptions for further research.
 
 Use tables for comparable specifications or part applications, with a caption,
 column headings, and row headings. Include units and source citations. Use
@@ -92,7 +122,8 @@ Prefer primary records and identified technical publications. Attribute retailer
 application claims and owner reports. Do not treat several sites repeating the
 same catalogue data as independent confirmation. Preserve conflicts with
 attribution until evidence resolves them. The bibliography is a directory of
-sources, not a substitute for citations next to technical claims.
+sources, not a substitute for citations next to technical claims or for the
+actual technical information in an article.
 
 Part articles distinguish an OE/OEM number, supplier stock code, manufacturer
 number, and diagram callout. Keep revision suffixes and cite application limits,
@@ -116,9 +147,9 @@ and maintenance articles to the component article and its category index. Until 
 component article exists, use a system anchor, such as
 `../parts/index.html#fuel-and-exhaust`.
 
-Link a resource description with `../parts/catalogues.html#asmet`, and separately
-cite the exact external assembly/application entry supporting the claim. Record
-its model selection, diagram number/title, item callout, and applicable notes.
+In the component article's References, cite the exact external assembly or
+application entry supporting the claim. Record its model selection, diagram
+number/title, item callout, and applicable notes.
 Use a provider's model selector as an alternative when its deep link requires a
 session. If a system grows into its own article, retain the original index anchor
 and replace its summary with a link to the new article.
@@ -135,7 +166,7 @@ closely paraphrase a manual's prose, procedures, photographs, or diagrams. Do no
 copy catalogue tables, scans, website screenshots, or bulk data. Facts may be
 described in original words with a precise citation; retain the source's scope.
 Do not assume that purchase, attribution, or a publicly readable webpage grants
-republication rights. The current index uses no source quotations.
+republication rights. Direct source quotations are not permitted in this guide.
 
 Keep purchased publications and all protected extracts, OCR, working notes,
 screenshots, and scans **only in `docs/internal/`**. This directory is ignored by
@@ -145,8 +176,9 @@ Public bibliographic entries may link to the publisher and state access limits.
 
 The owner's locally preserved Haynes manual is a private reference. Cite the
 actual edition and locator when consulting it; do not reuse its text or diagrams.
-The public Haynes entry currently describes the publisher's digital-edition
-listing and does not assert that it is the same edition as the local copy.
+The bibliography identifies the consulted copy by its manual number, ISBN, and
+title-page copyright year, separately from the publisher's current digital
+listing. Do not transfer an edition's scope or page numbering to another edition.
 
 ## Before committing and pushing
 
@@ -158,7 +190,8 @@ identifies the ignore rule for private files. Do not use `git add .`, `git add -
 `git add -f`, or skip hooks in this repository.
 
 The validator checks internal files and anchors, duplicate part-article titles,
-basic HTML structure, absence of scripts and embedded external material,
+basic HTML structure, placement of external technical links only in references
+or source bibliographies, absence of scripts and embedded external material,
 protected paths, source-document file types, and source-document signatures.
 The commit check reads the staged version,
 not an unstaged revision. The push check additionally inspects reachable history.

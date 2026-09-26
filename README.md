@@ -1,17 +1,29 @@
 # Škoda Felicia Documentation
 
 An independent, open-source reference for the 1994–2001 Škoda Felicia range.
-The guide covers history and production, models and identification, parts,
-repairs, maintenance, everyday use, and documented upgrades.
+Its scope is all Felicia information: history and production, models and
+identification, parts, repairs, maintenance, everyday use, documented upgrades,
+and manufacturing and component details.
 
-The initial edition contains a parts-system index, an annotated index of
-external parts catalogues and diagrams, and subject indexes for future articles.
-Unwritten subjects are labelled as stubs. No manuals or diagrams are reproduced.
+**Hard rule: the knowledge lives in this repository.** Articles preserve verified
+information in original, compact, standard technical English. They must remain
+usable if every cited website disappears. External sources provide evidence;
+links to them never stand in for technical content. Do not copy or directly
+quote source text or reproduce protected tables, photographs, or diagrams.
+
+The initial edition contains subject and parts indexes, a technical overview of
+the production engines, and a separate source bibliography. Most component,
+repair, and historical articles remain unwritten; gaps are explicitly labelled.
+No manuals or source diagrams are reproduced.
 Each part has one shared article across every model that uses it; model and
 repair pages link to that article rather than duplicating it.
+The [Original parts](public/parts/original.html) and
+[Compatible parts](public/parts/compatible.html) indexes classify those links
+separately, without creating duplicate component pages.
 
 Start at [the main page](public/index.html), [parts](public/parts/index.html),
-or [parts catalogues and diagrams](public/parts/catalogues.html).
+or [engines](public/parts/engine.html). Diagram sources are cited on the component
+article they support; there is no separate diagram or catalogue index.
 
 ## Reading locally
 
@@ -22,7 +34,8 @@ python3 -m http.server 8000 --directory public --bind 127.0.0.1
 ```
 
 Then visit <http://127.0.0.1:8000/>. The site is plain HTML and CSS, with no
-JavaScript, external fonts, dependencies, or build step. Never serve the
+JavaScript, external fonts, dependencies, or build step. The screen theme is dark;
+print pages use dark text on white paper. Never serve the
 repository root: private reference material lives outside `public/`.
 
 ## Editing
@@ -42,9 +55,11 @@ Check the site before committing:
 python3 scripts/check_repository.py
 ```
 
-The commit hook checks the staged tree, and the push hook also checks reachable
-history for private paths and source-document files. These checks supplement
-manual review; they cannot determine whether prose was copied from a source.
+The commit hook checks the staged tree, including internal links and placement
+of external technical links in references or source bibliographies. The push
+hook also checks reachable history for private paths and source-document files.
+These checks supplement manual review; they cannot determine whether prose was
+copied or whether an article contains all the information it claims to cover.
 
 ## Private references
 
