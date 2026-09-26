@@ -97,6 +97,42 @@ hook also checks reachable history for private paths and source-document files.
 These checks supplement manual review; they cannot determine whether prose was
 copied or whether an article contains all the information it claims to cover.
 
+## Cloudflare Pages
+
+In [Workers & Pages](https://dash.cloudflare.com/?to=/:account/workers-and-pages),
+create a **Pages** project and import the existing GitHub repository
+`mkn8rn/Skoda-Felicia-Documentation`. Authorise access to this repository and use:
+
+| Setting | Value |
+| --- | --- |
+| Project name | `skoda-felicia-documentation` |
+| Production branch | `main` |
+| Framework preset | None |
+| Root directory | Repository root; leave blank |
+| Build command | `python3 scripts/check_repository.py --history` |
+| Build output directory | `public` |
+
+The build command validates the committed site and available Git history; it
+does not generate the HTML. `wrangler.toml` records the same public asset
+directory. No environment variables, framework, or package installation are
+required. Use Cloudflare's current build image, which includes Python.
+
+Select **Save and Deploy**. Git integration deploys production changes pushed
+to `main`; Cloudflare supplies the live `pages.dev` address after deployment.
+Only `public/` is published. Never change the output directory to the repository
+root, `docs/`, or `docs/internal/`. `public/404.html` provides an error page for
+missing paths instead of Cloudflare's default single-page application fallback.
+
+After deployment, check the main page, Original parts, Compatible parts, and AEF
+engine replacement; check a nonexistent address and `/docs/internal/` return
+HTTP 404. Project setup and account authorisation happen in Cloudflare, not in
+this configuration file.
+
+References: [Cloudflare static HTML deployment](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/),
+[Pages configuration](https://developers.cloudflare.com/pages/functions/wrangler-configuration/),
+[build image](https://developers.cloudflare.com/pages/configuration/build-image/),
+and [serving and 404 behaviour](https://developers.cloudflare.com/pages/configuration/serving-pages/).
+
 ## Private references
 
 Purchased publications, including the owner's Haynes manual, belong exclusively

@@ -204,13 +204,20 @@ def main():
             if destination.netloc:
                 errors.append(f"{path}: use an explicit HTTPS external link: {href}")
                 continue
-            target = (PurePosixPath(path).parent / unquote(destination.path)) if destination.path else PurePosixPath(path)
+            local_path = unquote(destination.path)
+            if local_path.startswith("/"):
+                target = PurePosixPath("public") / local_path.lstrip("/")
+            else:
+                target = (PurePosixPath(path).parent / local_path) if local_path else PurePosixPath(path)
             # Resolve dot segments without opening or following the target.
             parts = []
             for component in target.parts:
                 if component == "..":
-                    if parts:
+                    if len(parts) > 1:
                         parts.pop()
+                    else:
+                        parts = []
+                        break
                 elif component != ".":
                     parts.append(component)
             target = "/".join(parts)

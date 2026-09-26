@@ -207,6 +207,11 @@ from a local file, a static server, and a deployment under a URL subdirectory.
 External sources are ordinary links, never embedded images, iframes, or downloads
 stored in this repository.
 
+The hosting error page, `public/404.html`, uses root-relative links so its
+stylesheet and navigation work when it is served at a missing address of any
+depth. Keep article links relative for local-file use. Keep hosting instructions
+in README.md and deployment configuration outside the public document root.
+
 ## Copyright and private sources
 
 Public articles contain original descriptions and links. Do not reproduce or
