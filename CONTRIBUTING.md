@@ -14,10 +14,10 @@ or future-work promises in articles or indexes. Do not add public pages about
 project policy or development status. Article prose describes the car, rather
 than how its documentation is organised or what its contributors plan to do.
 
-Put editing rules and workflow here or in AGENTS.md. Put project scope,
-documentation status, and outstanding research in README.md. Keep technical
-qualifications, conflicting source claims, applicability, and citations when
-they explain the car information itself. Bibliographies describe relevant
+Put editing rules and workflow here or in AGENTS.md. Put project scope in
+README.md, and documentation status and outstanding research in COVERAGE.md.
+Keep technical qualifications, conflicting source claims, applicability, and
+citations when they explain the car information itself. Bibliographies describe relevant
 sources; they must not contain contributor checklists or research diaries.
 Standard navigation and licence/contact notices may remain outside articles.
 Review every public change for compliance with this rule before committing.
@@ -35,7 +35,7 @@ reproduce their tables, photographs, or diagrams.
 A technical article must contain the facts and explanations it claims to cover.
 A repair article must contain its applicable instructions, prerequisites,
 specifications, and checks, rather than directing the reader to a manual.
-An index links to internal articles. Record coverage gaps in README.md, without
+An index links to internal articles. Record coverage gaps in COVERAGE.md, without
 status labels in the wiki. A supplier or manual link does not count as
 documentation of a component.
 Place external technical links in references; the source bibliography may
@@ -43,7 +43,7 @@ describe source coverage and access without becoming the reader's learning path.
 
 Before publication, read the article with all external links unavailable. If an
 explanation, dimension, identification condition, or required step is only on a
-cited site, the article is incomplete. Record outstanding research in README.md;
+cited site, the article is incomplete. Record outstanding research in COVERAGE.md;
 never fill it with an assumption or imply that a citation resolves the gap.
 
 ## Subjects and paths
@@ -92,7 +92,7 @@ Keep component details in their canonical parts articles and link to them from
 each applicable model. Model pages may state the configuration needed to identify
 the car, but must not create copies of engine or other component articles.
 Use the normal article layout and retain meaningful identification anchors.
-Keep research gaps and coverage status in README.md, with no empty model-page
+Keep research gaps and coverage status in COVERAGE.md, with no empty model-page
 banners or contributor commentary in the wiki.
 
 ## Replacement requirements

@@ -7,61 +7,13 @@ and manufacturing and component details.
 
 Read the [live guide](https://skoda-felicia-documentation.mkn8rn.com/).
 
-**Hard rule: the knowledge lives in this repository.** Articles preserve verified
-information in original, compact, standard technical English. They must remain
-usable if every cited website disappears. External sources provide evidence;
-links to them never stand in for technical content. Do not copy or directly
-quote source text or reproduce protected tables, photographs, or diagrams.
-
-Each part has one shared article across every model that uses it; model and
-repair pages link to that article rather than duplicating it.
-The [Original parts](public/parts/original.html) and
-[Compatible parts](public/parts/compatible.html) indexes have different roles.
-Original parts contains the factory vehicle-system and component index.
-Compatible parts leads to articles about replacement requirements: each describes
-interfaces and operating requirements before indexing confirmed replacements,
-candidates, and conversions. Those entries link to the same canonical component
-pages. There is no third, general Parts page.
-
 Start at [the main page](public/index.html), [Original parts](public/parts/original.html),
 [Compatible parts](public/parts/compatible.html), or [engines](public/parts/engine.html).
-Diagram sources are cited on the component article they support; there is no
-separate diagram or catalogue index.
 
-**Hard rule: the wiki contains car information only.** All agents and contributors
-must keep process information, repository status, progress reports, editing
-instructions, personal commentary, and future-work promises out of public
-articles and indexes. Process belongs in AGENTS.md and CONTRIBUTING.md;
-documentation status and outstanding research belong here. Technical
-qualifications and source citations remain with the car information they explain.
-
-## Documentation status and outstanding research
-
-The site currently contains subject and parts indexes, a technical overview of
-the production engines, an [AEF engine replacement](public/parts/aef-engine-replacement.html)
-requirements article, and a source bibliography. The AEF article distinguishes
-the Felicia-specification reconditioned-engine replacement route from Polo AEF
-candidates; it does not establish a complete cross-vehicle engine interchange.
-Other component, compatibility, historical, repair, maintenance, ownership, and
-upgrade articles remain to be researched and written. No manuals or source
-diagrams are reproduced.
-
-Outstanding parts research includes original identifiers, factory supersessions,
-assembly identification, and exact body, engine, gearbox, production/VIN,
-market, steering-side, and equipment applications. Compatible parts need
-verified product identities, donor applications, and installation conditions.
-AEF candidates require measured mounting and transmission interfaces, ancillary
-and control-system comparisons, and evidence for the exact recipient and donor
-configuration before a complete interchange can be confirmed.
-
-The engine overview does not yet cover complete variant/output mappings,
-component numbers, engineering drawings, material grades, manufacturing
-tolerances, surface finishes, lubrication and cooling specifications, injection
-and ignition systems, ECU circuitry, assembly sequences, fastening specifications,
-or diagnostic and overhaul procedures. History requires substantiated factory,
-series, and annual production records, with defined counting methods.
-Repair and maintenance instructions, operating guidance, and upgrade case
-studies need their own verified technical content and precise source citations.
+Documentation coverage and outstanding research are recorded in
+[COVERAGE.md](COVERAGE.md). Required content and source rules are in
+[CONTRIBUTING.md](CONTRIBUTING.md); agent instructions are in
+[AGENTS.md](AGENTS.md).
 
 ## Reading locally
 
@@ -153,16 +105,6 @@ and [serving and 404 behaviour](https://developers.cloudflare.com/pages/configur
 Response configuration: [Pages headers](https://developers.cloudflare.com/pages/configuration/headers/),
 [Email Address Obfuscation](https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/),
 and [JavaScript Detections](https://developers.cloudflare.com/cloudflare-challenges/challenge-types/javascript-detections/).
-
-## Private references
-
-Purchased publications, including the owner's Haynes manual, belong exclusively
-in `docs/internal/`, which is ignored by Git. Extracts, OCR, scans, and research
-notes containing protected source material belong there too. They must never be
-staged, committed, pushed, linked from the public site, or copied into `public/`.
-
-Public bibliographies may cite a publication and link to its publisher. A paid
-reference does not become openly licensed because its owner purchased a copy.
 
 ## Licence and contact
 
