@@ -67,10 +67,36 @@ substantive article to link. Do not label them with publication or work status.
 
 `public/parts/original.html` indexes original equipment and factory service
 replacements, organised by vehicle system. `public/parts/compatible.html`
-indexes evidenced alternatives and interchanges. These are the only two parts
-indexes; there is no general Parts page. Both link to the same canonical component
-articles; classification does not create a second copy of an article. An
-unverified fit is not an entry.
+indexes articles about replacement requirements. These are the only two parts
+indexes; there is no general Parts page. The compatible-parts index must not mirror the
+factory system/component catalogue. It leads to subjects such as **AEF engine
+replacement**, where compatibility requirements precede an index of alternatives.
+
+## Replacement requirements
+
+Use a descriptive filename such as `parts/aef-engine-replacement.html`. Describe
+the recipient assembly and replacement scope, then its mechanical interfaces,
+dimensions, connections, operating requirements, and applicable vehicle
+conditions. Include supported measurements where available; never invent
+dimensions or treat a shared engine code as proof that every interface matches.
+
+Below these requirements, index actual alternatives by compatibility status:
+confirmed replacements, candidate replacements, and documented conversions
+where supported. State the precise scope of each confirmed match, including
+required transfers of existing equipment. Candidates need a sourced reason for
+consideration and explicit unresolved technical conditions. A component shared
+by two assemblies does not establish interchangeability of the complete
+assemblies. A conversion requiring adaptations remains distinct from a direct
+replacement. Omit categories without substantive entries rather than filling
+them with invented matches, publication-status notes, or empty tables.
+
+Index entries identify the alternative, link to its canonical component article,
+and summarise the fitment verdict and conditions with citations. Keep the
+component's intrinsic specifications and identifiers in that shared article.
+A requirements article describes a replacement problem; it is not another part
+article or a third general parts index. Reuse the requirements article across
+recipient variants whose interfaces match, recording evidenced differences
+where necessary. The car-only rule applies throughout.
 
 Do not create a dedicated catalogue or diagram index. Each component article
 cites relevant diagram sources in its own References section, identifying the

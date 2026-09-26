@@ -14,10 +14,12 @@ quote source text or reproduce protected tables, photographs, or diagrams.
 Each part has one shared article across every model that uses it; model and
 repair pages link to that article rather than duplicating it.
 The [Original parts](public/parts/original.html) and
-[Compatible parts](public/parts/compatible.html) indexes classify those links
-separately, without creating duplicate component pages.
-Original parts also contains the vehicle-system index. There is no third,
-general Parts page.
+[Compatible parts](public/parts/compatible.html) indexes have different roles.
+Original parts contains the factory vehicle-system and component index.
+Compatible parts leads to articles about replacement requirements: each describes
+interfaces and operating requirements before indexing confirmed replacements,
+candidates, and conversions. Those entries link to the same canonical component
+pages. There is no third, general Parts page.
 
 Start at [the main page](public/index.html), [Original parts](public/parts/original.html),
 [Compatible parts](public/parts/compatible.html), or [engines](public/parts/engine.html).
@@ -34,14 +36,21 @@ qualifications and source citations remain with the car information they explain
 ## Documentation status and outstanding research
 
 The site currently contains subject and parts indexes, a technical overview of
-the production engines, and a source bibliography. Individual component,
-compatibility, historical, repair, maintenance, ownership, and upgrade articles
-remain to be researched and written. No manuals or source diagrams are reproduced.
+the production engines, an [AEF engine replacement](public/parts/aef-engine-replacement.html)
+requirements article, and a source bibliography. The AEF article distinguishes
+the Felicia-specification reconditioned-engine replacement route from Polo AEF
+candidates; it does not establish a complete cross-vehicle engine interchange.
+Other component, compatibility, historical, repair, maintenance, ownership, and
+upgrade articles remain to be researched and written. No manuals or source
+diagrams are reproduced.
 
 Outstanding parts research includes original identifiers, factory supersessions,
 assembly identification, and exact body, engine, gearbox, production/VIN,
 market, steering-side, and equipment applications. Compatible parts need
 verified product identities, donor applications, and installation conditions.
+AEF candidates require measured mounting and transmission interfaces, ancillary
+and control-system comparisons, and evidence for the exact recipient and donor
+configuration before a complete interchange can be confirmed.
 
 The engine overview does not yet cover complete variant/output mappings,
 component numbers, engineering drawings, material grades, manufacturing
