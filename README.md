@@ -133,6 +133,14 @@ the guide remains HTML and CSS only. The repository validator permits only this
 specific response-header rule. Keep automatic Web Analytics and other script
 injection features disabled if they are configured separately in the account.
 
+On this deployment, Pages does not apply this header to missing-path 404
+responses; Cloudflare still injects email-decoding and JavaScript-detection
+scripts into those responses. To keep error pages script-free too, turn off
+**Email Address Obfuscation** and **JavaScript Detections** in the domain's
+**Security > Settings**. Bot Fight Mode automatically enables JavaScript
+Detections and must be disabled if it is the active bot-protection mode.
+These account settings cannot be changed by the repository configuration.
+
 After deployment, check the main page, Original parts, Compatible parts, and AEF
 engine replacement; check a nonexistent address and `/docs/internal/` return
 HTTP 404. Project setup and account authorisation happen in Cloudflare, not in
