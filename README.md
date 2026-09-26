@@ -20,10 +20,13 @@ repair pages link to that article rather than duplicating it.
 The [Original parts](public/parts/original.html) and
 [Compatible parts](public/parts/compatible.html) indexes classify those links
 separately, without creating duplicate component pages.
+Original parts also contains the vehicle-system index. There is no third,
+general Parts page.
 
-Start at [the main page](public/index.html), [parts](public/parts/index.html),
-or [engines](public/parts/engine.html). Diagram sources are cited on the component
-article they support; there is no separate diagram or catalogue index.
+Start at [the main page](public/index.html), [Original parts](public/parts/original.html),
+[Compatible parts](public/parts/compatible.html), or [engines](public/parts/engine.html).
+Diagram sources are cited on the component article they support; there is no
+separate diagram or catalogue index.
 
 ## Reading locally
 

@@ -41,15 +41,17 @@ never fill it with an assumption or imply that a citation resolves the gap.
 | `public/upgrades/` | Evidenced modifications and conversions |
 | `public/sources/` | Bibliographic descriptions and source entry points |
 
-Each subject's `index.html` is its category index. Add substantive articles as
-descriptive lowercase filenames, such as `parts/oil-filter.html` or
+Each subject except parts uses `index.html` as its category index. Add substantive
+articles as descriptive lowercase filenames, such as `parts/oil-filter.html` or
 `repairs/oil-filter-replacement.html`. Do not create an empty article for every
 possible subject: list unwritten subjects as plain text in their category index.
 
 `public/parts/original.html` indexes original equipment and factory service
-replacements. `public/parts/compatible.html` indexes evidenced alternatives and
-interchanges. Both link to the same canonical component articles; classification
-does not create a second copy of an article. An unverified fit is not an entry.
+replacements, organised by vehicle system. `public/parts/compatible.html`
+indexes evidenced alternatives and interchanges. These are the only two parts
+indexes; there is no general Parts page. Both link to the same canonical component
+articles; classification does not create a second copy of an article. An
+unverified fit is not an entry.
 
 Do not create a dedicated catalogue or diagram index. Each component article
 cites relevant diagram sources in its own References section, identifying the
@@ -145,7 +147,7 @@ is not automatically a generally compatible or approved conversion.
 Keep published filenames and meaningful heading IDs stable. Link related repair
 and maintenance articles to the component article and its category index. Until a
 component article exists, use a system anchor, such as
-`../parts/index.html#fuel-and-exhaust`.
+`../parts/original.html#fuel-and-exhaust`.
 
 In the component article's References, cite the exact external assembly or
 application entry supporting the claim. Record its model selection, diagram
