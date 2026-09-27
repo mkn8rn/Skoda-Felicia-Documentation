@@ -12,8 +12,7 @@ Start at [the main page](public/index.html), [Original parts](public/parts/origi
 
 Documentation coverage and outstanding research are recorded in
 [COVERAGE.md](COVERAGE.md). Required content and source rules are in
-[CONTRIBUTING.md](CONTRIBUTING.md); agent instructions are in
-[AGENTS.md](AGENTS.md).
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Reading locally
 

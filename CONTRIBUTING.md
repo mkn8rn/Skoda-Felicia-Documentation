@@ -14,7 +14,7 @@ or future-work promises in articles or indexes. Do not add public pages about
 project policy or development status. Article prose describes the car, rather
 than how its documentation is organised or what its contributors plan to do.
 
-Put editing rules and workflow here or in AGENTS.md. Put project scope in
+Put editing rules and workflow here. Put project scope in
 README.md, and documentation status and outstanding research in COVERAGE.md.
 Keep technical qualifications, conflicting source claims, applicability, and
 citations when they explain the car information itself. Bibliographies describe relevant
