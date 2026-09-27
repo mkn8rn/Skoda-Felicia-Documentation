@@ -97,6 +97,71 @@ Use the normal article layout and retain meaningful identification anchors.
 Keep research gaps and coverage status in COVERAGE.md, with no empty model-page
 banners or contributor commentary in the wiki.
 
+### Downward navigation and terminal configurations
+
+The model hierarchy must lead from broad vehicle families to highly specific
+factory configurations, then to the exact parts fitted to those configurations.
+Body, derivative, production revision, market, engine, trim and equipment pages
+may provide intermediate classifications. Every applicable intermediate page
+must link down to its more specific configurations. A link back to the main
+index, a sibling article, an engine family or a parts category does not replace
+that downward path. A body or edition overview is not a terminal model page.
+
+A terminal model page must distinguish the car closely enough to establish
+parts applicability. Record the evidenced body and derivative, production
+revision, engine code and output, fuel system, gearbox, market and steering
+side, and factory equipment wherever they affect fitment. Record production
+dates, VIN ranges, option codes or other identifiers needed to separate changed
+parts. A brochure date is not a build-date or VIN limit. A sales designation,
+body code or engine code alone does not establish an exact installed parts set.
+If a page still describes alternatives with different fitted parts, it is an
+intermediate article and must lead to the evidenced individual configurations.
+Do not multiply categories into combinations that were never documented.
+
+The terminal page's factory-parts inventory links to canonical component
+articles and identifies the exact original fitment, quantity and position where
+relevant, with its source and application limits. Retain full part numbers and
+revision suffixes; distinguish production fitment from later factory service
+supersessions, aftermarket substitutes and conversions. Shared parts link to
+the same article from every applicable configuration. Keep intrinsic component
+specifications in that article and vehicle-specific fitment in the model page.
+Do not substitute generic system links, supplier searches or a list of possibly
+compatible parts for the expected factory parts.
+
+An unresolved fitment difference prevents an exact-parts claim. Preserve the
+verified car information, record unresolved identification and inventory work
+in COVERAGE.md, and report it when handing off a checkpoint. Do not invent a
+configuration, part number or equipment absence to close the gap. A navigation
+correction can be a checkpoint; it does not establish completion of the model
+and parts task. Until the evidence and inventory support it, do not describe an
+article or checkpoint as providing an exact or complete vehicle parts list.
+
+### Model-hierarchy rejection conditions
+
+Reject a model and parts completion claim if any of the following applies:
+
+- A classification path ends at a body, edition, engine-family or other broad
+  overview instead of an applicable specific configuration.
+- An intermediate article omits links to its existing, evidenced child
+  configurations, or the supposed downward path merely loops through parent,
+  sibling or global navigation links.
+- A terminal article combines parts-changing engine, body, revision, gearbox,
+  steering-side or equipment alternatives without identifying their individual
+  configurations and fitments.
+- A dated sales offer is treated as proof of production limits, a family-wide
+  feature is assigned to a specific body without evidence, or optional equipment
+  is assumed fitted or absent without establishing that configuration.
+- A claimed exact inventory contains generic family/category links, unresolved
+  alternatives or incomplete identifiers rather than the evidenced installed
+  parts, or confuses original fitment with replacements or modifications.
+- The same physical part is duplicated by model, or distinct parts are merged
+  because their names, appearance or partial numbers match.
+- The information needed to identify a configuration or part exists only at an
+  external source, or protected source expression is reproduced in public files.
+- Structural checks pass but source applicability, downward paths and terminal
+  parts inventories have not been independently examined. Validator success,
+  page counts and citation counts do not establish these requirements.
+
 ## Replacement requirements
 
 Use a descriptive filename such as `parts/aef-engine-replacement.html`. Describe
