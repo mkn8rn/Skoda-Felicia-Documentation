@@ -94,7 +94,19 @@ bill for any one configuration. The Dutch 1999 Combi LX AEF page identifies a
 market offer, type Š 795, engine AEF at 47 kW and a five-speed manual, but not a
 gearbox code or a production/build boundary. The Dutch brochure names the engine
 as 1.9 D rather than supplying the AEF code; the code is taken from the Felicia
-technical specification. Bosch's 2019/2020 diesel catalogue lists two separate
+technical specification. A separate Swiss ASTRA [type-approval record 1SC304](https://opendata.astra.admin.ch/ivzod/4000-Typengenehmigungen_TAS/4100-json-Files/MV_1SC304.json)
+provides a body-specific comparison: it records body-form code 161 (Stationswagen;
+see the [ASTRA body-form code table](https://opendata.astra.admin.ch/ivzod/1000-Fahrzeuge_IVZ/1400-Vertragspflichtige_Datensaetze/1465-Stammnummer-Kontrollschild-Typdaten/KS_STNR_TYP-Codetabelle.pdf)),
+type-level VIN template `TMBEHH65.........`, and VW AEF at 1,896 cm³ and 47 kW;
+its populated emissions variant lists gearbox type `m5` and final-drive ratio
+3.35. ASTRA's [type-approval guidance](https://www.astra.admin.ch/dam/astra/de/dokumente/homologation_vonfahrzeugen/wegleitung_atg_ntg.pdf.download.pdf/wegleitung_atg_ntg.pdf)
+defines `m5` as a manually shifted five-speed transmission. The approval was
+granted on 11 July 1996 and its recorded approval-expiry date is 31 December
+2000. These are Swiss type-approval facts: the record
+does not identify a gearbox manufacturer code, Dutch LX equipment, a Felicia
+production/VIN cutoff, or original parts. Its validity date and type-level VIN
+template cannot be used as build or parts-applicability boundaries for the Dutch
+offer. Bosch's 2019/2020 diesel catalogue lists two separate
 supplier service products for Felicia AEF applications: nozzle-and-holder
 assembly 0 432 217 240 and eXchange service product 0 986 430 187. Each now has
 its own component article with the four Bosch vehicle labels, engine/output,
