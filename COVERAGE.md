@@ -200,6 +200,23 @@ database is accessible only from the company's internal network. The archive's
 [2025 activity report](https://museum.skoda-auto.cz/documents/2050041/2145374/Vyrocni_zprava_o_cinnosti_archivu-SA-2025_final.pdf/dc373bb1-e4b0-237d-e137-46ac98b88b4b?download=true&t=1779774399477&version=4.0)
 identifies spare-parts lists and operating manuals among the scanned record
 types, but does not identify a Felicia catalogue or its edition/update range.
+The [2022 activity report](https://museum.skoda-auto.cz/documents/2050041/2145374/V%C3%BDro%C4%8Dn%C3%AD%2Bzpr%C3%A1va%2B2022.pdf/dc373bb1-e4b0-237d-e137-46ac98b88b4b?download=true&t=1704353213736&version=2.1)
+counts 970 database records in the combined category “Návody k použití a
+seznamy náhr. dílů” (operating manuals and spare-parts lists) as of 31 January
+2022. The report notes that a record may contain location metadata only, or
+metadata with one to four scans; it does not split the aggregate by model,
+title, edition or revision. The archive's public [fonds
+overview](https://museum.skoda-auto.cz/documents/2050041/2145374/prehled-fondu.pdf/3b78beaa-58f6-1589-28cc-3562405d466a?download=true&t=1671455164620&version=1.1)
+lists broad collections, including type documentation and Škoda Auto records,
+but supplies no item-level listings or catalogue titles. All-fields searches
+for `Felicia náhradních dílů` in the Czech National Library's
+[SKC union catalogue](https://aleph.nkp.cz/cze/skcm) and
+[NKC national bibliography](https://aleph.nkp.cz/F/?func=file&file_name=find-b&local_base=nkc)
+found older Octavia/Felicia parts lists from 1968–1976, but no identified
+1998–2001 factory parts-catalogue edition or update with Combi AEF applicability.
+These public counts and catalogue searches do not establish whether a relevant
+item exists in the archive's non-public database or in unindexed technical
+records.
 The archive is therefore a first-party route to check for an authenticated
 Felicia parts list and production documentation, not evidence that a particular
 1999 Combi LX record is held. No archive request or visit has been made.
