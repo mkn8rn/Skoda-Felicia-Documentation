@@ -112,11 +112,39 @@ includes Felicia among current accessory-shop vehicle filters, but it offers
 accessories rather than the historical service-part diagrams and production
 applications needed for this inventory. Škoda's [Spare parts catalogue login](https://knd.skoda.cz/sign/in?backlink=wbltl&lang=en)
 page supplies a sign-in form; it did not expose a Felicia selection or any
-parts-result record. Škoda's public [Partslink24 information](https://www.skoda.fr/services/catalogue-des-pieces)
+parts-result record. Its public [About page](https://knd.skoda.cz/sign/about?lang=en)
+lists software components and licences but does not document model coverage or
+catalogue access for this vehicle. Škoda's public [Partslink24 information](https://www.skoda.fr/services/catalogue-des-pieces)
 describes chassis-number or designation searches, while the inspected catalogue
 marketing and login pages do not confirm historical Felicia coverage, available
 build/option records, or any returned parts result. These pages do not establish
 that paid access is the only research route or a guaranteed solution.
+
+Škoda's [Genuine Parts information](https://www.skoda-auto.com/services/skoda-genuine-parts)
+directs independent repair shops to its NORA programme through an authorised
+service partner. The Netherlands importer provides an official [dealer locator](https://www.skoda.nl/service/dealers).
+These are concrete lawful channels for asking a partner to check historical
+catalogue coverage; neither page guarantees that a 1999 Felicia record remains
+available. Before any paid lookup, the partner should confirm that it can query
+the historical Felicia application. Request a dated manufacturer-system extract
+or an authorised transcription for the Netherlands Combi LX 1.9 D, 47 kW class,
+including its selector inputs, assembly/group and illustration/item callout,
+full OE identifier and suffix, quantity and position, notes, and all engine,
+gearbox, body-revision, equipment/option, production-date or chassis limits.
+The record should distinguish the original application from any later service
+supersession. If the system requires an individual chassis/VIN to resolve a
+boundary, that input must come from an identified vehicle record and cannot by
+itself define the whole 1999 sales class. If the partner cannot return a dated
+historical record, ask which manufacturer archive or lawful printed catalogue
+and update set can establish it. No account, purchase or external lookup has
+been made.
+
+Public mirror and retailer catalogues expose Felicia categories and product
+leads, but do not provide independently verified factory evidence for this
+configuration. No specific injection-system diagram, item callout, Škoda OE
+number, quantity/position or production/option application has yet been
+verified. A first verified component record would advance the fuel-system
+inventory but would not, by itself, establish an exact vehicle-wide parts list.
 
 To resolve the Combi AEF route, the evidence must connect a dated vehicle
 configuration class to a Škoda/VW historical parts application: the relevant
