@@ -90,27 +90,45 @@ No terminal configuration page yet has a sourced original-parts inventory with
 full OE identifiers, revision suffixes, quantity/position and application
 limits. The public original-parts index is a vehicle-system index; existing
 technical pages do not supply component-number coverage or a complete factory
-bill for any one configuration. No cited catalogue evidence currently connects
-a specific body/revision/engine/gearbox/market/equipment record to an exact
-installed component set. Existing model pages and their navigation are therefore
-intermediate evidence records, not exact-parts endpoints. The production census
-also remains partial, especially for export specifications and commercial
-bodies.
+bill for any one configuration. The Dutch 1999 Combi LX AEF page identifies a
+market offer, type Š 795, engine AEF at 47 kW and a five-speed manual, but not a
+gearbox code or a production/build boundary. The Dutch brochure names the engine
+as 1.9 D rather than supplying the AEF code; the code is taken from the Felicia
+technical specification. Bosch's 2019/2020 diesel catalogue
+adds one bounded supplier application: its Felicia Combi AEF 47 kW entry gives
+four nozzle-and-holder assemblies, Bosch 0 432 217 240 and Bosch eXchange
+0 986 430 187, for the supplier interval October 1995–August 2001. Separate
+Bosch rows cover hatchback, Fun and Pick-Up selectors with their own date ranges.
+These entries document Bosch service applications; they do not establish that
+either number was fitted at Škoda production or turn Bosch's date intervals into
+Felicia build/VIN limits. This single supplier component record is not an
+original-parts inventory. The model pages remain intermediate evidence records,
+not exact-parts endpoints. The production census also remains partial,
+especially for export specifications and commercial bodies.
 
 The [public Škoda catalogue](https://catalog.skoda-auto.com/eu/en/catalog/c/navigationRoot)
-includes Felicia among current accessory-shop vehicle filters, but does not
-provide the Felicia service-part diagrams or vehicle-specific production fitment
-needed for this inventory. Škoda’s public partslink24 information describes
-chassis or designation searches, while the inspected catalogue marketing and
-login pages do not confirm historical Felicia coverage, available build/option
-records, or any returned parts result. Those pages do not establish that paid
-access is the only research route or a guaranteed solution. Manufacturer
-catalogue records, verified historical extracts, and documented production/VIN
-ranges and option applicability can define configuration classes; an owner’s
-personal-vehicle VIN is not a general prerequisite for researching that
-hierarchy. Third-party mirrors may guide source discovery, but their listings
-alone do not prove original fitment. No reseller identifiers have been treated
-as a substitute for verified application records.
+includes Felicia among current accessory-shop vehicle filters, but it offers
+accessories rather than the historical service-part diagrams and production
+applications needed for this inventory. Škoda's [Spare parts catalogue login](https://knd.skoda.cz/sign/in?backlink=wbltl&lang=en)
+page supplies a sign-in form; it did not expose a Felicia selection or any
+parts-result record. Škoda's public [Partslink24 information](https://www.skoda.fr/services/catalogue-des-pieces)
+describes chassis-number or designation searches, while the inspected catalogue
+marketing and login pages do not confirm historical Felicia coverage, available
+build/option records, or any returned parts result. These pages do not establish
+that paid access is the only research route or a guaranteed solution.
+
+To resolve the Combi AEF route, the evidence must connect a dated vehicle
+configuration class to a Škoda/VW historical parts application: the relevant
+assembly and diagram item, each full OE identifier and suffix, quantity and
+position, supersession history, and any engine, gearbox, body-revision,
+equipment, option-code, production-date or VIN limits. A production-code or
+factory build-range record is also needed where it separates installed parts
+within the broad Dutch 1999 sales offer. The required record may define a
+configuration class without using an owner's personal VIN; a vehicle VIN would
+identify an individual example but would not replace the applicable factory
+range and option evidence. Third-party mirrors can suggest records to check, but
+their listings alone do not prove original fitment. No reseller identifiers
+have been treated as a substitute for verified factory application records.
 
 ### Parts and compatibility
 
