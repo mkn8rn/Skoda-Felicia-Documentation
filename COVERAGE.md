@@ -175,6 +175,35 @@ historical record, ask which manufacturer archive or lawful printed catalogue
 and update set can establish it. No account, purchase or external lookup has
 been made.
 
+The original approval-document route remains unverified. Under [Directive
+92/53/EEC](https://eur-lex.europa.eu/eli/dir/1992/53/oj/eng), the issuing
+authority delivered the completed type-approval certificate and attachments to
+the applicant (Article 4(3)) and sent copies to other member-state approval
+authorities (Article 4(5)); later revisions were distributed under Article 5.
+RDW's [open-data description](https://www.rdw.nl/over-rdw/dienstverlening/open-data/algemene-informatie)
+says its approval database dates from 1998 but only non-sensitive fields are
+released publicly. The queried Felicia record exposes approval, variant,
+execution and technical fields, not an attached certificate or information
+folder. Exact-number searches did not locate a public copy of
+`e11*93/81*0019*08` with its attachments. This does not establish whether the
+UK Vehicle Certification Agency or RDW still holds a complete copy. The [VCA's
+guidance on UK-issued e11 approvals](https://www.vehicle-certification-agency.gov.uk/publication/type-approval-and-the-protocol-on-northern-ireland-from-1-january-2021/)
+identifies VCA as the issuer, but does not establish retention of this
+particular certificate. The 1999 Pon brochure identifies the Dutch sales
+configuration but does not print the approval's variant or execution, so the
+available records still do not connect `ACH11/AEEM5BEK` to the Dutch LX offer.
+
+Škoda Auto's [archive access information](https://museum.skoda-auto.com/en/skoda-auto-archive)
+states that product records may be consulted by the public in its reading room
+or requested through archival research and reproduction services; the digital
+database is accessible only from the company's internal network. The archive's
+[2025 activity report](https://museum.skoda-auto.cz/documents/2050041/2145374/Vyrocni_zprava_o_cinnosti_archivu-SA-2025_final.pdf/dc373bb1-e4b0-237d-e137-46ac98b88b4b?download=true&t=1779774399477&version=4.0)
+identifies spare-parts lists and operating manuals among the scanned record
+types, but does not identify a Felicia catalogue or its edition/update range.
+The archive is therefore a first-party route to check for an authenticated
+Felicia parts list and production documentation, not evidence that a particular
+1999 Combi LX record is held. No archive request or visit has been made.
+
 Public mirror and retailer catalogues expose Felicia categories and product
 leads, but do not provide independently verified factory evidence for this
 configuration. No specific injection-system diagram, item callout, Škoda OE
