@@ -35,18 +35,18 @@ at Kvasiny from August 1995, while its 2014 Felicia retrospective places
 commercial-body production at Vrchlabí without dating that plant attribution.
 The accounts do not establish whether production moved or overlapped between
 plants, or which builds are associated with each location; neither dates a
-plant or production period for a particular Vanplus seating layout. A type number alone does not resolve
-the layout or its fitted parts. A Škoda Auto Deutschland retrospective now
-supports one German-market Pickup record: it describes the 1999 vehicle as
-generally paired with 1.6 MPI and reports a separate partial-leather option.
-The German Pickup account identifies the general 1999 engine pairing as 1.6 MPI
-but gives no engine code, displacement or rated output. A separate Felicia
-engine record describes AEE at 1,598 cm³ and 55 kW in hatchback technical data;
-that record does not establish Pickup-specific engine identification. The
-Pickup article links to the 1999 engine offer, which links down to the separate
-optioned interior page. The account gives no gearbox, steering-side, order/VIN
-limit or option code and does not establish all Pickup engine/body/market
-combinations.
+plant or production period for a particular Vanplus seating layout. A type
+number alone does not resolve the layout or its fitted parts. Škoda Auto
+Deutschland’s 2020 retrospective discusses the Felicia Fun in its Germany
+paragraph: the 1999 market account associates that recreational pickup with a
+general 1.6 MPI pairing and lists partial-leather upholstery as a separate
+option. The two dated Fun pages are linked beneath the Felicia Fun and 1.6 MPI
+branches. The account does not give a German-specific engine code, output,
+gearbox, steering-side identifier, option code or production/VIN limit; its
+price year is not a build boundary. The shared type 797 does not transfer this
+Fun configuration to the distinct two-seat commercial Pickup. No equivalent
+German ordinary-Pickup configuration is established by that source, and the
+known record does not resolve every Pickup body/engine/market combination.
 
 Other named edition overviews that still lack downward links to individually
 identified configurations include Blu Sky, Color Line, Combi Excellent, Gemini,
@@ -99,12 +99,18 @@ bodies.
 
 The [public Škoda catalogue](https://catalog.skoda-auto.com/eu/en/catalog/c/navigationRoot)
 includes Felicia among current accessory-shop vehicle filters, but does not
-provide the Felicia service-part diagrams or VIN-specific production fitment
-needed for this inventory. Škoda France describes [partslink24](https://www.skoda.fr/services/catalogue-des-pieces)
-as a genuine-parts identification service with chassis-number lookup. Historic
-Felicia coverage and its build-specific result were not accessible in the
-material checked here; no part identifiers have been taken from reseller
-listings as a substitute.
+provide the Felicia service-part diagrams or vehicle-specific production fitment
+needed for this inventory. Škoda’s public partslink24 information describes
+chassis or designation searches, while the inspected catalogue marketing and
+login pages do not confirm historical Felicia coverage, available build/option
+records, or any returned parts result. Those pages do not establish that paid
+access is the only research route or a guaranteed solution. Manufacturer
+catalogue records, verified historical extracts, and documented production/VIN
+ranges and option applicability can define configuration classes; an owner’s
+personal-vehicle VIN is not a general prerequisite for researching that
+hierarchy. Third-party mirrors may guide source discovery, but their listings
+alone do not prove original fitment. No reseller identifiers have been treated
+as a substitute for verified application records.
 
 ### Parts and compatibility
 
