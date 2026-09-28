@@ -106,7 +106,31 @@ granted on 11 July 1996 and its recorded approval-expiry date is 31 December
 does not identify a gearbox manufacturer code, Dutch LX equipment, a Felicia
 production/VIN cutoff, or original parts. Its validity date and type-level VIN
 template cannot be used as build or parts-applicability boundaries for the Dutch
-offer. Bosch's 2019/2020 diesel catalogue lists two separate
+offer. RDW's [European type-approval data](https://www.rdw.nl/over-rdw/dienstverlening/open-data/algemene-informatie)
+provide a separate homologation comparison. One record set labels an entry
+FELICIA COMBI under approval `e11*93/81*0019*08`, variant `ACH11`, execution
+`AEEM5BEK`, revision 1. Linked [engine](https://opendata.rdw.nl/d/4by9-ammk),
+[output and energy-source](https://opendata.rdw.nl/d/gr7t-qfnb),
+[body](https://opendata.rdw.nl/d/ky2r-jqad), [transmission](https://opendata.rdw.nl/d/7rjk-eycs),
+and [basic execution](https://opendata.rdw.nl/d/byxc-wwua) rows identify AEF,
+1,896 cm³, diesel, 47 kW, body type AC (the EU station-wagon code), four doors,
+five seats, five gears and raw gearbox-type value M. The record's execution
+validity begins on 30 April 1999. RDW's [type-approval data guide](https://www.rdw.nl/-/media/rdwnl/overrdw/documenten/naslagwerk/3-b-1296a-beschrijving-dataset-typegoedkeuring-20.pdf?hash=80592880A9F29A9EA68E6A34093F7D32&rev=3a874e1c46724c7b955b6c8daeae6de4)
+defines e11 as the United Kingdom approval authority, describes the date as
+execution-approval validity, and defines gearbox type as the shifting method;
+the table does not identify a gearbox product code. [EU Regulation 2018/858](https://eur-lex.europa.eu/eli/reg/2018/858/oj/eng)
+defines body code AC as station wagon. This approval entry does not establish
+that the Netherlands LX brochure offer used this variant/execution, nor does it
+give a Dutch grade, a production/VIN or parts cutoff, or original part numbers.
+The current [RDW registered-vehicle dataset](https://opendata.rdw.nl/d/m9d7-ebf2)
+returns an exact commercial-name Felicia Combi LX 1.9 D record first admitted
+in 1996, but its type-approval, variant and execution fields are empty. The
+other current Combi entries under this approval family use other variant/version
+codes and the generic commercial name Felicia Combi. This current-register
+snapshot neither resolves the 1999 LX offer nor proves a production absence.
+The approval records therefore add a European homologation class but do not
+resolve the Dutch gearbox product or parts applicability. Bosch's 2019/2020
+diesel catalogue lists two separate
 supplier service products for Felicia AEF applications: nozzle-and-holder
 assembly 0 432 217 240 and eXchange service product 0 986 430 187. Each now has
 its own component article with the four Bosch vehicle labels, engine/output,
