@@ -94,17 +94,18 @@ bill for any one configuration. The Dutch 1999 Combi LX AEF page identifies a
 market offer, type Š 795, engine AEF at 47 kW and a five-speed manual, but not a
 gearbox code or a production/build boundary. The Dutch brochure names the engine
 as 1.9 D rather than supplying the AEF code; the code is taken from the Felicia
-technical specification. Bosch's 2019/2020 diesel catalogue
-adds one bounded supplier application: its Felicia Combi AEF 47 kW entry gives
-four nozzle-and-holder assemblies, Bosch 0 432 217 240 and Bosch eXchange
-0 986 430 187, for the supplier interval October 1995–August 2001. Separate
-Bosch rows cover hatchback, Fun and Pick-Up selectors with their own date ranges.
-These entries document Bosch service applications; they do not establish that
-either number was fitted at Škoda production or turn Bosch's date intervals into
-Felicia build/VIN limits. This single supplier component record is not an
-original-parts inventory. The model pages remain intermediate evidence records,
-not exact-parts endpoints. The production census also remains partial,
-especially for export specifications and commercial bodies.
+technical specification. Bosch's 2019/2020 diesel catalogue lists two separate
+supplier service products for Felicia AEF applications: nozzle-and-holder
+assembly 0 432 217 240 and eXchange service product 0 986 430 187. Each now has
+its own component article with the four Bosch vehicle labels, engine/output,
+supplier interval and listed quantity. The Combi interval is October 1995–August
+2001; the other body entries have their own periods. These records document
+Bosch service applications, not Škoda original fitment, and the catalogue dates
+do not establish Felicia build/VIN limits. Neither supplier product supplies a
+Škoda OE identifier or a complete original-parts inventory. The model pages
+remain intermediate evidence records, not exact-parts endpoints. The production
+census also remains partial, especially for export specifications and
+commercial bodies.
 
 The [public Škoda catalogue](https://catalog.skoda-auto.com/eu/en/catalog/c/navigationRoot)
 includes Felicia among current accessory-shop vehicle filters, but it offers
