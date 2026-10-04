@@ -15,14 +15,43 @@ cross-vehicle engine interchange. No manuals or source diagrams are reproduced.
 
 ### Models and identification
 
-The model index contains body/derivative entries, dated market configuration
-records and named edition overviews. Hatchback and Combi articles now link to
-the existing body-specific records; the seven Dutch Combi rows link directly to
-their matching configuration pages. The Family overview links to its eight
+The model index separates the three body styles (hatchback, estate and ordinary
+Pickup), the Vanplus and Fun derivatives, and the Felicia-derived Caddy export
+designation. It records the manufacturer's production totals with source
+attribution and keeps dated sales configurations separate from homologation
+variants. Its market tables retain all earlier model links, with country/date
+subsections and separate restraint specifications.
+
+Eleven passenger body/engine branches link directly to the existing dated
+market, trim and equipment articles: six hatchback branches (135B, 136B, 135M,
+136M, AEE and AEF) and five Combi branches (136B, 135M, 136M, AEE and AEF).
+These branches contain only evidenced existing combinations; no Combi 135B
+configuration was generated from the hatchback range. Hatchback and Combi body
+articles link to both the engine branches and the dated body-specific records;
+the detailed market articles link back to the appropriate body/engine branch.
+These are intermediate classifications, not new terminal fitment claims.
+The seven Dutch Combi rows continue to link directly to their matching
+configuration pages. The Family overview links to its eight
 body/engine pages. Atlanta, Magic, Safe-line, Trumf and Laurin & Klement link
 to their presently documented body-specific children. Safe-line body records
 and the Magic hatchback record still omit an engine/output mapping where the
 cited source does not provide one.
+
+Four new Combi homologation articles document RDW's official linked records for
+approval `e11*93/81*0019*08`, execution revision 1, validity from 30 April 1999:
+`ACG11/ADDM5BCK` (AEE, 55 kW), `ACH11/AEEM5BEK` (AEF, 47 kW),
+`ACI11/ACFM5BCK` (781.135M, 40 kW), and `ACJ11/ACCM5BBK` (781.136M, 50 kW).
+The full approval/variant/execution/revision key joins the commercial-name,
+basic, engine, energy/emissions, gearbox and body records. Each article records
+the source's dimensions, height and running-order mass ranges, maximum laden
+mass, five-gear count/raw selection-method M, output/rpm, Euro 2 designation,
+NEDC consumption and carbon-dioxide values. The ranges remain ranges. The raw
+four-door field is distinguished from the period five-door sales description.
+These records do not identify a gearbox product code, national sales grade,
+steering side, complete option set, original parts or a production/VIN limit.
+No LX/LXi/GLX/GLXi or edition-to-execution mapping is claimed. Approval validity
+is not a manufacturing or part-change boundary. Each homologation article links
+to its appropriate Combi engine branch and the shared engine article.
 
 The Fun overview now links separately to its 1.3 MPI 50 kW, 1.6 MPI 55 kW and
 1.9 D 47 kW factory offers. Škoda's 2020 model history specifies the Fun
