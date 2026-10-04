@@ -34,16 +34,19 @@ The 1996 Northern Ireland list identifies a glass tilt sunroof for GLXi; it does
 not establish an electric operating drive. Two earlier GLXi descriptions have
 been corrected accordingly. Sunroof subcomponents have separate explicit slots.
 
-Fifteen separate shared articles identify service products or accessories:
-two Bosch spark plugs, a Bosch glow plug specified by the technical manual,
+Nineteen separate shared articles identify service products or accessories:
+six Bosch spark-plug designations, a Bosch glow plug specified by the technical manual,
 BRISK DR15TC, six MANN-FILTER products, three Brembo brake products, and the
 Truckman AeroTop S and SL. Replacement-requirements articles precede their
 application indexes. Model tables keep these supplier products separate from
 original fitment. Ambiguous MANN engine-code/body grouping, BRISK B/M code
 notation, actual Felicia II brake revision and installed canopy state remain
-qualified. Haynes' four written petrol plug selections and gaps are recorded
-separately; identity or supersession to differently suffixed supplier products
-is not assumed. Supplier application periods are not factory build limits.
+qualified. The four Haynes petrol selections have separate canonical records
+for FR7LD+, FR78X, FR7D+ and WR7LT+, with their service gaps and recipient
+conditions. Their full Bosch stock numbers, original Škoda identities and
+supersession to the differently suffixed catalogue products remain unconfirmed.
+Replacement requirements link these records without repeating their gap values.
+Supplier application periods are not factory build limits.
 
 The ten new sales articles comprise four March 1998 international Pickup
 powertrain offers, each with separate without/with-superstructure weight
