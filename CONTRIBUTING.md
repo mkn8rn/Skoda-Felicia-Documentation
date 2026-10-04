@@ -136,6 +136,32 @@ correction can be a checkpoint; it does not establish completion of the model
 and parts task. Until the evidence and inventory support it, do not describe an
 article or checkpoint as providing an exact or complete vehicle parts list.
 
+### Explicit component positions and unconfirmed fitment
+
+The owner requires named component positions in model inventories even when
+their original part identity cannot be established. Use **Unconfirmed** in the
+appropriate technical field: fitted component, original identifier, quantity or
+application limit. This describes vehicle fitment uncertainty; it is not a
+repository-status label or a missing-article banner. Keep research plans and
+project coverage assessments in COVERAGE.md.
+
+Distinguish confirmation of an equipment feature or component type from
+confirmation of the physical production part. A confirmed driver airbag does
+not establish its module number, connector, controller or wiring revision.
+A component position marked Unconfirmed does not assert that the named item
+was produced, supplied or installed, and it does not imply absence. Do not
+select among optional or alternative fittings without applicable evidence.
+Include small fittings, seals, clips, fasteners and interior items, including
+cup holders, with the same precision as major assemblies.
+
+Keep supplier service products and accessories in a separate application table
+on the model page. Identify manufacturer-listed applications, technical-manual
+service specifications and candidates accurately. Each entry links to one
+canonical component article. A supplier application interval is not a factory
+production cutoff; supplier stock numbers never fill an unconfirmed original
+part-number field. A large inventory of component positions is not a complete
+original-parts bill and does not satisfy the exact-configuration endpoint.
+
 ### Model-hierarchy rejection conditions
 
 Reject a model and parts completion claim if any of the following applies:

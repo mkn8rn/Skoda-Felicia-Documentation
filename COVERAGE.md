@@ -11,6 +11,61 @@ The AEF article distinguishes the Felicia-specification reconditioned-engine
 replacement route from Polo AEF candidates; it does not establish a complete
 cross-vehicle engine interchange. No manuals or source diagrams are reproduced.
 
+### Component positions and supplier evidence
+
+The Original parts index now names 645 component positions across ten vehicle
+systems. Seventy-four specific model, market, powertrain or seating records
+have explicit fitment tables containing 43,426 position rows. These include
+body fittings, cup holders, clips, seals, fasteners and ECU circuit roles as
+well as the major mechanical assemblies. The rows distinguish an evidenced
+equipment feature or component class from its original physical part identity.
+Unresolved fitment, original identifiers, quantities and selection boundaries
+are explicitly **Unconfirmed**. A named position does not prove that the
+component was manufactured or fitted to a particular vehicle. This is an
+incomplete selection inventory, not 645 confirmed original parts or a factory
+bill of materials. No new Škoda production OE identity is established.
+
+The separately inspected 1999 Dutch hatchback and Combi matrices confirm rear
+cup-holder equipment across all seven columns and front cup holders on the
+GLXi/GLX columns. They also identify body-specific loudspeaker counts, upholstery,
+mirrors, lighting and other equipment. Exact mouldings, product identities and
+component positions remain unconfirmed where the source does not identify them.
+The 1996 Northern Ireland list identifies a glass tilt sunroof for GLXi; it does
+not establish an electric operating drive. Two earlier GLXi descriptions have
+been corrected accordingly. Sunroof subcomponents have separate explicit slots.
+
+Fifteen separate shared articles identify service products or accessories:
+two Bosch spark plugs, a Bosch glow plug specified by the technical manual,
+BRISK DR15TC, six MANN-FILTER products, three Brembo brake products, and the
+Truckman AeroTop S and SL. Replacement-requirements articles precede their
+application indexes. Model tables keep these supplier products separate from
+original fitment. Ambiguous MANN engine-code/body grouping, BRISK B/M code
+notation, actual Felicia II brake revision and installed canopy state remain
+qualified. Haynes' four written petrol plug selections and gaps are recorded
+separately; identity or supersession to differently suffixed supplier products
+is not assumed. Supplier application periods are not factory build limits.
+
+The ten new sales articles comprise four March 1998 international Pickup
+powertrain offers, each with separate without/with-superstructure weight
+specifications, the brochure's 43 kW carburettor export footnote, and the
+March 2000 UK Fun 1.6 MPI offer. Their source language/date does not establish
+a German national market, steering side, engine product code or VIN boundary.
+The UK Fun's technical panel has an inconsistent power-unit heading; its
+output is not silently reassigned from the generic Fun technical brief. Covered
+Pickup specifications do not identify an exact canopy product. The model census
+now contains 117 articles, including intermediate classifications and approval
+records; these are not 117 exact factory parts configurations.
+
+All 74 inventories still lack complete original identifiers and the applicable
+gearbox, revision, option and production boundaries. Homologation records and
+broader edition/body/engine parents remain intermediate. The complete original
+parts endpoint, an exhaustive model census and reconstruction documentation
+remain **unmet**. The position taxonomy is not a count of every Felicia part:
+variant-specific fasteners, drawings, dimensions, material specifications,
+electronic board identities and component markings still require primary
+evidence. Existing canonical service identities are shared; no part is
+duplicated by model and no supplier number fills an original-identifier field.
+
 ## Outstanding research
 
 ### Models and identification
@@ -117,7 +172,7 @@ range, body approval or sales date cannot establish that identity by itself.
 
 No terminal configuration page yet has a sourced original-parts inventory with
 full OE identifiers, revision suffixes, quantity/position and application
-limits. The public original-parts index is a vehicle-system index; existing
+limits. The public original-parts index is a vehicle-system and component-position index; existing
 technical pages do not supply component-number coverage or a complete factory
 bill for any one configuration. The Dutch 1999 Combi LX AEF page identifies a
 market offer, type Š 795, engine AEF at 47 kW and a five-speed manual, but not a
