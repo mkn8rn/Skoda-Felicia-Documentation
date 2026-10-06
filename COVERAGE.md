@@ -522,3 +522,7 @@ rim castings/pressings and revisions, tyre products, hub and bolt interfaces,
 retention/finish variants, original quantities and build/option/VIN selector
 chains still need applicable factory records. These bounded approval/service
 records do not supply a complete original-parts BOM or an exact model endpoint.
+
+## UK Bohemia primary brochure
+
+The May 1996 Škoda UK brochure supports a Bohemia edition overview and separate hatchback/estate offers, with its advertised 1.3-litre/68-bhp engine, five-speed gearbox, prices, test consumption and enumerated equipment. The UK imprint overrides an archive’s Irish-market label. Neither an engine code nor an injection system, exact kW output, steering side, restraint/sunroof/roof-rail selection, production/option/VIN limit or original component identity is established. Those positions remain explicitly Unconfirmed; no other-market grade specification is transferred. The two new inventories enumerate 648 generic positions, including a newly named rear body-spoiler position, with source-confirmed equipment classes distinguished from original identities. These offers remain intermediate, not complete factory-OE terminals.
