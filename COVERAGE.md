@@ -396,3 +396,31 @@ The named knock sensor is now an explicit position in the original-parts index
 and all 78 model inventories. Only the A-5528 MPI extension and original
 A-5551 form establish its fitted type in this update; all other new slots are
 Unconfirmed. Existing inventory fields and car payloads are otherwise preserved.
+
+
+## Source-scoped homologation engine construction
+
+The shared engineering article records the original A-5528 and A-5551
+block/head materials, cylinder construction, bore and stroke; the rod's bare
+big-end bore, axis spacing and minimum mass; the one-piece forged crankshaft,
+plain main-bearing positions, recorded bearing diameter, cap material and
+minimum bare mass; and the manual-transmission flywheel material/minimum mass
+including the starter ring. The kit 04/01 VK page supplies its own rod, crankshaft,
+bearing/cap and flywheel values. Its crankshaft minimum is 13,390 g, checked
+against the original printed extension page.
+
+Twenty-one configuration position rows now identify only that source-scoped
+construction. The original A-5551 form expressly records no cylinder sleeves;
+its wet-liner position is Not applicable with zero sleeves. The two original
+forms each establish one head and three/five main-bearing positions; separate
+bearing-shell quantities are still unknown. The MPI evolution receives no
+inferred original-form construction. No missing kit material or bearing count
+is inherited from the original A-5551 form.
+
+This comparison adds reconstruction-relevant engineering facts, not a physical
+part identity or interchangeable assembly. Homologation minimum masses are not
+production weights or machining instructions. Full OE identifiers/suffixes,
+casting revisions, precise material grades/heat treatments, manufacturing
+tolerances, finishes, fastening/assembly specifications and production/VIN/
+option selection remain unresolved. Exact road-engine mappings and the complete
+whole-vehicle original-parts inventory remain open owner objectives.
