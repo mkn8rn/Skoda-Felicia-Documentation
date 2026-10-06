@@ -99,6 +99,33 @@ banners or contributor commentary in the wiki.
 
 ### Downward navigation and terminal configurations
 
+#### Category scope and shared technical knowledge
+
+Model category pages contain identification and navigation. Explain the codes,
+body shape, visible features, edition distinctions or source conditions needed
+to confirm that a vehicle belongs to the category. Then list its applicable
+subcategories or specific configurations. This rule applies to body, derivative,
+engine, market, trim and edition categories, including the main model index.
+
+Do not add an engine narrative, construction specifications, performance data,
+prices, production history or a generic parts inventory to a category merely
+because one of its models has that information. Put production history in a
+history article, vehicle-specific specifications and fitted-part selections in
+the applicable configuration, and intrinsic component information in its shared
+parts article. Retain only the short identifiers needed to select a destination.
+An equipment feature may identify an edition; its component specifications still
+belong to the shared component article.
+
+Link to the authoritative internal article instead of repeating its technical
+explanation in categories and configurations. Configuration pages may retain the
+engine code, output and fuel-system designation needed to identify the vehicle,
+but should link to the engine article for its construction and specifications.
+When correcting a category, preserve its downward destinations and relocate
+sourced facts with their applicability and citations. Do not discard verified
+knowledge or create new vehicle combinations to make the category shorter.
+
+#### Configuration paths
+
 The model hierarchy must lead from broad vehicle families to highly specific
 factory configurations, then to the exact parts fitted to those configurations.
 Body, derivative, production revision, market, engine, trim and equipment pages
