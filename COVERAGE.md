@@ -485,3 +485,40 @@ VIN/option selectors remain unresolved. No original-form brake specification is
 automatically assigned to the MPI evolution, kit, brake option or road-market
 configuration. No supplier candidate is promoted to original equipment.
 The complete factory-OE and reconstruction objective remains active and unmet.
+
+
+## Wheel approvals and genuine centre-cover service identities
+
+The manufacturer-commissioned January 2022 tyre schedule now supplies a shared
+engineering article covering Felicia/Fun approval ranges, German type-key and
+rough-road selection, fifteen rim-description/offset rows, twenty-two tyre/rim
+pairings and the chain restrictions. Its rough-road superscript 2 is a footnote
+to twelve complete type keys, not a package number. The ET 40 footnote remains
+restricted to the explicitly named approval states. These approval alternatives
+do not identify the wheel originally supplied, a national grade, rim product,
+fastening interface or manufacturing/VIN selector. The existing four RDW Combi
+execution articles and three Fun engine offers gain navigation only; no German
+type key or approved alternative is assigned to their fitted inventories.
+
+Two genuine Škoda service/accessory centre covers now have separate canonical
+records: 6U0 601 151 L MHB and 5E0 601 151 FOD, with respectively 52 mm and
+56 mm receiving-opening specifications. The complete manufacturer product
+application lists include Felicia (1994–2001), but do not resolve a historic rim
+number, clip/lip geometry, body/market/edition application, factory badge variant,
+original quantity, production/option/VIN limits or a supersession relation. The
+opening sizes are not wheel-to-hub centring bores. Neither current genuine
+service identity becomes a confirmed original-fit identifier.
+
+The five existing Atlanta/Magic alloy-wheel records add ten explicitly qualified
+centre-cover candidate rows in their separate service sections. Original
+inventory segments and all previous fitted types, unknown identifiers and
+quantities are preserved. Recipient requirements link the canonical products;
+the product dimensions remain in those articles. Current shop filters also
+expose generic products and do not by themselves establish historical factory
+fitment. The consulted generic M14/five-bolt product is not assigned to Felicia.
+
+The complete factory-original reconstruction objective remains active. Exact
+rim castings/pressings and revisions, tyre products, hub and bolt interfaces,
+retention/finish variants, original quantities and build/option/VIN selector
+chains still need applicable factory records. These bounded approval/service
+records do not supply a complete original-parts BOM or an exact model endpoint.
