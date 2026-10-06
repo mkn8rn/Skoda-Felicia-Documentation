@@ -457,3 +457,31 @@ casting revisions, precise material grades/heat treatments, manufacturing
 tolerances, finishes, fastening/assembly specifications and production/VIN/
 option selection remain unresolved. Exact road-engine mappings and the complete
 whole-vehicle original-parts inventory remain open owner objectives.
+
+
+## Original homologation brake assemblies
+
+The shared brake engineering article records original A-5528 and A-5551
+article 803: two-circuit hydraulic operation, tandem master cylinder, ATESO
+vacuum servo, no braking regulator, front solid discs and cast-iron calipers,
+front pad count/length and contact diameters, rear drums and friction linings,
+wheel-cylinder count/bore and mechanical rear parking-brake actuation.
+Master-cylinder bores remain source-specific: 22/22 mm in A-5528,
+22.2/22.2 mm in A-5551. Rear wheel-cylinder bores remain 19 and 19.05 mm,
+respectively. Common dimensions are not treated as physical product equivalence.
+
+Twenty-four original configuration positions now identify only these evidenced
+types, per-wheel quantities or the explicit regulator absence. Rear friction
+linings are a separate named position from their shoes in the original-parts
+index and all 78 inventories. The two original FIA records identify two linings
+per rear wheel; other lining fits/identities/counts stay Unconfirmed. A lining
+count does not establish separate shoe product identity or supply packaging.
+
+The form tolerances are homologation measurements, not wear limits or machining
+permissions. OE identifiers/suffixes, friction compounds, material grades, bore
+finishes/clearances, mounting/connection/retention geometry, manufacturing and
+assembly specifications, complete original quantities and steering/market/build/
+VIN/option selectors remain unresolved. No original-form brake specification is
+automatically assigned to the MPI evolution, kit, brake option or road-market
+configuration. No supplier candidate is promoted to original equipment.
+The complete factory-OE and reconstruction objective remains active and unmet.
