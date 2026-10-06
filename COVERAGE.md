@@ -649,3 +649,24 @@ Primary migrated ASTRA guidance and abbreviation PDFs were obtained from current
 - The Norwegian June 1999 used-car account supplies one identifiable pump/hose repair history and a separate 1.6 estate market designation, not an exact tested-car engine/grade/body mapping. General market horsepower and safety statements are not assigned to unresolved model-year records.
 - New named positions distinguish safety-cage members/attachments, rear stabilizers, door impact bars, commercial rear bulkheads/capping/tailboard supports, pollen filters and complete optional equipment packages from neighboring parts. Existing inventories acquire Unconfirmed fields without inferred installation or absence. No new complete original OE product identity or whole-car reconstruction endpoint is established.
 - Further directly available A-5528 transmission/suspension/brake option forms and the A-5551 packet remain under substantive source inspection. These are known remaining primary evidence, so reasonable source exhaustion is not claimed.
+
+## FIA option and Slovenian May 1995 evidence, 7 October 2026
+
+The additional A-5528/A-5551 options now have individual source-defined records,
+including corrected selector/ratio records kept apart from their predecessors.
+The complementary original N-5551 specification and its PAL Magneton/Bosch
+alternator and 13/14-inch wheel selections are separately routed. Engineering
+values remain in the canonical shared component comparisons. The May 1995
+Slovenian test retains its GLXi/GLX label disagreement and does not infer 136B.
+
+Source-defined classes, per-wheel counts and explicit original-N absences are
+not full OE identities or national-road production/option/VIN mappings.
+Independent brake diameter/material/bore, gearbox/final-drive and suspension
+alternatives are not multiplied into asserted complete configurations. The
+A-5528 02/02 VO 4.523-versus-68/15 and 19/10 VO second-gear ratio/tooth
+discrepancies remain unresolved. Source minima/tolerances and theoretical cam
+measurement clearances are not machining, wear or service instructions.
+
+No new complete factory OE identifier, gearbox product code, full quantity map
+or exact terminal BOM is established. Archive/catalogue and further national
+source acquisition remain active; this is not an exhausted source census.
