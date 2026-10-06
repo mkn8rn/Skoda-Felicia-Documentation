@@ -670,3 +670,28 @@ measurement clearances are not machining, wear or service instructions.
 No new complete factory OE identifier, gearbox product code, full quantity map
 or exact terminal BOM is established. Archive/catalogue and further national
 source acquisition remain active; this is not an exhausted source census.
+
+## July 1996 Caddy technical selections and A-5551 kit detail, 7 October 2026
+
+Volkswagen SSP184 identifies AEE and AEF Caddy Pickup selections, a type002
+five-speed family, petrol/diesel heater differences and individual ABS,
+driver-only/paired-airbag, petrol-AC, hardtop and towbar options. Publication
+language and technical-status date are not national-market or factory build
+selectors. The unspecified options remain engine-unassigned rather than
+multiplied into complete cars; no UK-brochure code/parts mapping is inferred.
+Named access covers, insulation, linkages, control functions and HVAC hardware
+have explicit inventory positions; full component products remain unknown.
+J labels are functional circuit identifiers; D006600 is a repair-service set,
+not an installed original component. SSP mass-label ambiguities are not
+converted into validated gross/tare specifications.
+
+The A-5551 kit now retains the explicit no-sleeve selection, valve/manifold
+geometry, two throttle bodies/eight injectors, source-listed sensing functions
+and body devices. Hall versus inductive speed/phase terminology remains
+unresolved; no camshaft pickup is inferred. The aerodynamic drawing’s unlabelled
+units are not assumed. Original-N blank liner fields stay unresolved.
+
+These additions do not establish complete factory OE identities, selected
+gearbox products/ratios, exact national/steering/option/build/VIN chains, all
+quantities or a reconstruction-ready terminal BOM. Further national catalogue
+and historic original-parts evidence is still being pursued.
