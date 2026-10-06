@@ -359,3 +359,40 @@ Repair and maintenance instructions, operating guidance, and upgrade case
 studies need their own verified technical content and precise source citations.
 These sections currently have subject indexes rather than substantive procedures
 or individual case studies.
+
+## Manufacturer fuel-system and FIA configuration records
+
+The manufacturer-submitted FIA A-5528/A-5551 forms now have four distinct
+configuration articles: the original 1.3 form, MPI evolution 13/02 ET, the
+original 1.6 form, and rally kit variant 04/01 VK. Dates follow the actual
+validity stamps (1 December 1994, 1 March 1997, 1 March 1996 and 1 April 1996),
+not the different day values in the Historic Database metadata. These are
+competition homologation configurations, not additional national sales grades.
+Their individual inventories reuse the expanded 646 position taxonomy and
+record only equipment/dimensions/quantities supported by their specific forms.
+No full original stock/OE identity is supplied by these fields. A-5528's original
+form is inside the FIA download named Group N; it is explicitly Group A.
+
+Shared technical articles now distinguish Bosch Mono-Motronic, Siemens SIMOS
+2P, Magneti Marelli's Felicia systems, Lucas DPC and the Jenvey rally kit system.
+The authorised February 1997 engine-family classification is separated from
+the exact FIA form dimensions/outlet counts. The SIMOS extension supports
+fuel/vapour circuit components, control inputs and zero ignition distributors.
+The two original manual-gearbox records retain their different fourth/fifth
+ratios and final drives. Family names and gear ratios do not provide unique
+controller, injector, pump or gearbox assembly identities; no physical variants
+are merged, and no complete interchangeability is inferred.
+
+Outstanding: manufacturer product numbers/suffixes and calibration identifiers;
+precise engine-code/output mappings for these FIA entries; market/steering,
+options, gearbox products and production/VIN selector chains; the other FIA
+extensions and their applicable combinations; the whole-vehicle factory bill
+of parts with quantities and locations. Original-form fitments are not
+automatically assigned to the MPI evolution or kit variant. None of these new
+records is an exact reconstruction endpoint. The open original-OE objective
+continues beyond this evidence update.
+
+The named knock sensor is now an explicit position in the original-parts index
+and all 78 model inventories. Only the A-5528 MPI extension and original
+A-5551 form establish its fitted type in this update; all other new slots are
+Unconfirmed. Existing inventory fields and car payloads are otherwise preserved.
