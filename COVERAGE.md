@@ -69,6 +69,39 @@ electronic board identities and component markings still require primary
 evidence. Existing canonical service identities are shared; no part is
 duplicated by model and no supplier number fills an original-identifier field.
 
+### Exhaust component applications
+
+Eighteen further canonical service-product articles identify five ASMET silencers
+and thirteen Fischer mounting products: four gaskets, a sealing ring, a joint
+spring, four clamps and three rubber hangers. The undated manufacturer-hosted
+ASMET/Fischer catalogue distinguishes hatchback, Combi and Pickup
+applications, engine capacity/output and supplier intervals. Numerical clamp
+and ring dimensions come from Fischer's own product records. The spring's
+illustrated two-item service callout is kept separate from the unknown original
+vehicle quantity. Supplier OE cross-references remain supplier associations;
+no factory-installed identity or supersession is established by them.
+
+The [exhaust replacement requirements](public/parts/exhaust-system-replacement.html)
+article links all eighteen canonical components. Twenty-one existing dated sales-model
+service tables link matching body/output records as candidates with exact
+market/build/joint fitment unconfirmed. All original-inventory cells and
+configuration identifiers are preserved; no supplier number is inserted into
+an original-identity cell. The catalogue's 50 kW hatchback split at November
+1998 is not mapped to SPI/MPI, a facelift, a VIN or factory production cutoff.
+Its earlier 50 kW Combi application is not extended to the 1999 Combi offer.
+The catalogue's 40/43 kW hatchback row is not assigned to a road SPI/MPI model:
+the live supplier description labels it Ecotronic. Fun and Vanplus are not
+inferred from ordinary Pickup or Combi applications.
+
+The PDF still records ASMET 21.018, while the current live lookup returns no
+number match and labels the corresponding hatchback item unavailable. This
+is not a supersession claim or proof of present supply. The separate catalogue
+and present lookup evidence remain distinguished. A February 2000 UK Pickup
+brochure was inspected but supplies no engine/grade selection table; it does
+not justify multiplying the existing international powertrain offers into new
+UK configurations. The exact factory exhaust identities, dimensions, complete
+mounting quantities, approvals and build/option limits remain unresolved.
+
 ## Outstanding research
 
 ### Models and identification
