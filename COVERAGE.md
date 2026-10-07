@@ -1062,3 +1062,53 @@ assembly products. Reproduction and OE quality are not historical genuine
 factory installation or NOS claims. No service row is promoted into an
 original-identity cell, no application transfers from a shared prefix to other
 Felicia bodies, and no complete original BOM/selector chain is established.
+
+## Period genuine-accessory identity evidence
+
+An undated Slovak Škoda Felicia/Felicia Combi genuine-accessory catalogue,
+labelled 1997 by its public archive, supplies 34 written product identities;
+the separate Czech TC-6 leaflet supplies one further professional-computer
+identity. Thirty-five distinct canonical records preserve suffixes, intrinsic
+specifications and source-specific recipient conditions. Four recipient-first
+requirements articles link them; model/body navigation does not present these
+accessory offers as factory-installed original parts.
+
+The trip-computer records preserve a selector conflict: the Slovak publication
+maps BEA 054 004/005 to 1.6-litre/1.9 D, whereas the Czech leaflet groups them
+as MPI TC-6/TC-6P. No calibration equivalence, silently corrected identity or
+automatic diesel/road-engine application is inferred. The NGK BBN 056 014
+entry has an erroneous repeated battery description; plug type, dimensions,
+gap and recipient remain unresolved. Wheel, roof and trailer ratings remain
+source-scoped accessory data, not universal vehicle approval limits.
+
+No visible printed date makes the archive’s 1997 label an effective offer or
+factory cutoff. Exact mounting/electrical/steering/body/build/equipment bounds,
+historical original installation, supersession and whole-vehicle quantities
+remain unresolved. The source’s cleaning-product list has no complete product
+identities and is not turned into fictitious installed component records.
+
+## Czech Safe-line and Color Line manufacturer leaflets
+
+The Safe Line sheet effective 1 March 1999 explicitly offers four powertrains
+in each body: 1.3 MPI 40/50 kW, 1.6 MPI 55 kW and 1.9 D 47 kW. Sixteen
+body/engine/paint configuration records distinguish Rallye red and Candy
+white; eight recognition selectors lead to them. The primary sheet resolves
+the earlier unassigned body/engine offer mapping but not engine product codes,
+gearbox, steering side, original part identities or production/option limits.
+
+The Color Line sheet effective 3 May 1999 distinguishes I/II packages and
+the same four engine offerings in hatchback and Combi. The brochure explicitly
+permits either exterior colour with yellow, blue or Harlekin trim. Ninety-six
+distinct body/engine/package/paint/interior offer records and sixteen downward
+selectors preserve those evidenced combinations, rather than inferring them
+from another market. Package equipment and intrinsic trim descriptions are
+centralized in a shared engineering article; they are not a single physical SKU.
+
+All new configurations carry the existing 759 equivalent positions. Source-
+described equipment/appearance remains distinct from original identity and
+quantity. Independently offered steering, air conditioning, radios, glazing,
+windows, wheels and safety options do not establish a complete combined-order
+matrix, exact option codes or installation in a baseline colour selection.
+These additional option branches, precise build/colour/gearbox/equipment
+selectors and full original BOMs remain unresolved; no exhaustive completion
+or source-exhaustion claim is made.
