@@ -709,3 +709,38 @@ AMG/AMH/AMJ code entries are not automatically mapped to Škoda B/M codes.
 Exact heads, original valves/guides/seals, machining/assembly tolerances,
 quantities, body/market application and manufacturing/VIN selectors remain
 unresolved. No existing model original-identity or quantity field is changed.
+
+## Israeli national model-code evidence, 7 October 2026
+
+The Ministry of Transport model catalogue and importer new-car-price resource
+return 93 Škoda manufacturer-676 records each for the bounded 1994–2001 query.
+Their full class/manufacturer/model/year keys join one to one; names agree.
+Fifty explicitly named Felicia, four single-cab Pickup and five Vanplus records
+supply 59 year-specific articles under a recognition-only category. Twenty-three
+Felicia records explicitly name a hatchback; 27 leave the body field blank.
+Nine additional Combi/FELICIX-labelled records remain unassigned because no
+independent primary family/body or alias mapping has been established. Other
+Škoda models from the query are excluded. No combinations are manufactured.
+
+The model 620 Vanplus entry is dated 1996 although the general dataset description
+announces commercial coverage from 1998. It is not assigned a seating layout.
+National names such as 613/614/654 and TMBEHH673 are not interpreted as factory
+body or complete individual VIN identities. Recorded years are administrative
+year selectors, not production intervals. Fee-group changes remain year-specific.
+Reported engine capacity, power and gross mass retain their raw field values:
+returned schema/dictionary material does not establish units or horsepower basis.
+Numeric equipment flags remain reported values; blank/default/zero fields are
+not evidence of absence. Aggregate airbags/windows are not assigned positions,
+module identities or quantities of motors/regulators. Equipment origin and exact
+factory installation remain unknown. Importer price amounts are not published
+because currency/date basis has not been verified.
+
+All 59 records list the existing 712 named positions with source-specific
+selectors and explicit unknown original identities/quantities. No generic road
+engine, estate, timing-drive or equipment selector is copied into these records.
+The broad five-seat Vanplus page is a recognition/downward-navigation category;
+its former all-unknown inventory is removed without losing a confirmed fitted
+part. The four explicitly five-seat Israeli records supply its downward routes.
+No original OE identity, engine/gearbox product, installation origin, option code,
+body revision, manufacturing/VIN selector or complete original BOM is established.
+The original reconstruction objective and wider census remain active/unmet.
