@@ -895,3 +895,27 @@ positions. Manufacturer-photograph equipment is labelled as illustrated, not
 confirmed factory originality; no physical product identifier or factory
 quantity is established. Original source assets remain private. Complete OE
 BOMs, exact build/option/VIN and component selector chains remain unmet.
+
+## Coachbuilt body conversions
+
+The directly inspected MTX maker history establishes a Felicia-based four-door,
+four-seat cabriolet, distinct from the earlier Favorit two-seat Roadster.
+Felicia-specific type/approval, engine, roof mechanism/material, component
+products, production counts and exact build/application limits remain unknown.
+The maker’s broad convertible-programme chronology and Rapid export context
+are not transferred to Felicia.
+
+The Czech Transport Ministry’s 9 April 2024 response establishes the subject
+and holder of HP-0026: replacing a Felicia Pickup body with extended Laureta
+coachwork. It is not the full approval/annex and supplies no dimensional,
+mechanical, chassis or part selection. Applicant-supplied decision dates are
+not treated as independently confirmed approval documents. The maker’s separate
+J. Laureta manufacturing project is not silently equated with all conversions.
+MTX and Laureta have their own converted-body routes, without unsupported
+engine/body/gearbox combinations or a factory-original fitment claim.
+
+A convertible-roof assembly is an explicit unknown component position, separate
+from an ordinary roof panel, sunroof or Fun roof. Existing fitted claims are
+preserved. Both new conversion records have 717 positions with unresolved
+original identifiers/quantities and conversion products. No exact terminal OE
+BOM, original installation or complete reconstruction selector is established.
