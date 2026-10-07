@@ -946,3 +946,39 @@ part-number prefixes and shared board headings do not establish ordinary
 Felicia/Fun/Combi fitment, factory supersession, exact gearbox, steering, option
 or complete production/VIN selection. Full original BOM and reconstruction
 coverage remain unresolved.
+
+### MTX RS manufacturer leaflets and 1997 offers
+
+The public MTX leaflet collection supplied previously unexamined, unpaginated
+manufacturer-imprinted images. The Cabrio offer effective 1 September 1997
+documents five written trim/engine combinations: Standart 1.3 40 kW, Standart
+1.3 50 kW, Standart 1.6, GLX 1.3 50 kW and GLX 1.6. Each has a separate offer
+record. The Cabrio parent now contains recognition and downward offer routes,
+with its former generic unknown inventory replaced by inventories on those
+specific records. The undated technical sheet separately documents three
+power-unit specifications; it is not an exact dated-build/product crosswalk.
+
+Country, Komfort, Sport and Combi Family have separate manufacturer-leaflet
+records. Their listed engine/transmission/suspension, protection, cabin, audio,
+glazing and accessory classes are preserved without inferring road engine codes,
+complete gearboxes, final absolute tuned outputs or donor production/VIN limits.
+Family is an MTX converter designation, not the Czech factory Family edition.
+The March 1997 Family offer confirms a front drink-holder pair and a BRITAX
+child-seat brand, not individual part numbers, holder materials or a particular
+child-restraint product/approval. Its rear holder has no verified fitted count.
+
+Twenty-nine explicitly named conversion/equipment positions expand the taxonomy
+from 717 to 746. Existing inventories gain unknown rows only; nine new records
+have 746 positions each. Original OE identities, quantities and exact physical
+fitment remain unknown. Shared engineering articles retain intrinsic facts and
+keep different package/part descriptions distinct; they are not merged SKUs or
+verified direct replacements. None of these records is an exact reconstruction
+endpoint or a complete factory/converter BOM.
+
+The unheaded optional-equipment leaf is not assigned to a Cabrio edition or
+date without a verified document association. The three Octavia leaves are
+excluded from Felicia fitment. Forum-comment production totals, bore/output
+figures and additional Assistant/Tip/Space names are not promoted to verified
+configurations. No scans, source layout, protected prose or source assets are
+published. Further model sources and thirty-one newly acquired current Caddy
+service-product records remain to be assessed; this is not source exhaustion.
