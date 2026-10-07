@@ -919,3 +919,30 @@ from an ordinary roof panel, sunroof or Fun roof. Existing fitted claims are
 preserved. Both new conversion records have 717 positions with unresolved
 original identifiers/quantities and conversion products. No exact terminal OE
 BOM, original installation or complete reconstruction selector is established.
+
+## Volkswagen genuine Caddy service identities
+
+The current Volkswagen Classic Parts public Caddy Mk2 Pickup records provide
+fifteen complete manufacturer service numbers, genuine-quality classifications,
+source-specific size/mass metadata and selected callouts/quantities. Twelve
+public picture-board responses were inspected without account access, a vehicle
+VIN or a catalogue purchase. Only the selected component facts are independently
+described; no source diagram, image, table layout or source prose is published.
+
+The lambda-probe product description writes AAE, while its individual Caddy
+callout selects AEE. The combined AEE/AEF board heading is not a diesel probe
+application. Gauge, wiper-control, support-tube and hardtop-lamp chassis
+notations retain their own boundaries and unresolved asterisk meanings.
+Catalogue quantities are assembly callout quantities, not inferred packaging
+counts or complete historical vehicle quantities. Four-pin and nominal bolt
+size fields do not identify terminals, strength, torque or installed geometry.
+
+These are genuine manufacturer service identities and qualified candidates in
+eleven inventoried Caddy records. Existing original inventories are unchanged;
+no new historical original installation or exact whole-car configuration is
+confirmed. The 1997 UK diesel paint records do not acquire an AEF engine code;
+no later-range fuel gauge is assigned to them. Current model-year classification,
+part-number prefixes and shared board headings do not establish ordinary
+Felicia/Fun/Combi fitment, factory supersession, exact gearbox, steering, option
+or complete production/VIN selection. Full original BOM and reconstruction
+coverage remain unresolved.
