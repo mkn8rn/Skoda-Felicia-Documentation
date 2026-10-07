@@ -1297,3 +1297,34 @@ BeginningAugust1998 programme introduction is not a production/parts/VIN
 boundary. Full original BOMs and exact gearbox/body/steering/market/build/
 option chains remain unresolved; national census and source exhaustion are
 not claimed.
+
+## Polish Genua and Perfekt contemporary launch selections
+
+The directly inspected4May1999 Moto original adds two Genua capacity/colour
+classes and four Perfekt capacity/colour classes. It provides no per-engine
+body, fuel-code or approval map, so no inferred hatchback/Combi matrix is
+created. The Genua photograph independently depicts a marked hatchback, not
+an engine-specific order. The actual1.3Perfekt entry is printed59kW; a factory
+59kWcalibration or correctionto50kWis not established by this record. Genua
+outputs and resolved1.3Perfekt rating remain Unconfirmed.
+
+Equipment preserves the distinct Genua Momo/Blaupunkt/leather/foil/trim and
+Perfekt safety/central-lock/remote-alarm classes. Remote control of the alarm
+does not prove remote central locking. No physical radio/steering product,
+controller, pretensioner position, fuel code or stock/VIN selector is
+inherited from another programme. Historical500is a sales plan, not a
+verified production total. Original identifiers/quantities and full BOMs
+remain unknown. One newly named rubber bumper-protection-strip position
+extends the common796-position taxonomy; prior inventory facts remain
+unchanged with one unknown equivalent row. Source exhaustion is not claimed.
+
+## Explicit Fun LX grade in the manufacturer retrospective
+
+One further source-namedFunLX1.3MPI50kWclass links fromtheFun 1.3branch.
+The Swiss manufacturer publication reports a Czech-crown historical base price,
+notSwissdelivery or apricedate/buildselector. No LX grade is assigned to the
+1.6 or diesel; no engine/code/gearbox/steering/body/trim/option/chassis limits
+are inferred, and separately scoped 1.6 ratings are not assigned to the 1.3 LX.
+Full original identities, quantities and BOM remain unknown. The4,016/3,992Fun
+reportedtotals arealreadydocumented; thistranslationisnot anewproduction
+countor proof of anadditional series. Sourceexhaustionisnotclaimed.
