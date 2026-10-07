@@ -857,3 +857,41 @@ seven additional records retain 712 positions each, with no new confirmed
 original identity, quantity, factory/dealer provenance or exact selector chain.
 Gearbox, steering side, body revision, options and manufacturing/chassis limits
 remain unresolved; the exact factory-OE reconstruction endpoint remains active.
+
+## Russian revised-front dealer offer
+
+The directly checked November 1998 dealer scan identifies an LX carburettor
+hatchback with revised front appearance, a generic standard-package flag and
+an advertised 1998 year. This provides a separate revision-recognition route;
+the nearby Octavia 1.6 VW offer is not projected onto Felicia. The new record
+retains 716 named positions, unknown original identifiers/quantities and no
+exact factory build or component selector. Earlier November 1997 carburettor
+records now identify their evidenced metering class at the carburettor position,
+without selecting its physical unit. Checked July 1998 dealer rows retain their
+rounded 58/59-horsepower and capacity labels in the shared comparison; changed
+dates, prices and dealer names alone do not create further physical models.
+No new factory OE application, option identity or manufacturing/chassis boundary
+is established; fourteen source-specific Russian records have downward routes.
+
+## Named manufacturer historical and service vehicles
+
+The directly inspected manufacturer timeline adds separate Kit Car 1500,
+Combi LX (Policie) and Golden Prague illustrated-vehicle records; the manufacturer
+service-history article also establishes ambulance versions of Felicia Combi.
+The three illustrations distinguish a rally hatchback, police estate and
+concept hatchback. Their written engine/transmission descriptions are held in
+shared technical articles. Austrian hosting is not Austrian sales applicability;
+illustrated-model years are not exact manufacture dates. Police entry and
+ordinary-Combi totals remain family numbers; the different 351,895/351,905
+accounts do not count a police engine/equipment specification. Golden Prague’s
+one-vehicle statement does not establish assembly identifiers or a commercial
+series. Ambulance engine, seating, medical equipment and conversion origin remain
+unknown. No FIA extension, road engine code or gearbox family is inferred.
+
+Named supplementary rally lamps, emergency roof warning-light bars, front
+protective bars and cabin-divider screens are explicit generic positions, with
+unknown original fitment on existing inventories. The new records have 716
+positions. Manufacturer-photograph equipment is labelled as illustrated, not
+confirmed factory originality; no physical product identifier or factory
+quantity is established. Original source assets remain private. Complete OE
+BOMs, exact build/option/VIN and component selector chains remain unmet.
