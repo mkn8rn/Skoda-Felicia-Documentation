@@ -1328,3 +1328,38 @@ are inferred, and separately scoped 1.6 ratings are not assigned to the 1.3 LX.
 Full original identities, quantities and BOM remain unknown. The4,016/3,992Fun
 reportedtotals arealreadydocumented; thistranslationisnot anewproduction
 countor proof of anadditional series. Sourceexhaustionisnotclaimed.
+
+## Dutch AutoWeek named test descriptions
+
+Four source-defined test records preserve the actual written designations:
+Combi LXD 1.9 47 kW (title 1997), hatchback GLXi 1.3 50 kW (title 1996),
+Combi GLXi 1.6 MPI 55 kW with extra roof/importer wheels (title 1996), and
+Combi GLX 1.6 55 kW (title 1999). The archive displays dates 2000–2002;
+neither title nor archive date is converted into a build/production selector.
+These records can overlap broader importer offers; no distinct production
+count, factory grade alias, AEF/AEE/135/136 code or complete calibration is
+invented. Engine descriptions remain centralized; body categories receive
+only body/grade/year-label selection links.
+
+The older GLXi Combi report names actual extra sliding-roof/importer wheel
+equipment and separate reported grade features. Its 185-55 test tyres have
+no published rim diameter and are not equated with its 165/70R13 archive box.
+The diesel's reported absences remain test/source observations, not factory
+quantity-zero or all-grade absence. All four records retain 796 equivalent
+positions with original identities/quantities Unconfirmed. Journal equipment
+descriptions do not supply controller, glazing, wheel or original-option
+products. The inherited architecture selectors are not copied from another
+engine/body configuration.
+
+The current web Carbase's generic rain-sensor/particulate-filter labels, the
+diesel narrative's questionable closing-door preglow trigger and the petrol
+narrative's cast-iron-to-alloy historical story are excluded pending applicable
+primary technical verification. The public 1999 week 15 comparison identifies
+another Combi 1.3 GLXi title, but its full PDF requires authentication; no
+account was made and no protected URL/response was bypassed. Title-only
+metadata is not treated as a complete additional equipment configuration.
+
+The publisher sources continue to yield supported configuration distinctions,
+not source exhaustion. Full original factory identifiers/suffixes, exact
+engine/gearbox/body/steering/equipment/option/build/VIN selectors, original
+quantities and complete reconstruction BOMs remain unresolved.
