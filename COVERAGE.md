@@ -1237,3 +1237,63 @@ recognition categories. Small unclear prose/numerical fields remain excluded.
 Full engine/gearbox, national-grade/steering/body-build/option/VIN selectors,
 original identities, quantities and reconstruction BOMs remain unresolved.
 These sources are further evidence, not a source-exhaustion/completion claim.
+
+## May 2000 Mystery offer selectors
+
+The contemporary report explicitly offers both passenger bodies, all four
+written powertrains, two metallic finishes with matching Astro Maroni cloth,
+and two wheel-package classes. Thirty-two source-described selections retain
+these dimensions; formal package names, all package differences and complete
+stock/colour selection remain unresolved. No unnamed extra combination is
+invented. Common source classes distinguish Combi-only carrier, two/four
+speaker preparation, steel-cover versus Borbet-alloy wheels and driver airbag
+without passenger/side-airbag or belt-pretensioner absence claims.
+
+Each new record retains 795 equivalent positions with original identity/quantity
+Unconfirmed. Intrinsic offer equipment remains shared and historical starting
+prices are separate. Full OE identifiers/suffixes, exact gearbox/steering/
+body/option/build/VIN chains and complete original BOMs remain unresolved.
+The split rear seating class reuses the existing rear-bench position.
+No second rear-seat assembly position is introduced; existing inventories
+retain every fitted fact and original position unchanged.
+The report date is not a manufacturing cutoff; broader offer classes can
+overlap and are not new production counts. Source exhaustion is not claimed.
+
+## Finnish Helkama LX/GLX leaflet
+
+Two further source-defined hatchback offerings retain the actual LX/GLX
+technical heading and the common 1.3 petrol 50 kW description. Printed kerb
+values are 920/930 kg, not silently adjusted to familiar other-market values.
+Intrinsic powertrain, geometry, load and consumption data remain shared.
+No LXi/GLXi alias, injection-family/calibration code or equipment matrix is
+inferred. Source photos identify the importer, but provide no readable
+effective offer/build date, individual delivery/steering or full original
+engine/gearbox/body/trim/option/chassis selection. All original identifiers
+and quantities remain Unconfirmed; no new unique factory production count
+or complete BOM is asserted.
+
+The separately photographed 2/95 brochure has too-small grade/equipment text
+for a reliable complete crosswalk. Another Finnish range spread names four
+powertrains across both passenger bodies, but its grade/technical data are
+cropped. Those records do not supply a missing exact grade, part selector or
+date for the two readable Helkama offerings. More public primary photographs
+are not proof of source exhaustion or complete national coverage.
+
+## Contemporary model-year 1999 programme selections
+
+Eleven further single-option LX source classes retain the specifically
+reported power-assistance1.3/50, air-conditioning, tilt-roof,13inchBorbet,
+remote-lock/alarm and Combi-only carrier offers. No extra combinations,
+engine fuel-system/code, full joint-order matrix, original product, quantity
+or absence is inferred. All equivalent original inventory positions remain
+Unconfirmed except the source-reported class fields. The common programme
+records an unnamed wiper function and EDS with ABS without inventing a relay,
+modulator or controller. Octavia-only paragraphs are excluded.
+
+Two distinct canonical Grundig201/401 selections retain source-written names
+and unresolved full physical identities. Existing Safe-line descriptions
+link these names without assigning accessories or another supplier number.
+BeginningAugust1998 programme introduction is not a production/parts/VIN
+boundary. Full original BOMs and exact gearbox/body/steering/market/build/
+option chains remain unresolved; national census and source exhaustion are
+not claimed.
