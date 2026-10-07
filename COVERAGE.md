@@ -1420,3 +1420,39 @@ The full grade equipment, gearbox/body/electrical revisions, original suffixes,
 quantities/positions and production/option/chassis selectors remain unresolved.
 These are additional primary-source offer classes, not a complete terminal BOM
 or a claim that reasonable catalogue/source research is exhausted.
+
+## Dated ŠkoFIN offers and additional Russian-language Combi facts
+
+The original leasing illustration expressly starts on 1 September 1996,
+despite its seller’s 1999 bundle label. Twenty-two written body/grade/engine
+selectors are preserved: seven unqualified Felicia, seven Combi, four
+PICK-UP and four VANPLUS. GLX 50 kW is retained as written; output-only
+labels do not prove 1.3 capacity or injection, and 1.6/1.9 D labels do not
+prove outputs. Bare Felicia is not automatically routed to a hatchback code.
+The dated financial offer does not establish manufacture, registration,
+national delivery or stock/build/VIN applicability. No passenger values are
+transferred to the utility offers, and no Fun or Vanplus seating map is inferred.
+
+Each further offer retains 803 equivalent positions, with original identities,
+quantities and all other type/equipment fields explicitly Unconfirmed. The
+written engine selector is a period commercial class, not factory product
+confirmation. Currency and financing calculations are not inferred from the
+undetailed insert. The softer companion price-photo matrices overlap existing
+programme records or lack readable effective dates; no duplicated dated census
+or guessed small glyphs are added from them.
+
+The undated Russian-language manufacturer Combi brochure reuses its four
+existing records. Additional readable advertised acceleration/max-speed and
+diesel steady-90 km/h consumption values remain centrally scoped, without
+an inferred test method or engine/gearbox product. It gives 1,598/1,896 cm³
+for the two larger classes and expressly states standard diesel steering
+assistance; hydraulic architecture, rack/pump identity and counts remain unknown.
+No petrol assistance, national market, imprint or later-build application is
+inherited. Two further Russian-language photo sets lack sufficiently readable
+full configuration/colour/product mappings; seller dates and illustrated
+equipment are not substituted for original application records.
+
+These are additional primary-source commercial selectors and bounded mechanical
+facts, not new complete OE inventories. Full original identifiers/suffixes,
+quantities/positions and engine/gearbox/body/steering/equipment/option/build/VIN
+chains remain unresolved; reasonable source exhaustion is not claimed.
