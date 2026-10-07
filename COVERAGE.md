@@ -751,3 +751,39 @@ The original reconstruction objective and wider census remain active/unmet.
 - Visually inspected native Compexit advertisements from24December1996 and3November1998 establish six distinct dated Romanian grade/engine/body offers. The1996 LX1.3 is explicitly carburettor-fed/40kW; the injection rows do not establish SPI/MPI or engine codes. Only expressly named Combi rows receive an estate application; the generic passenger picture does not assign a body code or door count to every row. The1998 offers have unknown engines. Buyer price qualification is not a new physical equipment package.
 - Nine configurations each expose all712 named component positions. Original identifiers/suffixes, quantities/positions, gearbox and full manufacturing/body/market/steering/option/VIN selector chains remain unconfirmed. Positive observations are source-defined classes, not original factory fitment. No full OE BOM or exact terminal is claimed. Intrinsic engineering and period prices are centralized; categories retain recognition and downward routes.
 - The newly rediscovered CarPrint Irish brochure is an existing source, not another configuration set. The Spanish Ministry issue8028632 returned429 and is not used from search excerpts. Danish/Finnish/Belgian listing and catalogue-metadata leads are not checked specification matrices; no source-exhaustion claim follows.
+
+## DVSA body/engine selection evidence, 7 October 2026
+
+The official nineteenth-edition emissions reference, published December 2017,
+supplies nineteen explicitly printed Felicia body/engine applications: five each
+for hatchback and Combi, three for Vanplus, five for ordinary Pickup and one for
+Fun. The full 781.135B/136B/135M/136M and AEE spellings, repeated EEF/EFF short
+VIN labels and distinct body-selected idle ranges are preserved. The native
+printed pages 164 and 237 (PDF 180 and 254) were visually inspected. The older
+draft is not used in place of the published edition. No grade, output, injection
+layout, steering side or production/VIN cutoff is inferred. Only Pickup/Fun AEE
+rows expressly labelled injection receive that reported class.
+
+These are regulatory identification classes, not newly certified British sales
+offers or complete factory builds. Publication dates and short VIN labels do not
+select individual vehicles, B/M versions or original parts by themselves. Each
+class lists all 712 named positions, with source-specific selectors and unknown
+original identities/quantities. The source establishes no manufacturer parts
+identifier/suffix, gearbox product, equipment origin, body revision, option code
+or complete original BOM. The original reconstruction objective remains active.
+
+## Further Romanian offers and annual manufacturer counts, 7 October 2026
+
+Two separately advertised February 1997 Felicia passenger offers are documented
+from the native Compexit advertisement. Injection/catalyst wording is confined
+to its 1.6-litre row; no December grade, engine code, output, body or equipment
+is inherited. Its adjacent generic Škoda Pick-Up row is withheld because the
+model generation is not established. Neither offer closes factory part identity
+or exact configuration selection.
+
+Škoda’s official 2001 annual report supplies separate 1998–2001 production and
+customer-delivery counts for five Felicia bodies/derivatives and a separately
+branded Caddy production series. The native pages were visually checked. Dashes
+are not recast as numeric zero; deliveries are not build dates or part cutoffs.
+The report gives no market/grade/powertrain annual breakdown or factory BOM.
+The exhaustive model/configuration and original-parts objectives remain active.
