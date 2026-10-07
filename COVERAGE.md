@@ -1148,3 +1148,37 @@ wheel/steering/air-conditioning selections and partly obscured lowest
 programme labels remain outside this bounded inventory. No full original
 BOM, exhaustive census, source exhaustion or reconstruction completion is
 claimed.
+
+## Further genuine and MIKRA accessory evidence
+
+The complete sixteen-face undated German-language genuine-accessory catalogue
+supplies 87 written order identities. Existing identities are reused, including
+ACR/Casablanca, central locking, roof rails, refrigerator, mats and pollen filter;
+new records preserve complete A/DE/05/041 suffixes and separate body, door,
+left/right and console conditions. Six A-suffixed wheel products remain distinct
+from earlier non-A records. FDA 071 003 is retained as a written stabiliser class,
+not guessed to be an anti-roll bar or strut brace. The tweeter's partly covered
+identity remains unresolved. The abbreviated exhaust-trim expression retains
+unassigned variants. No photograph, stock-number suffix or partly legible back
+code supplies a publication date, delivery country, quantity or original fitment.
+
+The catalogue identifies the beverage holder DAA 061 011, under-seat/parcel-shelf
+storage, separate side pockets, door deflectors, mudflaps, roof equipment,
+sill protection, chains, emergency equipment and related recipient conditions.
+Its February 1998 parking-brake-grip condition is an accessory application,
+not a universal production/VIN cutoff. Four-piece mat packaging is not original
+installed quantity. Recipient-first requirements link shared intrinsic records.
+
+MIKRA's undated leaflet and June 1996 offer list distinguish 22 product classes,
+body/material/packaging offerings and universal candidates. They remain a scoped
+comparison with unresolved individual physical identities, not one common SKU
+or Škoda genuine products. Source shelf-exchange fulfilment does not fabricate
+two bag identities. Its untyped Pick Up line is not assigned to a Felicia/Favorit
+generation. Historical prices and VAT are separate from model recognition.
+
+Thirty newly explicit common positions remain Unconfirmed in every existing
+model inventory: no accessory association fills an as-built identity, quantity
+or national-grade installation cell. Existing fitted facts are byte-preserved.
+No complete factory BOM, assembly instruction, option/VIN or gearbox/revision
+selector is established. Further source frontiers remain active; this is not
+an exhaustive-census or reconstruction-completion claim.
