@@ -1112,3 +1112,39 @@ matrix, exact option codes or installation in a baseline colour selection.
 These additional option branches, precise build/colour/gearbox/equipment
 selectors and full original BOMs remain unresolved; no exhaustive completion
 or source-exhaustion claim is made.
+
+## Slovak-language 4/98 factory programme
+
+The actual manufacturer programme and legend support 22 body/grade/engine
+offers: Felicia and Combi, LX/LX special/GLX, with 1.3 MPI 40 kW restricted to
+LX/LX special and the 50/55/47 kW offerings in all six body/grade columns.
+The 4/98 imprint is the publication date. Slovak language alone does not
+establish every delivery country, market/build cutoff or importer selection.
+
+Each source-defined offer is a recognition selector with direct children for
+the separately offered driver-airbag/pretensioner, paired-airbag/pretensioner
+and ABS selections. Fourteen additional roof selections preserve its LX
+special/GLX restriction. The 80 equipment-selection articles have component
+inventories; no simultaneous-options Cartesian product is made. All 29
+grade/body/programme/engine selectors contain only selection/identity
+information. Engine/chassis/electrical characteristics and grade equipment
+are centralised in a scoped engineering comparison, not one physical SKU.
+
+Four source-named positions expand the equivalent taxonomy from 759 to 763:
+intermittent-wiper memory equipment, acoustic headlamp-on warning equipment,
+front accessory socket and rear trailing arms. Old inventories receive only
+Unconfirmed rows; their existing claims and identities are preserved. The
+4,932 previously omitted current positions in 73 older inventories are now
+also explicitly Unconfirmed rather than silently omitted. All inventories
+share the 763 equivalent positions, without asserting that every position
+is physically installed. New records retain original product identities
+and quantities as Unconfirmed.
+
+Unresolved selectors include exact engine/gearbox/alternator/battery and
+steering products, delivery country/steering side, body/build revision,
+production/chassis/option/paint codes, combined-order applications and
+original quantities/positions. Further offered radio/security/electric/
+wheel/steering/air-conditioning selections and partly obscured lowest
+programme labels remain outside this bounded inventory. No full original
+BOM, exhaustive census, source exhaustion or reconstruction completion is
+claimed.
