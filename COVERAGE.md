@@ -695,3 +695,17 @@ These additions do not establish complete factory OE identities, selected
 gearbox products/ratios, exact national/steering/option/build/VIN chains, all
 quantities or a reconstruction-ready terminal BOM. Further national catalogue
 and historic original-parts evidence is still being pursued.
+
+## AE/Payen valve-component service evidence, 7 October 2026
+
+The 2013–2014 manufacturer catalogue supplies eight distinct AE valve records,
+two AE guide records and three Payen seal-set records. Supplier-labelled OE
+references remain cross-references, not confirmed original factory fitments.
+The AEF-007000/007001 split applies to the two seal sets only. Separate
+7/7.97 mm inlet-stem selections are not silently assigned by that seal split.
+The literal 047198601D reference and unusual overlapping supplier intervals
+remain source-scoped, without correcting them into factory identities/dates.
+AMG/AMH/AMJ code entries are not automatically mapped to Škoda B/M codes.
+Exact heads, original valves/guides/seals, machining/assembly tolerances,
+quantities, body/market application and manufacturing/VIN selectors remain
+unresolved. No existing model original-identity or quantity field is changed.
