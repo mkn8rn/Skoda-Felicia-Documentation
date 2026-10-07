@@ -1399,3 +1399,24 @@ Full original physical identifiers/suffixes, quantities, gearbox/body/steering/
 equipment/production/option/VIN selections and complete reconstruction remain
 unresolved. These sources yield further verifiable distinctions; exhaustion
 or terminal factory-BOM completion is not claimed.
+
+## Direct 1995 hatchback and Combi manufacturer technical sheets
+
+Eight further source-defined body/grade/output selections preserve the actual
+LX/GLX 40kW and LXi/GLXi 50kW headings separately in both passenger bodies.
+The hatchback imprint is FC 03715 2/95; the Combi is FCK 02515 5/95, despite
+the seller’s 2/95 title. Publication imprint is not a build/parts cutoff,
+and Czech language does not establish national delivery or steering side.
+No full 135B/136B engine product is inferred from the Mono-Motronic family.
+
+Each record retains 803 equivalent positions. Manufacturer-described engine,
+transmission, mechanical and electrical classes link to centralized facts;
+original identities and loose-product quantities remain Unconfirmed. Rear
+stabilizer wording and Combi brake-pressure limiting are kept in their own
+body-source scope; no opposing absence is inferred. Complex mass/clearance
+footnotes are not assigned to a grade or an inferred airbag configuration.
+
+The full grade equipment, gearbox/body/electrical revisions, original suffixes,
+quantities/positions and production/option/chassis selectors remain unresolved.
+These are additional primary-source offer classes, not a complete terminal BOM
+or a claim that reasonable catalogue/source research is exhausted.
