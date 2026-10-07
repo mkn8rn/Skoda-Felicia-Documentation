@@ -1456,3 +1456,38 @@ These are additional primary-source commercial selectors and bounded mechanical
 facts, not new complete OE inventories. Full original identifiers/suffixes,
 quantities/positions and engine/gearbox/body/steering/equipment/option/build/VIN
 chains remain unresolved; reasonable source exhaustion is not claimed.
+
+## Swedish administrative model-year classifications and importer accounts
+
+Fifty-eight original-authority vehicle records are cross-checked by full code
+against both the corrected downloadable data and published HTML tables:
+44 passenger entries and 14 light-truck entries, year classes 1996–2001.
+Twenty-two Combi names and fourteen Pickup names have explicit body words;
+the twenty-two unqualified Felicia names do not supply a precise body code.
+No unqualified class is automatically routed to a hatchback or engine-code branch.
+The unusual 1996 LXi/GLXi 1.6 names and written 1999 Pickup Lxi are preserved.
+
+The administrative code identifies year class, brand and commercial model,
+not factory engine/gearbox/body or original-part products. The 2001 footnotes
+also cover manufacture-year classification; year labels do not select an
+individual production date or VIN boundary. Nine 2001 names contain raw hk
+descriptors, without a transferred kW value, test standard or calibration.
+No injection/steering/restraint/grade equipment, exact engine capacity,
+original identity/suffix, quantity or physical application is inferred.
+Each source-defined record retains 803 equivalent positions with unknown
+original identities/quantities and unknown individual component types.
+The commercial engine selector is not confirmed original assembly evidence.
+
+Publisher data and HTML are two formats of one authority source, not two
+independent manufacturer fitment records. The absence of a model/engine from
+these tables is not proof of absence from sales/production. Monetary fields
+are privately cross-checked; they do not enter car-identification categories.
+Full factory selectors, original BOMs and reconstruction remain unresolved.
+
+Importer accounts separately describe the 1995 first Felicia registrations,
+1996 brand-level growth, and more than 17,000 Swedish Pickup sales during
+1996–2000. They do not map grade/engine or original equipment to the coded
+classes; later Praktik equipment is not transferred to Felicia. The 2009
+1,420,441 family aggregate lacks a body/badge breakdown and is not silently
+reconciled with the later 1,401,489 Škoda-branded sum or an invented exact
+Caddy allocation. Source census and reasonable source exhaustion are not claimed.
