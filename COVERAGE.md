@@ -787,3 +787,28 @@ branded Caddy production series. The native pages were visually checked. Dashes
 are not recast as numeric zero; deliveries are not build dates or part cutoffs.
 The report gives no market/grade/powertrain annual breakdown or factory BOM.
 The exhaustive model/configuration and original-parts objectives remain active.
+
+## Current genuine accessory and battery evidence, 7 October 2026
+
+Fourteen separate canonical manufacturer products retain their full listed
+identities: seven colour/function-specific bolt-cover sets, three valve-cover
+sets, two different removal tools, a drink-holder ashtray and one Economy
+battery. Product-specific Felicia application lists, contents and restrictions
+were checked against the native official pages; the family filter alone was
+not treated as evidence. Standard and anti-theft cover sets are not merged,
+set counts are not original car quantities, unspecified weight bases stay
+unspecified and included tools are not assigned unsupported separate identities.
+
+These current accessory/service records establish no historic factory
+installation, supersession or exact engine/body/equipment/build application.
+They appear as recipient-conditioned candidates, not original inventory
+confirmations. The ashtray does not prove an original console holder exists in
+every Felicia. The battery’s title current has no stated test convention. No
+factory OE selection chain or complete original BOM is closed by this increment.
+
+The already retained July 2000 Popular road test expressly contrasts Classic
+hatchback/estate availability with Popular’s hatchback-only offer. Two Classic
+body/grade records now preserve that limited identification. They do not inherit
+Popular’s engine, output, standard equipment or omissions. A British Classic
+category remains distinct from Czech Classic package names. Classic powertrain,
+steering, original equipment, manufacturing/option identity and BOM remain open.
