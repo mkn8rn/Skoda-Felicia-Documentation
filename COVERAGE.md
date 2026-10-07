@@ -1182,3 +1182,30 @@ or national-grade installation cell. Existing fitted facts are byte-preserved.
 No complete factory BOM, assembly instruction, option/VIN or gearbox/revision
 selector is established. Further source frontiers remain active; this is not
 an exhaustive-census or reconstruction-completion claim.
+
+## Further 4/98 individually offered configurations
+
+The rechecked option matrix supports 118 additional independently offered
+body/grade/engine selections: electric mirror/central-lock package, radio
+preparation, ACR/Verona/Casablanca, three distinct alarm/remote offerings,
+power steering, air conditioning, front electric windows and Ronal/Bobet
+wheel packages. Eligibility is taken from each source-defined offer and its
+explicit restrictions, not an unrestricted option Cartesian product.
+Power steering remains 1.3 MPI 50 kW only; air conditioning remains GLX
+with the 50/55 kW petrol offer. No GLX 40 kW model or combined-extra order
+is invented. All 22 engine selectors directly link their applicable children.
+
+Named alarm and central-locking package positions expand the current common
+taxonomy from 793 to 795 without identifying loose controllers. Existing
+inventories receive only two Unconfirmed rows, preserving every existing
+fact. New electric-package records use the electrical mirror-control class;
+new alloy-package records do not inherit confirmed ordinary wheel covers or
+assume the base tyres, spare or supply arrangement. Full radio identities
+from a different catalogue are not assigned by name alone. Source package
+counts remain distinct from original part quantities.
+
+The lowest obscured option labels/footnotes, exact combined-order and physical
+product selection, steering side/delivery country, engine/gearbox/body
+revision, option/paint codes and build/VIN boundaries remain unresolved.
+Neither these further offers nor counts establish complete factory BOMs,
+source exhaustion or reconstruction completion. Further corpus work continues.
