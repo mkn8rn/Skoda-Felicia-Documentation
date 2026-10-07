@@ -812,3 +812,27 @@ body/grade records now preserve that limited identification. They do not inherit
 Popular’s engine, output, standard equipment or omissions. A British Classic
 category remains distinct from Czech Classic package names. Classic powertrain,
 steering, original equipment, manufacturing/option identity and BOM remain open.
+
+## Russian November 1997 period selections
+
+The publisher’s original November 1997 pages establish an LX five-door
+hatchback 1.3 carburettor/40 kW test and five additional named Moscow sales
+classes: GLX 1.6 hatchback; LX 1.3, LXi 1.3, GLX 1.3 and GLX 1.6 estates.
+The ambiguous written 1.3 X estate row is retained in price history, without
+inventing an official extra grade. The LX price and test power labels remain
+distinct evidence; no duplicate engine calibration is invented from 55 versus
+54 horsepower. Price-list letters are not assigned injection architectures.
+
+The six records retain 712 explicit positions each. The test supplies source-
+scoped engine, chain, carburettor/start enrichment, transmission, clutch, brake,
+clock, bench and delivery-equipment classes. Intrinsic engine and tyre data
+and the reported 55/42 Ah comparison are centralised. Reinforced suspension
+is not assigned unproved axle-specific products or a German rough-road key;
+Pierburg is not silently aliased to 2E3. Test equipment absences do not prove
+every related component absent. No new original identity or quantity is given.
+
+Full engine/carburettor/gearbox codes, original battery interfaces and products,
+body revisions, steering side, options, manufacturing/chassis limits and complete
+OE inventories remain unresolved. The price sources are period observations,
+not exact build records or a whole-vehicle bill of materials. Further Russian
+period sources remain available as leads; no exhaustive census is claimed.
