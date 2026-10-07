@@ -836,3 +836,24 @@ body revisions, steering side, options, manufacturing/chassis limits and complet
 OE inventories remain unresolved. The price sources are period observations,
 not exact build records or a whole-vehicle bill of materials. Further Russian
 period sources remain available as leads; no exhaustive census is claimed.
+
+## Further Russian sales classes
+
+The checked November 1997 dealer rows distinguish advertised 1997 LX 1.6
+injection and LX 1.3 carburettor hatchbacks, and advertised 1998 LX 1.9 diesel
+and LX 1.3 carburettor hatchback/Combi alternatives. Six separate body records
+preserve those explicit alternatives without inventing engine-code or gearbox
+combinations. Reported hydraulic assistance, catalyst, sunroof and velour
+features are dealer descriptions; factory origin/options and exact products
+remain unconfirmed. A standard-package flag does not supply omitted equipment.
+The written 58/59 horsepower and rounded capacity labels are not silently
+normalised to a workshop engine, calibration or production cutoff.
+
+A July 1998 native price table adds an LX 1.6 Combi class. Other named LX
+classes recur without evidenced new part-changing revisions, so no extra
+physical model is invented solely from a new price/date. Thirteen Russian
+records now have direct routes from the market recognition category. These
+seven additional records retain 712 positions each, with no new confirmed
+original identity, quantity, factory/dealer provenance or exact selector chain.
+Gearbox, steering side, body revision, options and manufacturing/chassis limits
+remain unresolved; the exact factory-OE reconstruction endpoint remains active.
