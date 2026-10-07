@@ -982,3 +982,83 @@ figures and additional Assistant/Tip/Space names are not promoted to verified
 configurations. No scans, source layout, protected prose or source assets are
 published. Further model sources and thirty-one newly acquired current Caddy
 service-product records remain to be assessed; this is not source exhaustion.
+
+## Laureta maker/body and period-demonstration evidence
+
+The 2020 interview with builder Jaroslav Jelínek supports actual hearse,
+ambulance and service-vehicle manufacture within the Pickup-derived J. Laureta
+programme. Separate records identify the maker-described hearse, the published
+ambulance body/lighting illustration, the Service-Mobil rear view and the
+workshop-interior illustration. Different illustrations are not joined into
+one presumed VIN or complete equipment set. HP-0026 remains a separately
+identified body-replacement conversion, not a blanket manufacturing approval.
+
+A newly inspected primary period newspaper, *Zpravodaj Benátecka* 5/2001,
+printed/PDF p. 2, reports a 5 April 2001 Laureta display of workshop, ambulance,
+hearse and utility forms with two additional passenger places. Its caption
+identifies Škoda Auto chassis only; it does not confirm the last form’s exact
+Felicia donor, total seating or M4B/M5B code, and no new donor/engine combination
+is invented. The 2020 lead’s vehicle count and the maker’s body/vehicle counts
+and different periods remain separately attributed rather than summed.
+
+Thirteen named/visible component positions extend the generic taxonomy from 746 to
+759: a separate roof beacon, distinct left/right coachbuilt rear wing doors,
+and workshop cabinets, drawers, handles, vice shelf, vice, perforated tool
+panel and restraint straps, separate coachbuilt side/rear-door glazing and a
+coachbuilt cargo lamp. Pre-existing inventory rows are preserved. Only
+the explicitly observed illustrated equipment fields are assigned; historical
+original/converter identifiers and required installed quantities stay
+Unconfirmed. The private sources and renderings are not published.
+
+No source establishes body material/section/joint drawings, chassis identity
+across views, exact body/type approval, original engine/gearbox, steering side,
+medical/seat/restraint circuits, product numbers, full quantities or
+manufacturing/option/VIN fitment. The complete original reconstruction endpoint
+and wider census remain open. Current-maker TIP/SPACE searches and certificates
+provide no historic configuration selector; the 1998 planned-show announcement
+remains a lead, not evidence of actual sale/display or a particular converter.
+
+## Argentina registration-class model evidence
+
+The official DNRPA Disposición 503/2002 valuation annex, printed/PDF p. 115,
+identifies five Felicia class records: estate Combi GLX (322/04/002), estate
+Combi GLXI (322/04/004), five-door passenger GLX (322/05/001), five-door
+passenger GLXI (322/05/003), and estate LX 1.9D (322/04/006). Each has a
+separate substantive class article and downward recognition routes. The last
+record’s body field remains estate even though its name omits Combi; the
+five-door passenger label is not promoted into a new three-box sedan body.
+
+Populated valuation columns are 1997–1999 for the first four and 1998 for the
+last. They are not a production, import, sale or parts range, and blanks are
+not absence evidence. No year-by-engine matrix is invented. Factory body/code,
+engine/output/metering, gearbox, steering, equipment and production/option/VIN
+mapping remain unresolved; no original OE identity or quantity is newly
+confirmed. The inherited 759-position inventories retain these equivalent
+component slots as Unconfirmed. Further period importer/technical sources,
+not this administrative namespace, are needed to resolve physical fitment.
+
+## Further current Caddy component identities
+
+Thirty-one additional individually verified Volkswagen Classic Parts product
+records extend the canonical service corpus: 28 classified Genuine Volkswagen
+Quality, two Genuine Reproduction Quality and one Original Equipment Quality.
+The full satin-black switch suffix is preserved. Reused spring-ring and
+self-locking-nut identities each have one canonical article with their separate
+assembly rows. Component identities, intrinsic data and current callout
+quantities remain in those records; replacement requirements and model
+candidate sections link them without duplicating those specifications.
+
+Quantity X on the instrument bulb stays numerically Unconfirmed. Source
+callout quantities are not stock, package, whole-vehicle or historic installed
+counts. The late diesel kilometre-scale speedometer is not assigned to the
+1997 UK offers. Seat-bracket/chassis and hardtop-parent limits retain their
+written starred selectors. The ABS clip requires actual ABS equipment; it is
+not evidence that an entire offered configuration has ABS.
+
+The bonnet-bung product/board function discrepancy, retaining-washer
+front-product versus rear-board discrepancy, and bearing dimension precision
+remain explicit. AEE/AEF labels in a product’s gearbox prose are not gearbox
+assembly products. Reproduction and OE quality are not historical genuine
+factory installation or NOS claims. No service row is promoted into an
+original-identity cell, no application transfers from a shared prefix to other
+Felicia bodies, and no complete original BOM/selector chain is established.
