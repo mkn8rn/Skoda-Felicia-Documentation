@@ -1209,3 +1209,31 @@ product selection, steering side/delivery country, engine/gearbox/body
 revision, option/paint codes and build/VIN boundaries remain unresolved.
 Neither these further offers nor counts establish complete factory BOMs,
 source exhaustion or reconstruction completion. Further corpus work continues.
+
+## Undated Laurin & Klement maker leaflet and Autotest records
+
+The six-face Slovak manufacturer leaflet directly names a Felicia 1.3 BMM
+hatchback and Combi 1.6 MPI, with two front airbags and ABS in its safety
+description. Two specifically scoped leaflet selections preserve those
+combined safety classes. This undated primary evidence corroborates the
+body/engine pairings but does not independently date the existing secondary
+1995 records or establish their complete engine product/application. The
+centenary motif is not treated as an effective price/build date.
+
+Two additional Autotest observed configurations distinguish the MPI 50 kW
+Laurin & Klement hatchback from the separate Combi GLXi Classic, whose actual
+car had paired front airbags and ABS. Standard-price equipment, tested extras
+and an unconfirmed-as-installed air-conditioning offer remain separate. The
+archive labels the record1998; the printed year/issue is not visible. All
+four records preserve795 equivalent positions with original product/quantity
+fields Unconfirmed. They can overlap broader dated source classes; no separate
+production count or uniquely identified as-built vehicle is invented.
+
+The engineering comparison keeps BMM/MPI, brochure/test dimensions and the
+separately recorded power/torque speeds in their own source scope.
+Radio names are not mapped to catalogue order codes; airbags do not prove
+pretensioners or side-airbag absence. Historical CZK prices are outside
+recognition categories. Small unclear prose/numerical fields remain excluded.
+Full engine/gearbox, national-grade/steering/body-build/option/VIN selectors,
+original identities, quantities and reconstruction BOMs remain unresolved.
+These sources are further evidence, not a source-exhaustion/completion claim.
