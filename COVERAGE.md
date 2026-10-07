@@ -1363,3 +1363,39 @@ The publisher sources continue to yield supported configuration distinctions,
 not source exhaustion. Full original factory identifiers/suffixes, exact
 engine/gearbox/body/steering/equipment/option/build/VIN selectors, original
 quantities and complete reconstruction BOMs remain unresolved.
+
+## All Safe and Space Line manufacturer leaflets
+
+The original German All Safe leaflet (VF 37-900/09/99) directly confirms
+three Combi offers and their LX / LXi 1.6 / LX 1.9D wording. The matching
+existing ADAC articles are reused and retain their earlier evidence. Seventeen
+manufacturer equipment classes per offer add independent source qualifications;
+radio depiction is explicitly extra equipment, and body-colour mirrors do not
+prove heating/electric adjustment. Date/stock prices are not build cutoffs.
+
+The original Space Line sales-support programme is printed 9/2000 and names
+four Combi engine/output offers. Seven source-defined selections retain those
+four offers, two explicit 1.3 assistance options and the legible 1.6 air-conditioning
+application. No guessed engine code, palette, full radio product, ABS+EDS engine
+matrix or simultaneous-option cross product is introduced. A category with
+downward selections contains recognition data only; equipment and historical
+prices stay in shared technical/history articles.
+
+Seven newly named equivalent positions distinguish seat-height equipment,
+load-space storage compartments, removable intermediate floor, folding load
+bag, tyre kit, sealing-material container and portable compressor. Every older
+inventory receives only those explicitly unknown rows except the three directly
+source-qualified All Safe records. The four-speaker complement is quantified
+at source-complement level; individual speaker identifiers/positions are unknown.
+Two storage compartments are not two removable bag products or two loose trim
+assemblies. No quantity is inferred for kit packaging, bags or seat mechanisms.
+
+Small price/volume figures, the exact 1.3 climate restriction and upholstery
+pattern identity remain excluded where the native source photos are insufficient.
+Škoda MS 201/MS 401 names are optional-radio references, not tyre-kit codes or
+onboard computers, and are not silently merged with Grundig physical products.
+The wider current-colour programme is not expanded into invented named paints.
+Full original physical identifiers/suffixes, quantities, gearbox/body/steering/
+equipment/production/option/VIN selections and complete reconstruction remain
+unresolved. These sources yield further verifiable distinctions; exhaustion
+or terminal factory-BOM completion is not claimed.
