@@ -617,7 +617,7 @@ Motor16’s directly read public archive pages expose a jump from the2014 entrie
 
 ## Hungarian and Portuguese period-source selections
 
-Károly Varga’s February1996 Autómobil95 report supplies three written Budapest1995 grade/output applications: LX40kW, LXi50kW and GLXi50kW. It does not identify engine capacity/code, gearbox, steering side, original products or a grade-to-body mapping. The generic Felicia figure and separate Combi novelty mention are not three hatchback or three Combi fitments. Monomotronik spelling and the three-way catalyst description remain source-scoped, not physical equivalence with an identified Bosch metering assembly or road engine code.
+Károly Varga’s February1996 Autómobil95 report supplies three written Budapest1995 grade/output applications: LX 40 kW, LXi50kW and GLXi50kW. It does not identify engine capacity/code, gearbox, steering side, original products or a grade-to-body mapping. The generic Felicia figure and separate Combi novelty mention are not three hatchback or three Combi fitments. Monomotronik spelling and the three-way catalyst description remain source-scoped, not physical equivalence with an identified Bosch metering assembly or road engine code.
 
 Carlar/SIVA’s August1997 Portuguese advertisement identifies four hatchback/Break grade/capacity offers, corroborated by directly checked March/May1998 advertisements. Repeated price boxes do not manufacture twelve models, supply a facelift cutoff or establish continuous sale/build applicability. Standard steering assistance is an advertised range class; the mechanism and all individual steering products remain unknown. Optional ABS/unspecified airbag wording supplies no installed combination, module positions/counts, pretensioners or option codes. The October1997 multipoint/diesel range promotion is not mapped to those grade/capacity offers. Special-sales contacts for people with disabilities are not evidence of adapted controls.
 
@@ -1681,7 +1681,7 @@ The publisher-retained 14 November 1995 Gorenjski glas issue contains an
 additional Combi GLXi configuration on printed page12 / PDF10, distinct from
 the already documented March/May hatchback tests and June Combi launch account.
 The original byline is M. Gregorič; its initial is not expanded. The actual
-technical panel supports five doors/seats, 1289cm³/50kW electronic petrol
+technical panel supports five doors/seats, 1,289 cm³/50kW electronic petrol
 injection, five-speed manual and FWD. Reported extra alloy wheels, roof aerial
 with radio preparation, tinted glazing and metallic-silver finish belong to
 this tested configuration, not every national GLXi. The prose's GLX package
@@ -1784,3 +1784,34 @@ Dlib TXT links returned catalogue HTML. Used adverts, other cars' tests and
 personal-name matches are not factory configurations. This is not a source-
 exhaustion or reconstruction-completion claim; further primary catalogue and
 factory OE/application evidence remains necessary.
+
+
+### Italian advertised configurations — 8 October 2026
+
+Personally inspected l’Unità advertising adds two February 1995 hatchback launch
+grades, ten January 1998 body/nominal-engine/grade offers and ten July 1998 offers
+with explicit kW/CV. January’s independent dealer records corroborate one programme;
+they do not create duplicate physical models solely by dealer or publication date.
+The July 1.3 CombiLX is50kW, unlike the hatchbackLX 40 kW. That output is not assigned
+retrospectively to January. CV remains the source’s unit rather than British bhp.
+Conditional scrappage prices are separate from full-price facts, not extra fitted
+configurations. The printed registration-levy exclusion is preserved without
+inventing its legal basis, VAT percentage or modern tax treatment.
+
+The November 1994 preview’s1,289 cm³/Bosch single-point/catalyst/lambda/FWD facts
+remain source-scoped in the shared engine article. They do not populate the later
+offers’ physical injection, ECU, gearbox or original identities. The November 1995
+Wagon display and March 1998 facelift advertisements do not give sufficient grade/
+engine selection for extra specific offers. No photograph supplies optional
+equipment across every row. All 22 offers enumerate 820 positions; only the expressly
+advertised engine class is confirmed at type level. Original identifiers, loose
+quantities, exact steering/gearbox/body revision/options/build/VIN remain unknown.
+No complete OE reconstruction endpoint is claimed.
+
+A separately inspected26 September 2000 Gorenjski glas notice announces a planned
+Slovenian Felicia Friend for November with richer but unspecified equipment and
+price. It does not identify realised sales or a body/engine pair; eight November
+issues had no further machine-text Friend match. German March 1999 Friend equipment
+is not transferred to Slovenia. This bounded pass does not establish absence or
+source exhaustion. Italian Silver Selection/Comfort, Belgian ABS leaflet and Polish
+Trend remain leads requiring directly inspected, applicable primary records.
