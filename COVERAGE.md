@@ -1647,3 +1647,29 @@ added. Mounting/pulley/connection specifications, winding/diode/brush data,
 loose-member counts and exact national/steering/option/revision/build selectors
 remain unresolved. Reconstruction and reasonable source exhaustion remain
 active and unmet.
+
+
+### Swiss source counts and earlier VIN masks — 8 October 2026
+
+Directly inspected native JSON records supply numberOfWheels=4 for all thirteen
+existing Felicia/Pickup approval classes. Twenty-two inventoried descendants
+now record that bounded wheel count; the original rim, exact positions and
+spare selection remain Unconfirmed. Their mirror field names sides but does
+not supply a count, so no mirror quantity was imported from older approvals.
+
+Paper records 1S2509 and 1S2510 expressly supply two axles/four tyres. Their
+mirror field, like the native JSON field, names left/right positions without
+a numerical count. High-resolution inspection confirmed that the letter l in
+links is not a numeral. All mirror quantities remain unchanged and Unconfirmed.
+Three tyre-count cells are sourced on the existing ratio/body records, without
+converting them to original product identities or spare counts. The already documented single plastic tank count
+is unchanged. No new tyre/rim alternatives or factory configuration is created.
+
+The two earlier masks are documented centrally and on the four existing
+classification/configuration pages. Seventh-character preparation remains
+unspecified; both hatchback final drives share the same mask, and the estate
+retains only its own 4.17 entry. Grada's raw 0.24/0.26/0.30 combined engine/gearing
+notations are retained without identifying a gear stage, complete transmission
+product or precise ratio by calculation. Approval/print dates are not production
+or part cutoffs. Full original products, build/option selection and complete
+reconstruction remain unresolved; reasonable source exhaustion is not claimed.
