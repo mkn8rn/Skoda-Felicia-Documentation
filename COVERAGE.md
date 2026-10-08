@@ -1550,3 +1550,34 @@ record; no historical as-built sealant or complete original inventory is claimed
 Paid/publisher/manufacturer source imagery and extracts remain ignored privately.
 Broader census, exact OE-selector chains and reasonable source exhaustion remain
 active and unmet. No Review, account, contact or deployment operation occurred.
+
+## Starter specification and separately identified service components
+
+Haynes 3505 printed 5A•1–2 identifies early 1.3-litre, later 1.3/1.6-litre and
+diesel rating groups and pre-engaged operation, not a complete maker/product
+identity. Its June 1995 wording does not yield an exact change day, national
+equipment map, utility-body application or original-build/VIN boundary. These
+facts are centralised in a shared engineering article, not category narrative.
+
+The directly inspected Magneton manufacturer record identifies complete starter
+9141310 and nine separately numbered service members: armature 7150.882,
+bearings 324165006/324137038, drive 7150.860, switch 7150.872, stator with holder
+7150.892, front cover 6954.930, gear cover 6954.940 and rear cover 1658.400.
+Each has one canonical article; recipient-first requirements retain links and
+selection conditions rather than duplicating stock identities/specifications.
+The parent has scoped electrical/pinion characteristics and supplier application
+classes, without turning broad 1994-start intervals into Combi/Pickup/AEE
+manufacturing dates. 135i/136i labels do not establish B/M suffixes. Brand/stock
+cross-references are not physical aliases, factory supersessions or original fit.
+All five manufacturer images are versions of one dimension drawing, not five
+independent sources or product photos. No source imagery/layout is published.
+
+Six additional generic armature, shaft-bearing, stator and cover positions expand
+the taxonomy from 803 to 809. Every existing model inventory receives all six,
+with fitted type, original identity and quantity explicitly Unconfirmed. A/B
+bearing locations, dimensions, materials, winding/brush detail, internal counts,
+exact starter/gearbox/ring-gear identity and revisions, original fitment and
+production/steering/market/option limits remain unresolved. The nine service
+members are not a complete internal BOM. No original factory identifier or
+quantity is added, and no specific car is invented by matching a rating alone.
+Full reconstruction and reasonable source exhaustion remain active and unmet.
