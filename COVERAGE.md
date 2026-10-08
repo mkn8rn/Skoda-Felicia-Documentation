@@ -1491,3 +1491,62 @@ classes; later Praktik equipment is not transferred to Felicia. The 2009
 1,420,441 family aggregate lacks a body/badge breakdown and is not silently
 reconciled with the later 1,401,489 Škoda-branded sum or an invented exact
 Caddy allocation. Source census and reasonable source exhaustion are not claimed.
+
+## Turkish period sales classes and Estonian importer history
+
+The directly inspected Istanbul University 2002 thesis, table 2 printed p.102,
+identifies four positive 2001 Turkish passenger import-sales classes: Felicia
+1,3; Felicia 1,6; Felicia Combi 1,3; and Felicia Combi 1,6. Each is a separate
+source-scoped model record with 803 equivalent component positions. Only its
+written commercial engine label is known; original products/suffixes,
+quantities, physical types and exact selection chains remain Unconfirmed.
+Sales/accounting dates are not model-year, manufacturing, registration or
+factory parts boundaries. Bare Felicia is not forced into a hatchback code.
+The reported totals are attributed in history, with no copied monthly table.
+
+The separate p.103 Pickup 1,3/1,9 D and Pickup Fun rows do not establish a
+complete Felicia utility revision or manufacturing scope. No new Pickup/Fun
+configuration is inferred from them; Fun’s recorded zero sales does not prove
+absence from manufacture or a market offer. Further importer/factory mapping
+is required. The May 1998 Hürriyet report supplies facelift body names in
+Turkish launch context, not a national body/grade/engine matrix. Its price is separate
+historical information, not category content or a fitment cutoff.
+
+Äripäev’s November 2005 history gives Eesti Helkama-Auto’s 1995 Felicia and
+Combi sales, without a usable configuration/parts matrix. Its June 1996 monthly
+figure is company-wide. No Estonian engine/grade/body combination is
+invented. TSB’s current public model-year interface covers 2012–2026 and its
+archive picker only recent years; no applicable historic Felicia catalogue
+was acquired through that interface. Direct original-page access for the
+July 1997 Cumhuriyet LX-price lead and Icelandic day archive returned 403;
+search excerpts are not promoted to inspected factory/configuration records.
+Broader census/source exhaustion and complete original-OE reconstruction remain
+active and unachieved; no account/contact/purchase or access bypass occurred.
+
+## VIN/data-label recognition and front-wing service material
+
+The 2015 authorised Felicia technical publication, §1.3.3 p.20, supports VIN
+field allocation, body-shell airbag-preparation codes, broad engine/body/version
+labels and physical data-label/type-plate locations. These source-defined
+recognition values do not establish installed airbag/ABS/pretensioner equipment,
+full gearbox identity, engine B/M suffix, complete export emissions codes,
+2000–2001 year-code values, Fun/Vanplus option mapping or any original parts BOM.
+No combination is generated from independent VIN field legends. The separate
+data-label gearbox/engine/paint/interior/options fields offer an identification
+route, without fabricating a catalogue code-to-component mapping. The 2021
+manufacturer statement independently supports the right damper-support VIN
+location and reports factory-corrected stamping on some older Felicias; it is
+historical evidence, not current registration authority or a re-stamping guide.
+
+The book's §2.2 pp.21–22 explicitly identifies D176001A3 as a genuine service
+sealing material for primed front-wing mating faces. A canonical record and
+recipient-first requirements preserve that service evidence. Audi's 9 January
+2018 bulletin corroborates the complete identity and silicone-adhesive
+description, not a Felicia heater application. Packaging/formulation/cure,
+supersession, exact wing product/revision, material amount and production/option
+bounds remain unresolved. Figure 2.1 item 2 is the wing, not a sealant callout.
+No factory original-identity or quantity cell was filled from this service
+record; no historical as-built sealant or complete original inventory is claimed.
+Paid/publisher/manufacturer source imagery and extracts remain ignored privately.
+Broader census, exact OE-selector chains and reasonable source exhaustion remain
+active and unmet. No Review, account, contact or deployment operation occurred.
