@@ -1933,3 +1933,17 @@ inferred. Supplier reference associations do not prove factory supersession
 or original fit. Actual mounting, beam/traffic, adjustment and delivery
 contents remain unresolved. Original BOM, quantities and full selectors
 remain active/unmet; no reasonable source-exhaustion claim is made.
+
+
+### Maltese and UK dealer records — 8 October 2026
+
+Three Maltese source-offer records identify the 1995 LX designation and the
+separate October 1996 five-door/Combi offers. A May 1998 UK dealer record names
+a new GLXi diesel in Hot Chilli red metallic. Advertisement/publication dates
+remain source dates; no engine/output/body/paint-code/equipment matrix is
+created from photographs, generic Felicia descriptions or market convention.
+The 1995 LX and UK GLXi bodies remain unresolved. Two source-supported body
+fields and four 820-position inventories retain all original identities and
+quantities Unconfirmed. The listed guarantee/service/payment terms do not
+identify installed components. Source searches continue; no reasonable
+source-exhaustion or complete factory configuration/BOM claim is made.
