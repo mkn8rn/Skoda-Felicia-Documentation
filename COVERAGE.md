@@ -1581,3 +1581,36 @@ production/steering/market/option limits remain unresolved. The nine service
 members are not a complete internal BOM. No original factory identifier or
 quantity is added, and no specific car is invented by matching a rating alone.
 Full reconstruction and reasonable source exhaustion remain active and unmet.
+
+## Swiss masked-prefix and body-preparation recognition
+
+Thirteen directly inspected native ASTRA approval records (version0 German/
+French views, not twenty-six independent configurations) give seventeen-character
+type-level prefix patterns and right damper-housing VIN locations. Seven fix
+character7 at6; the authorised Grada §1.3.3 p20 legend interprets that as Z,
+airbag-prepared shell class, not installed airbags, pretensioners or ABS. Four
+passenger records leave that character unspecified; both Fun records leave all
+fields after TMBE unspecified. 3SH101 fixes version character9 at3 (broad LX),
+without proving national grade equipment or excluding its permitted canopy
+classes. Model year and plant fields are unspecified throughout this corpus.
+
+Shared interpretation and source-specific recognition links refine the existing
+approval paths and their already documented descendants. No new combination is
+generated from a dotted field. Existing factory, service and option inventories
+remain byte-preserved; no physical shell, airbag, gearbox or original quantity
+is confirmed by the prefix. The legacy1S2509/1S2510 PDF records are not part of
+this thirteen-record native JSON interpretation. A masked type prefix and
+approval date cannot substitute for original-build/option/parts selector chains.
+Full OE reconstruction and broader reasonable source exhaustion remain unmet.
+
+The newly read first-party Volkswagen1997 report, printed37/PDF39, supports a
+Sarajevo Felicia assembly plan; its plan is documented in history, not treated
+as achieved volume or an engine/grade/body/parts assignment. A Tuzla municipal
+used-vehicle notice lists nominal Felicia1.3GLX (reported manufacture1996,
+blue) and LX1.6 (reported manufacture1999, grey), but owner location and later
+recorded paint do not establish new official factory configurations, original
+market or local assembly. It supplies no engine suffix/output/injection,
+factory body, gearbox, steering, options or original-parts application. No new
+models or fitments are generated from it. The notice cites a decision of
+23October2019: its URL2014/11 and initial private2014filename are not publication
+dates. Bidding/payment/account instructions are ignored; no contact or action.
