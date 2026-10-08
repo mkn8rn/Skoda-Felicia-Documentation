@@ -1614,3 +1614,36 @@ factory body, gearbox, steering, options or original-parts application. No new
 models or fitments are generated from it. The notice cites a decision of
 23October2019: its URL2014/11 and initial private2014filename are not publication
 dates. Bidding/payment/account instructions are ignored; no contact or action.
+
+
+### Magneton alternator and internal service identities — 8 October 2026
+
+Four directly inspected manufacturer records identify separate complete
+alternators 9516591, 9516661, 9517164 and 9517464, with 27 unique internal
+service identifiers. Each complete assembly and each internal identifier has
+one canonical article. Exact shared bearing, fan and diesel-member identifiers
+are reused across parents; equal ratings do not merge the complete assemblies.
+The two diesel records identify different pulleys. Separate holder, regulator
+and assembled holder/regulator listings do not prove constituent identities,
+installation quantities or an additive exploded BOM.
+
+The period manual supplies the 12 V negative-earth system, a 55–90 A range and
+a source-scoped brush inspection limit. It does not map those facts to a
+particular Magneton service assembly. Supplier speed points are alternator
+speeds, not engine limits, and parent ratings are not loose-member specifications.
+The supplier's literal production-date column remains a catalogue interval,
+not evidence for pre-launch Combi/Pickup production or a national build cutoff.
+135i/136i does not establish a B/M suffix; omitted air-conditioning wording does
+not establish absence. The anomalous 9141399 starter record remains held:
+its zero tooth-count and pre-Felicia AEF dates are not fitted-part evidence.
+
+Eleven additional named alternator positions expand the generic taxonomy from
+809 to 820. All 1,440 current original inventories contain them with fitted
+type, original identity and quantity Unconfirmed. Six already evidenced model
+records link separate, explicitly conditional supplier candidates; their
+original inventories acquire no installed service identity. Zero confirmed
+factory OE identities, new factory configurations or original fitments are
+added. Mounting/pulley/connection specifications, winding/diode/brush data,
+loose-member counts and exact national/steering/option/revision/build selectors
+remain unresolved. Reconstruction and reasonable source exhaustion remain
+active and unmet.
