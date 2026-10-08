@@ -1906,3 +1906,30 @@ without body/VIN/engine-product selection. Those nominal observations do not
 create fabricated diesel body or parts-changing year combinations. Original
 delivery, steering side, actual gearbox, options, revision, factory part
 identifiers/suffixes/callouts and production/VIN application remain unresolved.
+
+
+### AEF service-reference and TYC lighting evidence — 8 October 2026
+
+Three additional institute chassis classes V0/W7/X0 identify AEF 47 kW LX
+hatchbacks with coded Z shell preparation, model year and plant. Reported
+production1997 versus W/model-year 1998 remains a separate-field distinction.
+The W7 belt and radiator requests share the same private individual identifier
+and are consolidated rather than duplicated by source date. Three 820-position
+inventories keep every original identity and quantity Unconfirmed.
+
+Eleven source-written front-end references and one PK-belt designation have
+canonical identification records. They are declared service selections, not
+confirmed genuine/factory products or full finish/manufacturer variants. One
+complete-grille order does not give member roles or counts. Procurement units
+do not become factory counts; adjacent Roomster/Dacia/Lada parts stay excluded.
+
+The verified original TYC 2018 publication provides ten separate manufacturer
+product identities: four headlamps, four corner-lamp variants and two early-
+cohort fog lamps. Electric-control symbols are independently read; absent
+motor symbols do not prove no motor, and E13 is not an electric-control glyph.
+The two supplier 1998 date ranges overlap and are not factory cutoffs. Unit
+variants are not silently merged, and no unlisted late fog application is
+inferred. Supplier reference associations do not prove factory supersession
+or original fit. Actual mounting, beam/traffic, adjustment and delivery
+contents remain unresolved. Original BOM, quantities and full selectors
+remain active/unmet; no reasonable source-exhaustion claim is made.
