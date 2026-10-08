@@ -2010,3 +2010,26 @@ these candidates without selecting an installed factory product. The dates
 remain supplier scopes, and Fun/Vanplus or specific national/body/engine/option
 applications are not inferred. No original identifier/quantity or complete
 factory BOM is newly established.
+
+
+### Freestyle racing construction and declared entries — 9 October 2026
+
+The directly fetched Czech circuit-operator retrospective supports a Felicia
+Pickup competition successor described from 1996, its reported displacement
+and Air Design bodywork. Construction data stays in a scoped engineering
+record, not a shared physical SKU or road-engine alias. Three official Brno
+2026 entries preserve their separate number/driver/class identities without
+inheriting the historic engine or interpreting a class as exact displacement.
+Four inventories retain 820 component positions each; two historic assembly-
+class fields are supported, with full original identities/quantities unknown.
+No factory trim, original racing BOM, build/revision/gearbox mapping or
+current installed configuration is established.
+
+A separately named Tuning Kabát body product is consulted through the web
+reader; the direct original request returned 403. The checked description
+identifies Felicia/Favorit Pickup recipients and a piece sales unit but no
+complete stock/manufacturer/revision identity, mounting specification or
+historical Air Design equivalence. This candidate is not assigned to any
+race car, Fun or Vanplus. No source script, image, diagram or original layout
+is published. Further period cup rules/build sheets and maker body records
+remain needed for precise construction and parts selection.
