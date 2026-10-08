@@ -1974,3 +1974,39 @@ unchanged. Factory OE identities, complete member/fastener quantities, pulley
 and mounting revision, actual accessory layout, exact market/steering/options
 and production/VIN selectors remain unresolved. No source-exhaustion claim or
 complete reconstruction endpoint is established by this increment.
+
+
+### Polish masked chassis and Latvian acquisition classes — 9 October 2026
+
+Three directly inspected Polish tax-office notices identify actual chassis
+classes with separate 136-class hatchback, AEF GLX hatchback and ordinary
+136-class Pickup records. The cited Felicia legend supplies body/version/engine
+class, Z preparation and X/Poznań meaning; Y/1 year meanings are not supplied
+by that finite legend. Reported production years and registration dates remain
+source statements, not factory part boundaries. The 136 B/M suffixes, exact
+gearbox, original national delivery/equipment and installed restraint modules
+remain unresolved. No transplant or current fitted-part identity is inferred
+from the VIN. Serial positions and plates are omitted from public content.
+
+A Latvian primary audit records an Ergli school Felicia LX acquisition, with
+no body or engine mapping. Its preceding asset-sale date is not assigned to
+the Felicia. Four inventories retain 820 positions each, with six coded-class
+fields and all full original identifiers/quantities Unconfirmed. These records
+provide actual reported vehicle classes, not an exhaustive factory model
+matrix, original BOM or reconstruction endpoint. Further official and period
+source searches continue; no reasonable source-exhaustion claim is made.
+
+
+### LASO coolant-pump service identities — 9 October 2026
+
+Four separate maker coolant-pump identities retain their explicit
+Mono-Motronic, carburettor, air-conditioning or unspecific supplier application.
+The air-conditioning row is not relabelled power-steering; blank pulley counts
+and engine restrictions remain unknown. Intrinsic groove counts and complete
+comparison-reference suffixes stay in canonical component records. Source
+photographs are not published or used to invent blade/tooth counts, material,
+geometry, supplied seals or quantities. Recipient-first requirements link
+these candidates without selecting an installed factory product. The dates
+remain supplier scopes, and Fun/Vanplus or specific national/body/engine/option
+applications are not inferred. No original identifier/quantity or complete
+factory BOM is newly established.
