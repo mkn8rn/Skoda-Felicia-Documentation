@@ -1813,5 +1813,31 @@ Slovenian Felicia Friend for November with richer but unspecified equipment and
 price. It does not identify realised sales or a body/engine pair; eight November
 issues had no further machine-text Friend match. German March 1999 Friend equipment
 is not transferred to Slovenia. This bounded pass does not establish absence or
-source exhaustion. Italian Silver Selection/Comfort, Belgian ABS leaflet and Polish
-Trend remain leads requiring directly inspected, applicable primary records.
+source exhaustion. Italian Silver Selection/Comfort already have retrospective catalogue-class
+coverage; their primary-source confirmation remains open. The Belgian ABS
+leaflet and Polish Trend need directly inspected, applicable primary records.
+
+
+### Italian Wagon VAN — 8 October 2026
+
+The directly inspected manufacturer/importer leaflet has printed imprint
+219 011 51K 9/98. It adds an Italian LX 1.9 Diesel47kW two-seatN1 goods offer,
+with a low-roof glazed estate form, not an inferred Vanplus/795 approval alias.
+The leaflet confirms named equipment including the centre-console can holder,
+four cargo eyes, two internally adjustable mirrors, cloth seats/panels,
+height-adjustable front belts/headrests, a two-spoke wheel, instruments (both
+speedometer and separately listed tachometer), radio provision and electrical
+functions. Two shoes per rear drum are a source construction count; no full
+vehicle or sales-packaging count is inferred. The engine and chassis intrinsics
+remain source-scoped shared knowledge, not an inferred AEF/gearbox mapping.
+
+Its820 inventory positions preserve unknown original identifiers/suffixes,
+complete physical products, gearbox/steering/body/option/build/VIN selectors.
+The four load-eye count is explicit; other source equipment/functions do not
+automatically supply loose control, motor, bulb, mirror-side or trim quantities.
+No ABS/airbag/receiver absence is asserted from the list. Consumption preserves
+the CUNA NC003-02 label, not an unreported modern combined test. Generic front/
+rear cup-holder position names no longer presume plastic; every prior sourced
+material/type, identifier, quantity and applicability cell is unchanged.
+This increment establishes no complete original-OE reconstruction endpoint or
+reasonable source exhaustion.
