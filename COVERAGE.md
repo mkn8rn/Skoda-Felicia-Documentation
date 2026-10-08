@@ -1673,3 +1673,29 @@ notations are retained without identifying a gear stage, complete transmission
 product or precise ratio by calculation. Approval/print dates are not production
 or part cutoffs. Full original products, build/option selection and complete
 reconstruction remain unresolved; reasonable source exhaustion is not claimed.
+
+
+### Slovenian November 1995 Combi test — 8 October 2026
+
+The publisher-retained 14 November 1995 Gorenjski glas issue contains an
+additional Combi GLXi configuration on printed page12 / PDF10, distinct from
+the already documented March/May hatchback tests and June Combi launch account.
+The original byline is M. Gregorič; its initial is not expanded. The actual
+technical panel supports five doors/seats, 1289cm³/50kW electronic petrol
+injection, five-speed manual and FWD. Reported extra alloy wheels, roof aerial
+with radio preparation, tinted glazing and metallic-silver finish belong to
+this tested configuration, not every national GLXi. The prose's GLX package
+label is not manufactured into a second test vehicle.
+
+The new record enumerates all820current component positions and confirms ten
+bounded type/equipment fields. Four source-explicit locations are recorded
+without inventing quantities. Engine suffix/SPI–MPI architecture, gearbox
+product, steering side, restraint fitment, original identifiers, loose counts,
+rim/glazing/paint choices, option and production/VIN boundaries remain unknown.
+Neither four cylinders nor five seats is converted into loose component counts.
+The ECE consumption sequence has no cycle labels in the panel, so no cycle or
+combined value is invented. No source diagram/image/layout is published.
+The dated dealer offer's pre-registration price is not a universal grade price
+or a proof of its option/tax breakdown. This expands sourced configuration
+coverage by one observed record without meeting the exact original-OE endpoint
+or establishing reasonable source exhaustion.
