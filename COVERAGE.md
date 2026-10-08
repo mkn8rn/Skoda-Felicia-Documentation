@@ -1747,3 +1747,40 @@ folded cargo volume are not filled from siblings or indexed OCR snippets.
 Engine/gearbox product and revision, steering side, restraints, full quantities
 and original build/option/VIN selectors remain unresolved. These additions do
 not complete either exact-OE reconstruction or reasonable source exhaustion.
+
+
+### Slovenian launch offers and Hungarian display stock — 8 October 2026
+
+The personally inspected 7 February 1995 Gorenjski glas page explicitly maps
+LX/GLX to 40 kW and LXi/GLXi to 50 kW, with separate prices and GLX-level split
+bench, tachometer and fog equipment. Four dated offers are added without engine
+suffixes, metering products, gearbox/steering/option or manufacturing selectors.
+The printed 40 kW / 52 KM inconsistency remains qualified in the shared engine
+article. Optional/forthcoming equipment does not generate fabricated fitted
+configurations. The separate March/May road-test records remain observed vehicles,
+without merging their unresolved products/options into these launch prices.
+
+The 22 September 1995 issue adds two actual Slovenian Combi grade/price lines,
+LX and metallic GLXi. Unlike the earlier June launch table, it reports national
+supply and prices. Its grade-specific output mapping is not explicit; neither
+hatchback nomenclature nor a promotional picture fills that gap. The November
+GLXi test retains its separate observed equipment and original unknowns.
+
+A 27 November 1998 Délmagyarország dealer advertisement lists four Felicia display
+cars. It distinguishes Combi and Pickup, two dealer locations, finishes and the
+Pickup driver-airbag/steering selection. The two plain Felicia rows leave body
+unassigned. Output, full engine/gearbox and paint products, factory option origin,
+registration/manufacturing year, steering and VIN/revision limits remain unknown.
+The Pickup prices explicitly exclude VAT; tax basis is not assumed for the others.
+
+All ten source-defined offers enumerate the current 820 component positions,
+without new confirmed factory OE identities, exact terminal inventories or loose
+quantities. A generic rear-door condition is broadened from an erroneous estate-
+only restriction to actual body/door/revision selection in the authoritative index
+and identical legacy cells. Independently scoped fitted facts are preserved.
+
+A bounded primary-source search acquired 49 Gorenjski glas publisher issues after
+Dlib TXT links returned catalogue HTML. Used adverts, other cars' tests and
+personal-name matches are not factory configurations. This is not a source-
+exhaustion or reconstruction-completion claim; further primary catalogue and
+factory OE/application evidence remains necessary.
