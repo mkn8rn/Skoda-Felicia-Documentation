@@ -1841,3 +1841,24 @@ rear cup-holder position names no longer presume plastic; every prior sourced
 material/type, identifier, quantity and applicability cell is unchanged.
 This increment establishes no complete original-OE reconstruction endpoint or
 reasonable source exhaustion.
+
+
+### Federation government fleet VIN classes — 8 October 2026
+
+The primary 14 November 2007 trade-in decision identifies seven Felicia fleet
+vehicles in four first-eleven-character chassis classes. The directly inspected
+authorised Grada VIN legend establishes hatchback 791, LX version, Z/airbag-ready
+shell preparation and engine/transmission classes AEE, AEF and bare 135.
+Three 1.6 L/LX entries share one class rather than three or two invented grades;
+two 2000 diesel entries likewise share one class. These are evidence of vehicles
+in the Federation fleet, not a national new-car programme or original delivery.
+
+Public pages omit individual serials and registrations. Raw model-year Y/1 and
+emissions H are not decoded because the consulted legend does not list them.
+Reported production years remain separate; 135 receives no B/M/L suffix, output
+or fuel-system mapping. Prepared shells do not establish installed airbags,
+pretensioners or ABS. No actual engine/gearbox assembly, steering side, options,
+body revision, production/VIN part cutoffs, factory quantity or complete OE
+identifier is confirmed. Four 820-position inventories record the supported
+engine/body classes with every original identity and quantity Unconfirmed.
+This increment adds no exact terminal BOM and makes no source-exhaustion claim.
