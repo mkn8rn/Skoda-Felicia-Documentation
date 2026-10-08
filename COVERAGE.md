@@ -1862,3 +1862,47 @@ body revision, production/VIN part cutoffs, factory quantity or complete OE
 identifier is confirmed. Four 820-position inventories record the supported
 engine/body classes with every original identity and quantity Unconfirmed.
 This increment adds no exact terminal BOM and makes no source-exhaustion claim.
+
+
+### German Blue Sky importer leaflet — 8 October 2026
+
+Personally inspected original public leaflet photographs establish imprint
+VF37-200/07-98, three separately priced 1.6 L offers (GLX, alloy wheels, ABS),
+and a common three-colour programme with black folding roof. Three recognition
+parents lead to nine offer/colour selections; no engine/body or combined
+ABS/alloy alternatives are fabricated. Dates/prices are importer programme
+facts, not production/VIN limits. Source engine and vehicle ratings and common
+equipment are retained in shared technical articles.
+
+Webasto electric folding roof, Clarion radio/cassette, power assistance, central
+locking, fog/third brake lamps, painted electric mirrors, body-coloured bumpers,
+seat-height equipment, console drink holders and cargo eyes are source-defined
+classes, not full physical SKUs. Mirror paint is not assigned body colour.
+Neither holder material/count/front-rear allocation nor individual airbag
+positions and restraint products is supplied. Height adjustment is not assigned
+to a particular seat. No unlisted ABS/alloy absence or simultaneous option
+configuration, AEE identity, gearbox, steering side, body revision, option/VIN
+cutoff, factory quantity or complete original OE number is confirmed.
+All nine 820-position inventories keep original identities and quantities
+Unconfirmed. Source-defined classes and named equipment improve coverage
+without completing the original-BOM or reasonable source-exhaustion objective.
+
+
+### Serbian institute chassis and service records — 8 October 2026
+
+December 2019 primary procurement JN103/2019 identifies one 55kW petrol GLX
+Felicia chassis class TMBEGF654X7 (individual serial omitted). Directly checked
+Grada VIN fields establish AEE class, Z airbag preparation, estate795, GLX,
+model-yearX/1999 and plant7/Vrchlabí. One 820-position source-class inventory
+records engine/body classification with every original identity and quantity
+Unconfirmed. The repeated bid-table entry is not a second vehicle.
+
+Clutch-set/cable/oil-filter/air-filter requests and named kit brands do not
+establish full products, independently confirmed compatibility, original
+fitment or factory quantities. The 2020 fleet list corroborates a nominal
+1999 GLX 1.6 Combi class without proving an individual-vehicle join. It also
+records four LX1.9D vehicles with reported years1997(two),1998 and1999, but
+without body/VIN/engine-product selection. Those nominal observations do not
+create fabricated diesel body or parts-changing year combinations. Original
+delivery, steering side, actual gearbox, options, revision, factory part
+identifiers/suffixes/callouts and production/VIN application remain unresolved.
