@@ -1699,3 +1699,51 @@ The dated dealer offer's pre-registration price is not a universal grade price
 or a proof of its option/tax breakdown. This expands sourced configuration
 coverage by one observed record without meeting the exact original-OE endpoint
 or establishing reasonable source exhaustion.
+
+
+### Slovenian August 1999 Fun test — 8 October 2026
+
+The publisher-retained 3 August 1999 Gorenjski glas issue, printed/PDF page 15,
+adds one observed Fun 1.6 / 55 kW, 2+2 configuration with reported ABS, alloy wheels,
+yellow leather seating/door/wheel/lever trim, movable partition and wooden
+load-floor strips. All 820 current positions are enumerated;15 bounded type
+fields and5 explicit location/seating descriptions have adjacent period-source
+citations. Two deployable seating positions are not a loose constituent BOM.
+The plastic arch is not promoted into a certified cage or structural material.
+
+The period panel literally prints 1,589 cm³, in disagreement with the official
+2020 series-level 1,598 cm³ account. Both source scopes are preserved; no separate
+1,589 cm³ engine or exact engine/gearbox/calibration mapping is invented. The unlabelled
+EWGsequence is not assigned cycles. Airbags/pretensioners, exact colour/trim,
+engine/fuel system, steering side, original PIDs, quantities and option/build/VIN
+boundaries remain unverified. The report supplies no dealer price; no series,
+earlier German or unrelated national price fills that field. No source images,
+prose or table layout are published. This adds one dated configuration without
+meeting the exact-OE endpoint or a reasonable-source-exhaustion threshold.
+
+
+### Slovenian December 1996 and February 1997 diesel tests — 8 October 2026
+
+Two further publisher-retained tests add a Pickup with a Veplas plastic cargo
+cover and a GLX diesel hatchback. Their shared engine and geometry descriptions
+remain separate from the category routes. Both records enumerate all 820 current
+positions. Five Pickup and eight hatchback equipment/type fields have period
+citations; three and two source-explicit positions respectively retain unknown
+loose quantities. Neither record acquires an original factory part identifier.
+
+The Pickup cover is described as Veplas supply for Slovenia, compared with the
+factory cover. Its product/type approval, mountings, exact factory-option status,
+seating count and code/production boundaries remain unverified. The 1,890 mm
+height and 2.4 m³ load space are covered-test figures, not ordinary open-Pickup
+or universal canopy dimensions. The quoted 530 kg allowance has no separate
+driver or cover-weight basis. A requested tachometer is not made into an
+unsupported physical-absence/quantity claim.
+
+The GLX report excludes the tailgate from central-locking operation, without
+proving an absent loose actuator. Tinted glazing and radio preparation are
+offered options, not established test-car fitment. The right-fold clipping of
+some technical-panel lines is retained as a source limit; capacity, width and
+folded cargo volume are not filled from siblings or indexed OCR snippets.
+Engine/gearbox product and revision, steering side, restraints, full quantities
+and original build/option/VIN selectors remain unresolved. These additions do
+not complete either exact-OE reconstruction or reasonable source exhaustion.
