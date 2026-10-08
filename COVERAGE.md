@@ -1947,3 +1947,30 @@ fields and four 820-position inventories retain all original identities and
 quantities Unconfirmed. The listed guarantee/service/payment terms do not
 identify installed components. Source searches continue; no reasonable
 source-exhaustion or complete factory configuration/BOM claim is made.
+
+### Continental belt and kit service evidence — 9 October 2026
+
+The 2012/2013 original Continental ContiTech publication supplies thirteen
+separate belt/kit identities and three named pulley/pump members. Twenty-eight
+Felicia service rows retain the source body/engine groups, intervals and
+accessory conditions. The first 1.3 engine-code list continues across its page
+break; its AVX belt and AMH/AMJ labels are not assigned to the following 1.6
+row. A blank AEF accessory role in the II group remains blank rather than
+inheriting the earlier group's alternator description. No ALM factory model,
+engine-code alias, Fun/Vanplus application or factory build cutoff is inferred.
+
+Intrinsic sizes, profile descriptions, kit membership and supplier associations
+are centralised in sixteen component records. The 2025 manufacturer workbook
+explains the PK code's reference-length notation; its profile height description
+is dated separately from the older programme. It does not identify the
+institute's requested belt manufacturer or turn nominal notation into a
+measurement of the installed item. Hardware-symbol column values are not used
+as loose-member or factory quantities.
+
+Recipient-first accessory and timing-drive requirements index the canonical
+products. Three existing AEE/AEF configuration articles gain only explicitly
+qualified service comparisons; all their original inventory cells remain
+unchanged. Factory OE identities, complete member/fastener quantities, pulley
+and mounting revision, actual accessory layout, exact market/steering/options
+and production/VIN selectors remain unresolved. No source-exhaustion claim or
+complete reconstruction endpoint is established by this increment.
