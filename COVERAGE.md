@@ -2159,3 +2159,25 @@ contain identification and direct children only. Shared policy/templates/CSS,
 parts products and hosting remain unchanged. Further original/catalogue
 evidence and exact configuration-to-OE inventories remain outstanding; no
 reasonable-source-exhaustion or complete reconstruction claim is made.
+
+
+### Maker-certified LXi EFF613 technical description —9 October2026
+
+A government-published manufacturer-stamped description identifies ZTP3063-23-01,
+LXi EFF613,781.136M/50kW and1997 body/engine fields. It dates type conformity to
+28 July1997 and maker certification to9 December1997; neither is a verified
+delivery/build/VIN boundary. The narrow recipient carries explicit no-ABS and
+zero-airbag fields. Those exclusions are not projected onto every LXi, approval
+variant, unused loom/controller or belt pretensioner. Four recorded class fields
+and five stated equipment-exclusion positions are sourced;833 named positions
+remain, with all positive full OE identities/quantities unknown.
+
+Wheel fields and notes are centralised in the shared approval article: one
+front/rear description and five source-listed alternatives, including a winter
+entry with no aspect ratio/offset. Three alternatives share the same13-inch
+rim clause. NoH/H2, steel/alloy installation, supplier identity, inflation,
+snow-chain condition or present road-law permission is inferred. Nominal loads
+and dimensions remain source scoped; the500N hitch-ball force is not500kg.
+Full VIN/plant/serial/person/registration identifiers and source imagery are
+private. Existing selections, policy/layout/hosting/parts taxonomy are preserved.
+No exact original BOM or model-source-exhaustion claim is made.
