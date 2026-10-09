@@ -2291,3 +2291,37 @@ The official portal export was fully read privately and exposes six Felicia
 key/name groups; it is not evidence of absence of other directory keys or world
 production. Further corroboration and source acquisition remain active.
 No review/deployment or model-source-exhaustion/completion claim is made.
+
+
+### German full-key / Pickup refinements — 9 October 2026
+
+The native current manufacturer-commissioned TÜV catalogue, edition 09/2026,
+names twelve complete rough-road vehicle keys. They match the previously
+accepted 2022 full-key/height subset. Each now has its own sourced selection
+record. Basic keys 310/311/312/313/314/315/316/317 become recognition-only
+parents with downward full-key links; their generic unknown inventories
+are represented on the more specific children, not retained in categories.
+No normal/no-package complete-key combination is invented.
+
+The official GDV public response associates eleven exact HSN/TSN pairs
+with vehicle types 791, 795 and Fun 797. All joined rating/displacement/fuel
+vectors agree with the KBA records. Generic body aliases, the SDI trade
+wording and reported insurance-directory production ranges are not physical
+architecture, original-fitment or manufacturing-boundary evidence.
+
+The manufacturer Felicia tyre group directly includes 052/053/054/058;
+KBA calls these PICK UP and its type table separately identifies ordinary
+Pickup 797/H361 versus Fun. These four basic commercial selections now
+have separate records and a Pickup-parent route. Key 054 is allocated in
+2005; this is not a new Felicia production date. Earlier unqualified Pickup
+keys and Forman Plus entries are not transferred to Felicia.
+
+The new sixteen selection records retain all 833 named positions with
+unknown original product identifiers and quantities. Approval wheel choices
+do not fill original wheel/tyre identity cells. Rough-road spring, damper,
+protection and mounting products remain unconfirmed; package recognition
+does not supply their identities. Full engine/gearbox/body revision,
+steering/grade/options and production/VIN selector chains remain unresolved.
+No complete factory BOM, exhaustive world census or source-exhaustion
+claim is made. Personal source acquisition and configuration research
+continue without Review/DevOps/account operations.
