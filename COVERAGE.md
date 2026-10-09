@@ -2106,3 +2106,26 @@ are not original factory BOM confirmations. Exact original identities,
 engine/gearbox/body/options/build/VIN selectors and reconstruction remain open.
 Model/canonical-component acquisition continues; no reasonable-source-
 exhaustion or complete census claim is made.
+
+
+### Landi specified conversion recipient — 9 October 2026
+
+The directly inspected maker sheet identifies 781.136M/50 kW, Siemens 5WP4,
+August 1998 manufacture and explicit AC/steering/ABS/automatic conditions.
+It does not establish a national factory trim, body/steering-side identity,
+gearbox product, option or VIN application range, or a completed conversion
+on every road configuration. One recipient retains all 833 indexed original
+positions, five stated classes and two excluded equipment packages; original
+positive product identities remain unknown. Specified conversion selections
+link shared controller, selector, emulator and arrangement records separately.
+
+The six maker pages were privately inspected; protected diagrams/photos/layout
+are not published. Intrinsic geometry and circuit selections remain scoped to
+the illustrated arrangement, with unknown full products, material/rating,
+fasteners and complete rear/tank system. The source firmware name supplies
+no software bytes/checksum or controller-board/transistor inventory.
+The official AEB manual was consulted through the web reader after native403,
+without retry/bypass; its later code-160 data is not inherited by the pictured
+Landi unit. Complete original BOMs, quantities and selectors remain open.
+Further catalogue and period-model acquisition continues; no source-exhaustion
+or reconstruction-completion claim is made.
