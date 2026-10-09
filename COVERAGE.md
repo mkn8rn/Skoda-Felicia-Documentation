@@ -2231,3 +2231,63 @@ Further model-source queries in uncovered markets and metadata archives are
 retained privately. Timarit native search returned403 without bypass; Danish
 Comfortline catalogue metadata dates differ and no readable interior matrix
 was obtained. Those are bounded access/evidence gaps, not proof of exhaustion.
+
+
+### Czech technical-register corpus and code namespaces —9 October2026
+
+The complete nativeRSV_vypis_vozidel_20261001.csv stream is retained privately
+with19,429,934 rows/99fields,17,282,925,603 bytes, SHA256
+2302fa6e19c1635dd735812ef6a4f5192a40f920874705c59277c1d70fa7f648.
+Every458,070 Felicia-name/type candidate matches the separate extraction on
+full gzip/CSV replay, including CRC and checksum. Native execution wrapper
+exited143 after about62min while its source child continued to EOF; the
+original incomplete status/failure evidence is preserved. A separate complete
+recovery verifier passed; no partial analysis was published as complete.
+
+Current registry labels are not new factory offers or original parts evidence.
+Free-text variants, duplicated/contradictory type names,1/2 and1/4 airbag text,
+missing selectors, changed vehicles and non-modern records remain explicit
+research/validation issues.92,244 raw tuples are not92,244 officialmodels.
+Conservative probes retain observed tuples without multiplying combinations;
+no new factory configuration or original OE identity follows from them.
+Further source-quality/deduplication and manufacturer corroboration are active.
+
+An independently published official1999/37 adopted text verifies code meanings.
+The shared identification article now separates EU N axle-mass codes from the
+Czech wheel-column labels, distinct U sound/RPM codes from the combined source
+column, and combined V.8 from the source sequence. It does not assign historical
+test cycles, current-law permission, physical stock or build/VIN boundaries.
+No model payload, original inventory or layout/policy/hosting byte is changed.
+
+
+### German KBA type-key selections — 9 October 2026
+
+Native official SV 4.2/4.3 dated 15 August 2026 identify fourteen explicitly
+named Felicia entries under HSN 8004: 310/311, 312–317, 321/322, 326 and Vanplus
+055–057. These are administrative type selectors, not fourteen newly proved
+factory trim/build configurations. All eleven passenger field vectors also
+match the separately retained 2025 directory after date-format normalisation.
+The plain FELICIA name is not assigned an inferred body number or revision.
+Combi, Fun and Vanplus names route from their separate body categories.
+No SPI/MPI, AEE/AEF or national-grade mapping follows merely from capacity/output.
+All 833 positions per record retain unknown original identities/quantities;
+only recorded engine/derivative classes are identified. No new full original
+stock number or absence claim is added.
+
+Vanplus 055/056/057 respectively list diesel47, petrol40 and petrol50kW, each
+with maximum seating2 and legacy class10/no body code. These do not prove actual
+seat assemblies, the complete maker two-seat configuration or a five-seat
+engine application; N1 is not inferred from the publication title. Pick Up
+052/053/054/058 remain unassigned to the Felicia family without a direct mapping;
+054 has a2005 assignment date, which is not a manufacturing date.
+
+Native March2025 SV1 defines fuel and retiring01/0200 passenger/closed codes.
+That coding does not prove an enclosed Fun load bed. Assignment dates are not
+production limits; the directory covers technical state from initial assignment
+through preparation. Its maxima are not installed quantities; the total-mass
+unit is unprinted and retained as unspecified. Exact gearbox/body/steering,
+options/VIN chains and complete reconstruction inventory remain unresolved.
+The official portal export was fully read privately and exposes six Felicia
+key/name groups; it is not evidence of absence of other directory keys or world
+production. Further corroboration and source acquisition remain active.
+No review/deployment or model-source-exhaustion/completion claim is made.
