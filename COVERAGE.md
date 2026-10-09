@@ -2054,3 +2054,33 @@ retain unknown full original identities and counts; four coded-class fields
 and one reported-body class do not establish exact terminal factory BOMs.
 Original national delivery, gearbox, revision, options and build/VIN parts
 selection remain unresolved. Available catalogue/source searches continue.
+
+
+### Further Slovak official chassis records — 9 October 2026
+
+Three primary gazette vehicle records add LX/136 classes separated by body,
+model year and source-coded plant. The 2025 entries report scrapped condition;
+the 2021 Combi is offered for sale with written silver-metallic colour. These
+are source descriptions, not confirmed sale completion, original delivery,
+paint code or installed assembly proof. Coded model years and reported
+production years remain separate from exact manufacturing/parts limits.
+All three 820-position records retain unknown full original identifiers and
+quantities; six source-defined body/engine classes are not physical BOM entries.
+Engine B/M suffix, gearbox, options/restraints, revisions and VIN applications
+remain unresolved. Individual serials, plates, people/contact/financial fields
+are omitted. Available model/canonical-part source searches continue.
+
+
+### Pierburg AEF EGR-control service selection — 9 October 2026
+
+The directly inspected 2024 maker catalogue supports one distinct electric-
+pneumatic EGR switchover identity and six Felicia supplier application rows.
+Its date legend defines model-year ranges, not factory production/VIN cuts.
+Overlapping I/II ranges, a combined 6UF/6U7 Pickup row and the Cube Van label
+are preserved without resolving factory derivative aliases. Product role is
+not confused with a pressure converter or complete EGR gas valve. Intrinsic
+identity and application fields stay in the shared product record; recipient
+requirements link it. Two AEF records add separate service candidates without
+changing their original inventories. Voltage/pins/ports, mounting, control
+limits, original identifiers, quantities and equipment/build application
+remain unconfirmed. No manufacturer catalogue artwork/prose is published.
