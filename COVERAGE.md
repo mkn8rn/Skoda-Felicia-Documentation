@@ -2417,3 +2417,36 @@ inspected manufacturer historical original-fitment extract.
 
 The owner reconstruction and exhaustive-model source work remain active.
 No worker, Review, DevOps, account, contact, payment or deployment action.
+
+
+Model category reorganisation: the main finder reuses existing body and engine
+branches, with shared market, edition, homologation, observed-record and
+conversion categories. Dated market entries remain source-specific; source
+language and approval authority do not establish a sales market. The existing
+standalone configurations and their component inventories are preserved.
+
+Twelve Finnish registered selections have a literal complete-approval,
+variant/version match to four existing EC approval articles. Reciprocal links
+record that identifier agreement only. The Finnish records do not establish
+the RDW execution revision, original national sales grade/equipment, build/VIN
+application or physical part identity. The recorded SWH11/AEEM5CA approval
+ending *03 has no matching *03 record in the current shared article, which
+contains *02; it remains unlinked rather than inheriting the earlier record.
+
+The model census and reconstruction endpoint remain partial. Navigation
+coverage does not establish full source exhaustion, complete original BOMs or
+exact factory fitment. No factory identity or original quantity was supplied
+by this category and identifier-link change.
+
+
+Period Polish source preserved for the resumed census: Auto Perfect’s original
+Twist advertisement in Rzecz Krotoszyńska, no.19 (276), 17 May 2000, p.16,
+names the LX comparison and central locking, an alarm, a Blaupunkt radio and
+an outside-temperature indicator, with a PLN29,690 starting price. It does
+not select body, engine/output, gearbox, steering, original installation,
+component identities or build/VIN limits. This evidence is not assigned to an
+invented powertrain/body configuration. WKŁ’s own 2014 publisher catalogue
+p.54 separately names Twist and Trend but supplies no edition-specific
+configuration matrix. The period Trend/Gemini advertising search leads have
+not been directly inspected: the retrieved content endpoints were unavailable.
+Their indexed excerpts do not supply confirmed model or equipment fitment.

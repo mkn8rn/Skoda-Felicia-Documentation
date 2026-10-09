@@ -145,6 +145,20 @@ If a page still describes alternatives with different fitted parts, it is an
 intermediate article and must lead to the evidenced individual configurations.
 Do not multiply categories into combinations that were never documented.
 
+Keep the main model index a concise category finder. Reuse the existing body,
+engine, edition and source-specific categories before adding another category
+page. Group dated offers within their market or evidenced source programme;
+place homologation records under their approval and body/engine branches. Do
+not append parallel dated-offer sections or repeat every configuration on the
+main index. Every model remains reachable through the downward category paths.
+
+Link a model or registered selection to a homologation record only when the
+source establishes the relevant approval identity. Preserve the complete
+approval, variant, execution and revision conditions; a matching engine or
+body alone is insufficient. Add the reciprocal link on the homologation record,
+with the source and any unresolved revision, market or equipment distinction.
+An administrative identifier match does not establish factory part equivalence.
+
 The terminal page's factory-parts inventory links to canonical component
 articles and identifies the exact original fitment, quantity and position where
 relevant, with its source and application limits. Retain full part numbers and
