@@ -2181,3 +2181,28 @@ and dimensions remain source scoped; the500N hitch-ball force is not500kg.
 Full VIN/plant/serial/person/registration identifiers and source imagery are
 private. Existing selections, policy/layout/hosting/parts taxonomy are preserved.
 No exact original BOM or model-source-exhaustion claim is made.
+
+
+### Maker-described1998 GLX diesel Combi and finish/lamp identifiers —9 October2026
+
+A directly read maker-stamped copy supplies AEF/1896cm³/47kW and1998 body/engine
+fields, noABS and two airbags with no position/pretensioner allocation. It
+dates approval to23 February and maker certification to29 April1998, not
+production/delivery or class-wide VIN boundaries. Six recorded class/function
+fields and one noABS position are scoped to this record;833 positions retain
+unknown positive full original products/quantities. The centre function has a
+known position and an approval marking, not a manufacturer stock number or
+proved interchangeability. The total2 airbag field doesnot fill individual
+airbag quantities/positions. Conditional350kg/ABS towing notes are not a
+verified ABS-equipped offered child or the current noABS400kg value.
+
+The shared wheel article retains7 source-specific pairs, including both14-inch
+offsets, the joined13-inch clause and winter aspect/offset unknowns. The fold
+is distinguished from cancellation. Maker-declared colours9885 and9560 now
+link shared colour identification; no paint product/recipe, complete coating
+system, panel/interior finish or supplier alias is inferred. The1997 record
+gains its source colour and clarifies the blank auxiliary-heater field; all
+other old maker exclusions and inventories are preserved. Existing physical
+products, policy/templates/CSS/hosting and taxonomy remain unchanged.
+No complete original inventory, original supplier nozzle fitment or reasonable
+model-source-exhaustion claim is made.
