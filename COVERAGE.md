@@ -2325,3 +2325,41 @@ steering/grade/options and production/VIN selector chains remain unresolved.
 No complete factory BOM, exhaustive world census or source-exhaustion
 claim is made. Personal source acquisition and configuration research
 continue without Review/DevOps/account operations.
+
+
+### UK model-name census and Moravia class — 9 October 2026
+
+Three complete official DfT/DVLA files were acquired and independently
+parsed to EOF: GB quarterly make/model, UK annual engine bands and UK
+annual declared-age data. Selected candidate values are ASCII; the failed
+initial UTF-8 attempt on accented nonselected makes was preserved and
+recovered by a separate full lossless-byte/size/hash/CSV verification.
+The 27 raw Felicia registration names and contradictory body/fuel groups
+are not multiplied into factory models. Gas/battery-electric, motorcycle,
+bus and heavy-goods labels do not prove Felicia production configurations.
+
+Moravia is corroborated by the insurer-authored May2016 Covéa directory
+(1,289cc, written year range96–96) and UK records with declared manufacture
+year1996. The insurer row was directly checked with the publisher web
+reader; native PDF acquisition timed out and no native-byte equality is
+claimed. A source-scoped 1.3-class record is indexed, with all833 named
+positions and unknown original identities/quantities. Body shape/type,
+engine/output/injection, LX/LXi/edition status, steering, gearbox, original
+sales market, equipment and production/VIN bounds remain unconfirmed.
+No retrospective insurer range becomes a factory manufacturing cutoff.
+
+The 2025 history metric selects Cars/Light-goods records with declared
+manufacture1994–2001: 26 labels,680 Licensed and2620 SORN. These are
+defined registered-stock aggregates, not production or physical-survival
+counts; unavailable/earlier years and other body groups are outside scope.
+The 2009 university diagnostic study remains private evidence only: its
+Felicia/SIMOS screenshot is illustrative and does not identify the tested
+vehicle or establish original ECU hardware/fitment or ELM compatibility.
+No semiconductor or controller stock identity is inferred.
+
+Further focused catalogue searches rediscovered already documented
+French/Spanish/Greek/Polish/ADAC and FIA sources. Period/maker Moravia
+configuration evidence and historic original-parts records remain open.
+No exhaustive world-model, reasonable-source-exhaustion or complete
+reconstruction claim is made. Personal evidence work continues; no Review,
+DevOps, paid access, account action or external enquiry was initiated.
