@@ -2206,3 +2206,28 @@ other old maker exclusions and inventories are preserved. Existing physical
 products, policy/templates/CSS/hosting and taxonomy remain unchanged.
 No complete original inventory, original supplier nozzle fitment or reasonable
 model-source-exhaustion claim is made.
+
+
+### Registered Combi LXi 136B/ZTP3063-008-01 selector —9 October2026
+
+A native MDČR-labelled current export hosted by Caraukce describes LXi/EFF65,
+136B/50kW, national approval3063-008-01, a five-door self-supporting Combi and
+5seats. The available masked prefix and1996 first-registration year do not
+supply a manufacturer build or class-wide VIN range. No existing specific
+page has this national selector; the5/95 LXi sheet, foreign offers and other
+approval classes are not asserted identical to this registered selection.
+
+Five recorded classes link shared identifications, but833 positions retain
+unknown original IDs/quantities. Current darkred lacks a maker colour code or
+metallic status; it is not9885 by inference. Six wheel descriptions separate
+registered fields/approved alternatives; winter rim dimensions and offset
+are not copied from other papers. Extra-equipment examples are not positive
+ABS/airbag/heater/lamp fitment. Administrative ZTP replacement is not part
+supersession; the note is truncated and adds no inferred towing condition.
+Zero placeholders do not become absence or engineering limits. No new full
+original product IDs or reconstruction/model-source-exhaustion claim.
+
+Further model-source queries in uncovered markets and metadata archives are
+retained privately. Timarit native search returned403 without bypass; Danish
+Comfortline catalogue metadata dates differ and no readable interior matrix
+was obtained. Those are bounded access/evidence gaps, not proof of exhaustion.
