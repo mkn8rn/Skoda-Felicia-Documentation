@@ -2390,3 +2390,30 @@ response; the original failure is retained. KYB independently returned
 complete HTTP200 bytes and passed size/hash/PDF verification. Bilstein
 search excerpts are leads only; no uninspected application is published.
 No worker, Review, DevOps, deployment, credentials or external contact.
+
+
+### Spring product characteristics — 9 October 2026
+
+The KYB-branded TecDoc catalogue supplies seven numerical measurement
+sets across the nine existing canonical springs. Length, outer diameter,
+mass and the raw Thickness1 field are documented without equating length
+to free length, mass to bare-part weight or Thickness1 to wire diameter.
+All nine returned product records state packing fields of1; these do not
+fill original installed quantities. RA3509/RA6236 numerical dimensions
+remain unknown. Six detail records list OE-labelled references, with
+the two RA5445 strings retained separately rather than silently aliased.
+No supplier cross-reference becomes genuine factory identity, original
+fitment, exact package/VIN mapping or one-to-one supersession.
+
+Eight detail views and a separately captured RA6236 product-result
+record substantiate the published fields. Earlier RA2056 modal-click
+and later RA6236 detail-click failures remain recorded; no complete
+successful-detail run is claimed. Model inventories, candidates and
+supplier intervals are unchanged. Genuine manufacturer spring records,
+rates/load curves, seat/end geometry, measurement bases and original
+quantities/production/option selection remain unresolved. Queries of
+the spring reference found further supplier/retailer leads, not an
+inspected manufacturer historical original-fitment extract.
+
+The owner reconstruction and exhaustive-model source work remain active.
+No worker, Review, DevOps, account, contact, payment or deployment action.
