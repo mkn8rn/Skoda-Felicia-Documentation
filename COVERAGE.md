@@ -2363,3 +2363,30 @@ configuration evidence and historic original-parts records remain open.
 No exhaustive world-model, reasonable-source-exhaustion or complete
 reconstruction claim is made. Personal evidence work continues; no Review,
 DevOps, paid access, account action or external enquiry was initiated.
+
+
+### Coil-spring supplier distinctions — 9 October 2026
+
+Native KYB 2022 version B, printed pp.249/256 (PDF253/260), establishes
+nine distinct K-Flex service identities, with separate front/rear, standard
+and heavy-duty application classes. RA1592/RA2056 preserve the two 1.3
+supplier date classes; the split is not assigned to SPI/MPI or a factory
+cutoff. Hatchback RA5132 and Combi RA5445 rear selections stay distinct;
+shared heavy-duty RA5758 is not a factory rough-road-key mapping. The
+ordinary Pickup interval through April2002 is not2002 manufacture and
+is not extended to Fun/Vanplus. No current stock/supersession follows
+from the catalogue remaining-stock indication.
+
+Canonical components hold the product identities and scoped application
+fields; recipient requirements link them. Four German ordinary-Pickup
+records gain eight qualified service candidates, and twelve complete
+rough-road records gain relevant selection navigation only. Every
+original inventory is preserved. Exact spring dimensions/rates/working
+lengths, original OE identity/quantity and package/build/VIN selectors
+remain unconfirmed. This is not a completed reconstruction endpoint.
+
+The concurrent source-acquisition wrapper failed on a Bilstein HTTP403
+response; the original failure is retained. KYB independently returned
+complete HTTP200 bytes and passed size/hash/PDF verification. Bilstein
+search excerpts are leads only; no uninspected application is published.
+No worker, Review, DevOps, deployment, credentials or external contact.
