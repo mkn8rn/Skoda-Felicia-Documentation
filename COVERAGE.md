@@ -2129,3 +2129,33 @@ without retry/bypass; its later code-160 data is not inherited by the pictured
 Landi unit. Complete original BOMs, quantities and selectors remain open.
 Further catalogue and period-model acquisition continues; no source-exhaustion
 or reconstruction-completion claim is made.
+
+
+### Finnish recorded configuration selectors — 9 October 2026
+
+The complete native June2026 vehicle-register archive was checked by its named
+CSV columns and the official March2026 variable/codebook. Of469 Felicia-name
+records,457 modern described selections form66 observed classes; twelve
+classic/unclear records are excluded. Explicit body-code/seating differences
+remain separate. Two equivalent written designations share one record when
+all supplied selectors agree. These are registered classifications, not66 newly proved
+factory offers, current installed parts or an exhaustive original Finnish
+market programme. First-use/registration and coded year fields are not build
+or parts-change limits. The publisher page and archive total differ; no
+vehicle population or production total is inferred.
+
+Named body/derivative recognition remains distinct from registry body codes;
+Fun is not ordinary Pickup. Supplied VIN prefixes support only their actual
+fields and the finite maker legend. Name fragments are not substitute VINs;
+plant/serial data are omitted. Empty fields, recorded capacity, coarse engine
+entries and shell-preparation codes do not establish original parts, absent
+restraints, steering or loose-member quantities. Brake-actuation coding is
+not steering assistance or ABS. Approval/variant/version references do not
+resolve an exact gearbox, original grade/options or production/VIN fitment.
+
+Each66 record retains833 original positions and shared engine/VIN routes,
+with full positive original products/quantities unknown. Recognition pages
+contain identification and direct children only. Shared policy/templates/CSS,
+parts products and hosting remain unchanged. Further original/catalogue
+evidence and exact configuration-to-OE inventories remain outstanding; no
+reasonable-source-exhaustion or complete reconstruction claim is made.
