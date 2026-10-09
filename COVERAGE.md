@@ -2033,3 +2033,24 @@ historical Air Design equivalence. This candidate is not assigned to any
 race car, Fun or Vanplus. No source script, image, diagram or original layout
 is published. Further period cup rules/build sheets and maker body records
 remain needed for precise construction and parts selection.
+
+
+### Slovak recorded chassis and Romanian June 1996 stock — 9 October 2026
+
+The Šaľa commission's 03/2012 record identifies separate Combi GLX/AEE and
+hatchback LX/136 chassis classes, both W/1998 with different source-defined
+plant codes. The prepared-shell field is not installed restraint proof.
+Municipal sale approval is recommended, not proved completed. The web-reader
+copy is the consulted evidence; native HTTP 466 was not bypassed or retried.
+Only masked prefixes are published, with no individual serial/contact/buyer
+details or personal vehicle queries.
+
+A directly inspected June 1996 newspaper classified records two LX and one
+Pickup LX vehicles, all reported as 1996 and zero kilometres. The passenger
+body and all engines are unspecified. A separate importer illustration is
+not transferred to the stock vehicles. Counts are advertised vehicles, not
+factory totals or installed component quantities. Four 820-position records
+retain unknown full original identities and counts; four coded-class fields
+and one reported-body class do not establish exact terminal factory BOMs.
+Original national delivery, gearbox, revision, options and build/VIN parts
+selection remain unresolved. Available catalogue/source searches continue.
