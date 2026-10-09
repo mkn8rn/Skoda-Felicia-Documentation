@@ -2084,3 +2084,25 @@ requirements link it. Two AEF records add separate service candidates without
 changing their original inventories. Voltage/pins/ports, mounting, control
 limits, original identifiers, quantities and equipment/build application
 remain unconfirmed. No manufacturer catalogue artwork/prose is published.
+
+
+### Undated priced packages and team conversion — 9 October 2026
+
+Thirteen explicitly priced Czech-language offers distinguish four packages
+and their written power units. Seller 1996/1998 labels, cover hatchback imagery
+and the earlier Combi programme do not assign a date, body, full engine code
+or options to each record. Only legible package equipment is confirmed at
+class level; clipped rows remain unknown and printed prices remain private
+until date/currency are established. Three source-described headliner handles
+are retained as a class count, with individual hardware/positions unresolved.
+The team-described Detzner rally construction adds one concrete competition
+record with shared intrinsic specification. Its reported registration date
+is not production/conversion history; A/F is not a complete homologation form.
+The badge/text grade discrepancy and unknown exact component identities are
+qualified. Thirteen newly named assembly/accessory positions are indexed and
+added as unknown across existing inventoried models without manufacturing
+absence or fitment inference. Source-reported conversion equipment/quantities
+are not original factory BOM confirmations. Exact original identities,
+engine/gearbox/body/options/build/VIN selectors and reconstruction remain open.
+Model/canonical-component acquisition continues; no reasonable-source-
+exhaustion or complete census claim is made.
