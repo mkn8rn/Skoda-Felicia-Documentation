@@ -2518,3 +2518,37 @@ marking has no B/M suffix, and its first tyre string retains an unexplained
 option products, complete EC variant/execution/revision maps and serial-VIN
 boundaries are not inferred. The N1 Combi is not renamed Vanplus. No personal
 vehicle identifier, account, external contact or deployment was used.
+
+
+### Croatian JOM catalogue selections — 18 October 2026
+
+CVH's public Jomologia Felicia query returned 28 entries on two result pages.
+Each full JOM and its selected grade was checked on its individual public
+detail page. There are 15 hatchback and 13 estate selections. All have
+individual pages below one country/source category with two body sections;
+existing body categories, the market and recorded-identity indexes link there.
+The main index gains only a Croatia market link, not individual entries.
+
+The catalogue distinguishes LX/GLX and LXi/GLXi packages, 40/43/50 kW 1.3,
+55 kW 1.6 and 47 kW 1.9 D selections within its stated body/year bands. Those
+bands are not verified factory production intervals. JOM includes the package
+suffix and can apply to several technically equivalent vehicles; additional
+options need not change it. It is not a factory product or EC approval code.
+No engine-code, SPI/MPI, national equipment, build/VIN or homologation mapping
+is inferred from output, trim or period. The 1994–1998 label is not proof of
+1994 Combi, AEE or AEF availability.
+
+All 835 component positions per entry remain explicit. Only catalogue engine,
+manual-gearbox and tyre descriptions are populated as types; all original
+identities, quantities and exact part-selection fields remain Unconfirmed.
+Tyre dimensions are centralized in the shared wheel/tyre article and are not
+represented as original equipment or a legally approved alternative. No new
+confirmed factory part identifier or complete terminal BOM is established.
+
+The source's four-door field is retained without redefining hatchback/estate
+bodies; its mass fields do not state their weighing basis. Dashes are unknown,
+not absence. No content is taken from the paywalled price/valuation tools;
+no login, account, credit purchase, plate or VIN was used. Technical source
+HTML and notes remain ignored. Bounded Pickup/Fun searches returned no rows;
+two Caddy 1.9 SDI leads describe enclosed vans/multipurpose bodies, not an
+identified Felicia-derived Pickup. These searches do not prove market absence.
