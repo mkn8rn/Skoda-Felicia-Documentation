@@ -2450,3 +2450,35 @@ p.54 separately names Twist and Trend but supplies no edition-specific
 configuration matrix. The period Trend/Gemini advertising search leads have
 not been directly inspected: the retrieved content endpoints were unavailable.
 Their indexed excerpts do not supply confirmed model or equipment fitment.
+
+
+### Polish Twist offers and genuine-service spring — 18 October 2026
+
+Two complete period advertisements now support separately attributed Polish
+Twist offer records, under one edition category and the existing Poland market
+group. West-Auto's March 2000 advert names an onboard computer; Auto Perfect's
+17 May 2000 advert names an outside thermometer and compares equipment with LX.
+Both name central locking, an alarm and a Blaupunkt radio. No device equivalence,
+factory/dealer installation, engine/body mapping, original quantity or option/VIN
+boundary follows. Each new offer includes 835 named positions; eight advertised
+equipment fields are populated in total, with all original identities and
+quantities unconfirmed. Two added generic display/computer positions are not a
+claim that either device was fitted to every earlier model. Existing inventories
+are unchanged; their missing display-position coverage remains open.
+
+The Baltic Digital Library remains under maintenance: a fresh verified request
+for the September 2000 Trend advert returned 404. The Mazovian archive request
+for the April 2000 dealer programme timed out. Search excerpts and later used-car
+adverts do not establish complete period engine/body/equipment combinations.
+Further focused edition/dealer/publication queries mostly repeated these sources
+or owner descriptions. Trend, Gemini and other unresolved Polish edition
+powertrains still need directly inspectable source evidence; source exhaustion
+and a complete model census are not claimed.
+
+The retained CB Auto record identifies genuine-service front spring 6U0411105D
+for a Felicia 1.3 reinforced-body/ABS description. Its separate KYB RA2056
+alternative does not supply original dimensions or factory supersession. The
+shared genuine article and recipient links now preserve that service evidence;
+no model inventory is assigned an original spring. Exact engine, gearbox,
+steering, body revision, option/build/VIN and whole-car BOM selection remain open.
+Protected sources stay local; no account, external enquiry or manual deployment.
