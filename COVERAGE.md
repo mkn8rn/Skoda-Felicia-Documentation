@@ -2630,3 +2630,37 @@ engine/equipment combinations. This does not establish source exhaustion.
 All source photographs, checks and scripts remain ignored. No original OE
 product, complete factory inventory or full option/build/VIN chain is newly
 established; the owner reconstruction objective remains open.
+
+
+### Swedish Black Magic advertisement — 18 October 2026
+
+Two original advertisement photographs establish a Swedish Black Magic
+limited-edition designation with black paint, remote central locking and an
+alarm. One offer article is linked directly from the existing market and
+named-edition indexes; no unnecessary one-child category is added. The main
+index receives only a Sweden country route. Paint-name interpretation and
+the SEK 79,900 starting price are retained in the existing shared articles.
+
+The pictured face announces an early-March introduction but has no year or
+issue imprint. The seller's Agent X9 no.7/1999 attribution is bibliographic
+context, not a confirmed configuration date. Its three black-colour slogans
+are not three paint configurations. The illustration is not a complete body,
+wheel or equipment specification. No powertrain, base grade, RSFS key, UK
+paint equivalence, Czech Magic package or original security product is inferred.
+
+Only three advertised feature fields are populated across 835 positions;
+all original identities, quantities and exact selectors remain Unconfirmed.
+Factory versus importer/dealer installation, actual paint chemistry, security
+architecture and option/build/VIN applicability remain unresolved. This adds
+no confirmed original OE identifier or complete terminal inventory.
+
+Further original price-leaflet covers, a German Combi picture spread and
+existing Czech package photographs do not establish additional combinations.
+The Polish July 1997 Combi newspaper article is retained as a lead pending
+the underlying technical publication and injection-maker attribution check.
+The official manual selector returned three Felicia PDFs. The owner manual
+has an August 1998 imprint despite its December 2000 portal grouping; that
+grouping is not a publication, configuration or production date.
+No account, payment, contact or access-control bypass was used. All source
+photos, scans, scripts and source assessments remain ignored internally.
+These bounded checks do not establish exhaustive source or model coverage.
