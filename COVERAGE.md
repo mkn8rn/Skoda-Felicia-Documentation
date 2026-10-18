@@ -2590,3 +2590,43 @@ absence, full census coverage or reasonable exhaustion of all future sources.
 The main model index, existing inventories, shared layout and parts articles
 are unchanged by this increment. Exact original BOMs and option/build/gearbox/
 VIN selection remain unresolved. Protected source scans stay ignored locally.
+
+
+### UK July/December 1999 manufacturer price-list offers — 18 October 2026
+
+The original price faces and covers, publicly photographed in two listings,
+identify six body/grade offers on 30 July 1999 and seven on 13 December 1999.
+The latter adds an LX D hatchback; missing cells do not establish production
+absence. Thirteen dated offers and eighteen advertised finish selections
+have separate records below one UK category, reached through the existing
+market and body routes. The main index and engine branches are unchanged.
+
+July's optional metallic finish and December's metallic/Black Magic wording
+are distinct. Four July offers have a metallic option. Each of the seven
+December offers has separate metallic and Black Magic selection records;
+these are included for GLXi and extra-cost for other grades. The names do
+not imply Black Magic is non-metallic or establish chemical differences.
+No base car is assumed to lack an optional finish. The original paint
+identifier, exact colour, formulation, quantity and panel/coating selection
+remain unknown. Twenty-two finish-type fields are source-scoped, with all
+31 × 835 original identities Unconfirmed.
+No engine capacity/code/output, gearbox, steering side or safety fitment is
+inferred from grade suffixes or promotional photographs. Publication dates
+are not production or chassis cutoffs. The parent offers are not exact BOM
+terminals, and finish-option children still leave engine and other options
+unresolved. Prices and their historical inclusions are centralised in the
+existing period-price article; finish identification uses the shared article.
+
+A fresh bounded Israeli model/importer-catalogue check returns the same 93
+manufacturer-676/year keys and unchanged model fields as the retained corpus.
+Its 59 accepted articles are reused; nine unassigned Combi/FELICIX leads still
+lack an independent family mapping. No duplicate records were created.
+Further UK brochure links exposed readable price faces, but the separate
+archive PDF downloads returned 403; their web-reader page counts are not
+inspected technical matrices. Other bounded country/edition searches produced
+existing sources, covers, listings or unspecific accounts, not new proved
+engine/equipment combinations. This does not establish source exhaustion.
+
+All source photographs, checks and scripts remain ignored. No original OE
+product, complete factory inventory or full option/build/VIN chain is newly
+established; the owner reconstruction objective remains open.
