@@ -2664,3 +2664,49 @@ grouping is not a publication, configuration or production date.
 No account, payment, contact or access-control bypass was used. All source
 photos, scans, scripts and source assessments remain ignored internally.
 These bounded checks do not establish exhaustive source or model coverage.
+
+
+### August 1998 manufacturer manual configurations — 18 October 2026
+
+The official manufacturer manual selector returned the original Czech Felicia
+owner manual, S53.5610.06.15, with an August 1998 back-cover imprint. Its
+December 2000 portal grouping is not a publication, model or build date.
+Twenty explicit body/engine combinations in printed pp.139–140 now have
+separate technical-selection records, under one category and the four existing
+body parents. This is the printed matrix, not a cross-product of optional
+equipment. All existing market/configuration facts remain unchanged.
+
+The records preserve each body's speed, acceleration and R84 consumption;
+the passenger 40/50/55/47 kW selections also retain the separate 93/116/EC
+figures. Pickup measurements exclude a superstructure; Vanplus seating is not
+mapped. Five source-scoped engine descriptions live centrally in engine.html.
+The 43 kW entry does not establish a carburettor or fuel-system maker.
+
+No trim, national sales application, steering side, stamped engine/gearbox
+code, safety package, option combination or production/VIN cutoff is inferred.
+The manual expressly covers varying equipment and gives precedence to the
+individual vehicle documentation. All 16,700 component positions retain Unconfirmed original identities,
+quantities and exact selections; only the twenty source-defined
+engine-class fields are populated. No full OE inventory is established.
+
+Source PDFs, permitted private renderings, field crosswalks and validation
+evidence remain ignored under docs/internal. No source imagery, table layout
+or procedure text is republished. These additions do not establish source
+exhaustion or completion of the original reconstruction objective.
+
+
+The same official manual service also supplies MS 201 radio instructions.
+One canonical manual-selection article now holds the receiver variant limits,
+electrical ratings, supply/control/speaker/changer contacts and installation
+conditions. The eight existing Family pages and three existing radio/Space
+Line records change only by links around their already sourced MS 201 name.
+Requirements retain recipient selection and the canonical link, without
+duplicating numerical component specifications.
+
+The manual explicitly limits AM instructions to WKC 3301 RDS. No universal
+MS 201/WKC hardware equivalence, Grundig programme alias, complete Škoda stock
+number, loom fitment, circuit revision, changer identity or exact factory
+installation is inferred. The Family article independently confirms the
+written radio name but not the manual-to-installed-revision mapping. Source
+connector figures remain private; the published tables independently explain
+only factual contact functions. No new OE identifier is confirmed.
