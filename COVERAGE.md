@@ -2552,3 +2552,41 @@ no login, account, credit purchase, plate or VIN was used. Technical source
 HTML and notes remain ignored. Bounded Pickup/Fun searches returned no rows;
 two Caddy 1.9 SDI leads describe enclosed vans/multipurpose bodies, not an
 identified Felicia-derived Pickup. These searches do not prove market absence.
+
+
+### Polish edition advertisements and bounded catalogue searches — 18 October 2026
+
+The original Pałuki issue of 10 November 1999, printed p.23/PDF p.22,
+confirms Grzegorz Kurek's Żnin sales outlet advertising Saga, Sport Line,
+Gemini and Color Line. The existing edition pages gain this dated Polish
+availability evidence and a route from the existing Poland editions section.
+Its separate generic 1.3/1.6 line does not map either engine or a body to any
+individual edition. Czech Color Line packages and German Sportline selections
+are not transferred to Poland; Saga's price comparison with GLX does not
+establish a GLX equipment base. No new configuration is invented from these
+unpaired edition and engine lists.
+
+The original Goniec Górnośląski issue dated 3–9 August 2000, p.1, identifies
+the authorised Katowice dealer PH Piotr Śliwka's Felicia Trend advertisement.
+One dated offer article is linked directly from named editions and Poland,
+without an unnecessary one-child category. No body/powertrain/equipment
+selection follows from the illustration or general equipment slogan. All
+835 position types, original identities, quantities and physical selectors
+remain Unconfirmed. The old insurance-expiry fine print is not a production,
+availability or edition launch boundary. No original part is newly confirmed.
+
+The directly fetched Danish motor-archive catalogue lists further period
+brochures, but its five linked Felicia PDFs contain only one cover page each,
+not the full brochures described by the holdings metadata. No specification
+matrix is published from those cover photographs. Finnish Arto's 1996 test
+series record is bibliographic evidence only. The Belgian ABS leaflet listing
+is gone; Icelandic archive access returned a challenge/403 and was not bypassed.
+The Mazovian 21 September 1999 newspaper fetch timed out again, while Baltic
+Digital Library content endpoints remain unavailable. Their indexed excerpts
+and later private used-car advertisements are leads, not confirmed factory
+equipment or edition-engine mappings. These bounded searches do not establish
+absence, full census coverage or reasonable exhaustion of all future sources.
+
+The main model index, existing inventories, shared layout and parts articles
+are unchanged by this increment. Exact original BOMs and option/build/gearbox/
+VIN selection remain unresolved. Protected source scans stay ignored locally.
