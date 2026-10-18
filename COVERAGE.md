@@ -2482,3 +2482,39 @@ shared genuine article and recipient links now preserve that service evidence;
 no model inventory is assigned an original spring. Exact engine, gearbox,
 steering, body revision, option/build/VIN and whole-car BOM selection remain open.
 Protected sources stay local; no account, external enquiry or manual deployment.
+
+
+### Danish type E approval records — 18 October 2026
+
+The official public make/model lookup was queried for Skoda in passenger M1
+and commercial N1 classes. It returned A7408/E8749 (Felicia), A7571/E8748
+(passenger Combi), E9158 (Fun), A7693 (commercial Combi) and A8019 (Pick-up).
+All seven two-page documents were downloaded through the normal public
+approval-number form and inspected, including every relevant table image.
+Their 31 explicitly numbered variants now have individual pages, reached
+through one Danish category and the existing body/engine branches. The main
+model index is unchanged. This is the returned national-record set, not proof
+of every Danish sale or of absence of other historic records.
+
+The consulted editions distinguish original issue from later reprint dates,
+model-year-1998 selections, expressly production-from-July-1999 entries in
+E8748/E8749, the less specific July-1999 labels in A7693, and A8019's explicit
+1.3 ABS/no-ABS distinction. No end date is invented for open-ended selections.
+All include unconfirmed physical component identifiers, quantities and exact
+part-selection limits. Approval equipment is not promoted to universal market
+fitment. No exact OE terminal or new original product number is established.
+
+Brake dimensions and source-specific ABS/regulator selections, wheel/tyre
+alternatives and VIN field recognition are centralized in the existing
+technical articles. The original FIA/TÜV/Swiss facts remain unchanged. No
+source layout, diagram, imagery or protected expression is copied. Sources,
+renderings, acquisition metadata and claim crosswalks remain ignored locally.
+
+Unresolved source fields remain explicit: A7408 variant 5 lacks an aligned
+speed value (an isolated 160 is misplaced in another column); A7693's third
+wheel column has transposed rim/application headings. A8019's 136 engine
+marking has no B/M suffix, and its first tyre string retains an unexplained
+83 suffix. Unknown seats, height, gearbox products, steering, national grades,
+option products, complete EC variant/execution/revision maps and serial-VIN
+boundaries are not inferred. The N1 Combi is not renamed Vanplus. No personal
+vehicle identifier, account, external contact or deployment was used.
