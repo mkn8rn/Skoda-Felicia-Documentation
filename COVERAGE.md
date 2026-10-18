@@ -2710,3 +2710,39 @@ installation is inferred. The Family article independently confirms the
 written radio name but not the manual-to-installed-revision mapping. Source
 connector figures remain private; the published tables independently explain
 only factual contact functions. No new OE identifier is confirmed.
+
+
+### Casablanca operating-manual evidence — 18 October 2026
+
+The manufacturer-hosted Casablanca manual adds a source-scoped section to
+the existing accessory article; no second Casablanca product article is
+created. Its illustrated receiver name, KeyCard identification method,
+separate sine/music output ratings, sensitivity and audio responses are
+documented in original wording. The printed manual does not identify
+AAB 035 030 or a complete Blaupunkt revision. Its FM bandwidth and Dolby B
+description remain distinct from the accessory catalogue's bandwidth and
+Dolby B/C wording; no common revision or corrective specification is inferred.
+
+CDC-A05 has one canonical named-device record and reciprocal receiver and
+recipient-requirements links. The manual establishes control compatibility,
+not original vehicle installation, a complete accessory kit, a stock number,
+disc capacity or power/control cable and mounting selection. No model's
+original inventory is populated from this relationship. The original-parts
+index carries only the qualified component route; no third parts index exists.
+
+The PDF and renderings remain private. Its December 2000 portal grouping is
+not a publication or vehicle fitment date. A separate shared CDC-A04/A05
+service-manual reader was a lead only: ambiguous cover OCR and direct HTTP
+403 were not used to assign a product number or bypass access controls.
+No full OE identity, vehicle BOM or complete model census is established.
+
+The MS 201 and Casablanca manual-component routes sit under general
+electrical equipment. No manual revision is filed as a model-year 1999
+installation or used to establish a dated original application.
+
+Body-category navigation now groups Pickup and Vanplus market, approval,
+recorded-identity and conversion branches. Hatchback/Combi manual routes are
+nested within their manufacturer-programme entries; Danish Combi variants
+sit under homologation. Existing article paragraphs, tables, citations,
+configuration destinations and legacy fragments are preserved. This
+organization does not create a grade-to-approval or original-parts mapping.
